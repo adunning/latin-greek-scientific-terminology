@@ -1,0 +1,3 @@
+Articles are cited with a digital object identifier (DOI), a permanent locator for a digital resource. These can be used to access the work directly via the DOI resolver at <http://dx.doi.org.myaccess.library.utoronto.ca/>: either visit this address and enter the identifier into the form provided, or append the identifier to the address. For example, @davis:2014naming can be accessed at <http://dx.doi.org.myaccess.library.utoronto.ca/10.1002/ca.22345>, which will send you to the full article using the library’s subscription.
+
+If you are asked to pay for any of these articles, the site is likely not recognizing you as accessing it through the university; check that the address you are visiting includes `.myaccess.library.utoronto.ca` after the host name.
