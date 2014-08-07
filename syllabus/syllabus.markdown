@@ -1,11 +1,12 @@
 ---
 title: Latin and Greek in Scientific Terminology
-subtitle: \textsc{cla201h5}
-bibliography: bibliography.json
-geometry: top=2cm, bottom=2cm, left=5cm, right=5cm
-...
+subtitle: CLA201H5S
+bibliography: bibliography-syllabus.json
+csl: chicago-author-date.csl
+template: classicthesis.latex
+---
 
-<!-- To compile: pandoc -o syllabus.pdf -F pandoc-citeproc --csl ~/.csl/chicago-author-date.csl --latex-engine=xelatex -->
+<!-- To create PDF: pandoc syllabus.markdown -o syllabus.pdf -F pandoc-citeproc -->
 
 #### Classes
 Tuesdays/Thursdays, 8 July–14 August 2014, 10:00 am–1:00 pm
@@ -103,12 +104,12 @@ Also in the library's reference collection, @liddell:1996greek and @lewis:1879la
 #### Read
 @džuganová:2013english, explaining current approaches to terminology; @marečková:2002latin, on the future of Latin in the sciences
 
-<!-- Chapters 7, 8, 9, 10 -->
+<!-- Chapters 7–10 -->
 
 ### 4. Thursday, 17 July
 - Greek Plurals, Diminutives, and Verb-Forming Suffixes
 
-<!-- Chapters 11, 12, 13 -->
+<!-- Chapters 11–14 -->
 
 #### Read
 @soutis:2006ancient, discussing Greek words used in paediatric surgery
@@ -120,7 +121,7 @@ Also in the library's reference collection, @liddell:1996greek and @lewis:1879la
 #### Read
 @dirckx:2006anatomical, on the origins of words used in anatomy; @kachlík:2008anatomical, describing the standardization of terminology
 
-<!-- Chapters 14, 15, 16 -->
+<!-- Chapters 15–18 -->
 
 ### 6. Thursday, 24 July
 - **Test I**
@@ -129,19 +130,19 @@ Also in the library's reference collection, @liddell:1996greek and @lewis:1879la
 #### Read
 @paluzzi:2012retracing, on terms used in neuroanatomy
 
-<!-- Chapters 17, 18, 19, 20 -->
+<!-- Chapters 19–20 -->
 
 ## Part II: Scientific terms from Latin
 
 ### 7. Tuesday, 29 July
 - *Guest Lecture:* Scientific Communication and Peer Review (Vanessa Kitchin, University of Toronto Libraries)
-- Latin Prefixes and Stems
 - Hybrid Words
+- Latin Prefixes and Stems
 
 #### Read
 @garner:2014case, on using scientific terminology to track plagiarism; @dirckx:1977hybrid, on the combination of Greek and Latin in a single word
 
-<!-- Chapters 21, 22, 23 -->
+<!-- Chapters 21–23 -->
 
 ### 8. Thursday, 31 July
 - Latin Suffixes I
@@ -150,9 +151,9 @@ Also in the library's reference collection, @liddell:1996greek and @lewis:1879la
 #### Read
 @džuganová:2006negative, on prefixes and suffixes with a negative meaning; @dirckx:2007isidore, a medieval approach to etymology
 
-<!-- Chapters 24, 25, 26, 27, 28 -->
+<!-- Chapters 24–26 -->
 
-<!-- Drop date is 4 August 2014, which is also the Civic Holiday. 15% of student work must be returned by this date. -->
+<!-- 27 July 2014. Drop date is 4 August 2014, which is also the Civic Holiday. 15% of student work must be returned by this date. -->
 
 ### 9. Tuesday, 5 August
 - Latin Suffixes II
@@ -161,17 +162,18 @@ Also in the library's reference collection, @liddell:1996greek and @lewis:1879la
 #### Read
 @ivanová:2001anatomic, discussing terminology reform by Vesalius; @musil:2014history, effects of early-modern scholarship on the nomenclature of the human skeletal muscles
 
-<!-- Chapters 29, 30, 31, 32, 33, 34 -->
+<!-- Chapters 27–30 -->
 
 ### 10. Thursday, 7 August
 - **Test II**
+- Latin Suffixes III
 - Latin Nouns
 - Latin Declensions and Plurals
 
 #### Read
 @dirckx:1981description, plurals of Latin nouns and adjectives
 
-<!--  (Chapters 35, 36, 37 -->
+<!--  Chapters 31–33 -->
 
 ### 11. Tuesday, 12 August
 - Latin Nouns II
@@ -179,7 +181,7 @@ Also in the library's reference collection, @liddell:1996greek and @lewis:1879la
 #### Read
 @davis:2014naming, on the etymology of the cranial nerves
 
-<!-- Chapters 38, 39, 40 -->
+<!-- Chapters 34–37  -->
 
 ### 12. Thursday, 14 August
 - **In-Depth Analysis of Article Vocabulary Due**
@@ -189,6 +191,8 @@ Also in the library's reference collection, @liddell:1996greek and @lewis:1879la
 #### Read
 @arroyo:2013scientific, on scientific terminology in advertising
 
+<!-- Chapters 38–40 -->
+
 ## Final exam: To be announced
 
 # Questions
@@ -197,7 +201,7 @@ You may direct any questions or concerns about the lectures or assignments to th
 
 # Missed and late assignments or tests
 
-Tests and assignments may be excused only in cases of medical or personal emergencies. Within one week of the event, absences must be reported online through ROSI, and in addition to notifying me via email. The weight of the excused test or assignment will be added to the weight of the next such item on the schedule. Pre-lecture analyses of article vocabulary may be excused, but not handed in late. The in-depth analysis of article vocabulary will only be accepted after the deadline with prior permission (which must be requested at least two days in advance via email).
+Tests and assignments may be excused only in cases of medical or personal emergencies. Within three days of the event, absences must be reported online through ROSI, in addition to notifying me via email. The weight of the excused test or assignment will be added to the weight of the next such item on the schedule. Pre-lecture analyses of article vocabulary may be excused, but not handed in late. The in-depth analysis of article vocabulary will only be accepted after the deadline with prior permission (which must be requested at least two days in advance via email).
 
 # Academic integrity
 

@@ -1,0 +1,12 @@
+# Site settings
+title: Greek and Latin in Scientific Terminology
+email: andrew.dunning@utoronto.ca
+description: "Course materials for CLA201, taught by Andrew Dunning at the University of Toronto, Mississauga."
+baseurl: ""
+url: "http://adunning.github.io/greek-latin-scientific-terminology"
+twitter_username: anjdunning
+github_username:  adunning
+
+# Build settings
+markdown: kramdown
+permalink: pretty
