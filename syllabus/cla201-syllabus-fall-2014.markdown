@@ -24,7 +24,7 @@ Thursdays during term, 2:00–3:00 pm, [NE](http://map.utoronto.ca/utm/building/
 TBA
 
 #### Course Website
-TBA
+<http://adunning.github.io/latin-greek-scientific-terminology>
 
 # Course description
 
@@ -167,7 +167,7 @@ You may wish to make use of two books on reserve at the UTM Library: @ayers:1972
 - Latin Prefixes and Stems
 
 #### Read
-@garner:2014case, on using scientific terminology to track plagiarism; @dirckx:1977hybrid, on the combination of Greek and Latin in a single word; @dirckx:1988latin and @dirckx:1990more, a list of Latin words in current usage
+@garner:2014case, on using scientific terminology to track plagiarism; @dirckx:1977hybrid, on the combination of Greek and Latin in a single word; Dirckx [-@dirckx:1988latin; -@dirckx:1990more], a list of Latin words in current usage
 
 <!-- Chapters 21–23 -->
 

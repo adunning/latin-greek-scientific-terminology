@@ -5,38 +5,78 @@ author: Andrew Dunning
 revealjs-url: ../javascripts/reveal.js
 ---
 
-## # Declensions
+# Final Exam
+
+## Next Thursday, 20 August
+
+- Cumulative: all Greek and Latin vocabulary is fair game.
+- Will also include Greek transliteration (i.e. rewriting words in the Greek alphabet into Roman characters, as in the first test).
+
+## Structure
+
+1. Analyse (multiple choice): 5 marks
+2. Transliterate (Greek to Roman alphabet): 10 marks
+3. Define (definitions of Greek/Latin stems)
+    a. Greek: 50 marks
+    b. Latin: 50 Marks
+4. Dissect (breaking down English words into Greek/Latin stems and providing defintitions): 58 marks
+5. Read (pick Latin/Greek words out of an article, break them down, and give definitions for stems): 20 marks
+6. Translate (construct an English word out of definitions of stems): 22 marks
+
+# Declensions
+
+## Inflection
 - Inflection is the changing of a word’s form to reflect its grammatical role in a sentence.
 - Like Greek, Latin is a highly inflected language. The form of a word can vary based on gender, number and case (nouns and adjectives) or on person, number, tense and mood (verbs).
 - We will learn how how to decline some Latin nouns and adjectives in two out of six cases.
 
----
-
+## Cases
 - The nominative case is used for the subject of a sentence. This is the a word’s dictionary form.
 - The genitive case is used for a word that depends on another. It can usually be translated using the word ‘of’.
 - Each case also has singular and plural forms. For example:
     - lingua (nom. sing.) = ‘tongue’
     - linguae (nom. plur.) = ‘tongues’
-    - linguae (gen. sing.) = ‘of the tongues’
+    - linguae (gen. sing.) = ‘of the tongue’
     - linguarum (gen. plur.) = ‘of the tongues’
 
----
-
+## Genders
 - In Latin, nouns are masculine, feminine or neuter. For our purposes, you can always infer the gender of a noun from its ending (though in fact real Latin is not so regular).
 - The first declension is made up of words ending in ‘-a’, which are nearly always feminine.
 - The second declension is made up of words ending in ‘-us’, which are nearly always masculine, and words ending in ‘-um’, which are neuter.
 
-## The first declension
+## First declension
 
-## The second declension
+| 	         |   Singular    	    | Plural                |
+| -----------|----------------------|-----------------------|
+| Nominative |	-a (e.g. lingua)	| -ae (e.g. linguae) |
+| Genitive   |	-ae (e.g. linguae)  | -arum (e.g. linguarum) |
+
+## Second declension (masculine)
+
+| 	         |   Singular    	    | Plural                |
+| -----------|----------------------|-----------------------|
+| Nominative |	-us (e.g. nervus)	| -i (e.g. nervi) |
+| Genitive   |	-i (e.g. nervi)  | -orum (e.g. nervorum) |
+
+## Second declension (neuter)
+
+| 	         |   Singular    	    | Plural                |
+| -----------|----------------------|-----------------------|
+| Nominative |	-um (e.g. labium)	| -a (e.g. labia) |
+| Genitive   |	-i (e.g. labii)  | -orum (e.g. labiorum) |
+
+---
 
 - Thus *arcus costarum* is ‘arch of the ribs’ and *venae oculi* is ‘the veins of the eye’
-- NB: Latin has neither the definite (‘the’) nor the indefinite (‘a/an’) article. Therefore vena may be translated as ‘vein’, ‘a vein’ or ‘the vein’, whichever seems appropriate.
+- NB: Latin has neither the definite (‘the’) nor the indefinite (‘a/an’) article. Therefore *vena* may be translated as ‘vein’, ‘a vein’ or ‘the vein’, whichever seems appropriate.
+
+## Adjectives
+
 - Latin adjectives must agree in gender (masculine, feminine or neuter), number (plural or singular) and case with the adjectives they modify. In real Latin, adjectives can be placed almost anywhere in a sentence, but in scientific expressions they usually follow the noun the modify.
 - The adjectives you will see belong to a group that takes the endings of the first or the second declension, as longus, -a, -um
 - Thus we could have *nervus longus, lingua longa,* or *labium longum.*
 
-# Phrases
+# Example Phrases
 
 ## *camera oculi*
 - chamber of the eye
@@ -149,6 +189,53 @@ revealjs-url: ../javascripts/reveal.js
 - ‘belly’ (*venter*)
 - VENTRI-LOQU-ism; VENTR-icle, a cavity or chamber, as of the heart or brain; BI-VENTR-al, applies to muscles of the biventer type (= digastric, each of a pair of muscles which run under the jaw and act to open it, from GAST- ‘belly’ because the muscle has two fleshy parts or ‘bellies’ at an angle, connected by a tendon)
 
+# The Heart (καρδία/cor, cordis)
+
+---
+
+![Diagram of the Human Heart](../images/600px-Diagram_of_the_human_heart_(cropped).svg.png)
+
+## Vena Cava
+
+> - Latin phrase: 'hollow vein’
+- Came into English in the 16th century.
+
+## Pulmonary
+
+> - Latin *pulmonarius*, from *pulmo, pulmon-* ‘lung’
+- 17th cent.
+
+## Tricuspid
+
+> - *tri-* ‘three’ + *cuspis, cuspid-* ‘cusp’, 'point'
+- 17th cent.
+
+## Atrium
+
+> - Latin: a reception hall in a Roman house
+- 16th cent.
+
+## Ventricle
+
+> - Latin *ventriculus*, diminutive of *venter* ‘belly’
+- late Middle English
+
+## Aorta
+
+> - Greek *aortē*, from *aeirein* ‘raise’
+- 16th cent.: used in the plural by Hippocrates for the branches of the windpipe, and by Aristotle for the great artery
+
+## Mitral
+
+> - *mitralis*, from Latin *mitra* 'mitre' (a tall headdress worn by bishops); Greek Greek *mitra* ‘belt or turban’
+- 17th cent.
+
+## Poetic Usage
+
+- Our use of the word 'heart' to refer to emotion comes from Greek/Latin usage, and in ancient usage was more than merely figurative.
+- Galen appears to have been one of the earliest authors to use the term in opposition to the mind (as the seat of reason).
+    - Discussed in the programme [*Heart vs Mind: What Makes Us Human*](https://www.youtube.com/watch?v=6bH8gQezrws#t=7m25s) (starting around 7m25s).
+
 # Counting in Latin
 
 ## SEMI-
@@ -227,6 +314,8 @@ revealjs-url: ../javascripts/reveal.js
 - ‘ten’; DEC-, DECIM-, ‘tenth’
 - DECIM-ate; DECI-LITRE, one-tenth of a litre; DECEM-FID, cleft into ten parts
 
+## But what about the months of the year?
+
 ## CENT-
 - ‘hundred’, ‘hundredth’
 - CEN-ENN-ial; CENT-uri-on; CENTI-PEDE, elongated segmented arthropods with many legs; CENTI-metre, one-hundredth of a metre
@@ -234,6 +323,40 @@ revealjs-url: ../javascripts/reveal.js
 ## MIL(L)-
 - ‘thousand’, ‘thousandth’
 - MILL-ENN-ium; MILLI-PEDE, myriopods constituting the the class Diplopoda having numerous segments and legs; MILLI-metre, one-thousandth of a metre
+
+# Greek and Latin in the Metric System
+
+## Original Metric Prefixes
+
+| Text   |         Factor | Derivation       |
+|--------|---------------:|------------------|
+| myria  |          10000 | Greek, ‘10,000’  |
+| kilo   |           1000 | Greek, ‘thousand’|
+| hecto  |            100 | Greek, ‘hundred’ |
+| deca   |             10 | Greek, ‘ten’     |
+|(*none*)|              1 |                  |
+| deci   |            0.1 | Latin, ‘tenth’   |
+| centi  |           0.01 | Latin, ‘hundred’ |
+| milli  |          0.001 | Latin, ‘thousand’|
+
+---
+
+| Text   |         Factor | Derivation       |
+|--------|---------------:|------------------|
+| tera   |  1000000000000 | Greek, 'monster' |
+| giga   |     1000000000 | Greek, ‘giant’   |
+| mega   |        1000000 | Greek, ‘great’   |
+| kilo   |           1000 | Greek, ‘thousand’|
+| hecto  |            100 | Greek, ‘hundred’ |
+| deca   |             10 | Greek, ‘ten’     |
+|(*none*)|              1 |                  |
+| deci   |            0.1 | Latin, ‘tenth’   |
+| centi  |           0.01 | Latin, ‘hundred’ |
+| milli  |          0.001 | Latin, ‘thousand’|
+| micro  |       0.000001 | Greek, ‘small’   |
+| nano   |    0.000000001 | Greek, ‘dwarf’   |
+| pico   | 0.000000000001 | Spanish, ‘little bit’ |
+
 
 # Roots, Part II
 

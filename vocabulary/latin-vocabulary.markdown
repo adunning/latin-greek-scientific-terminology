@@ -195,7 +195,7 @@ RUG-
 
 SANGUI(N)-
 :   ‘blood’ (*sanguis*)
-:   SANGU-ine; SANGUI-MOT-or, of or relating to the circulation of blood; con-SANGIN-eous, related by birth or blood
+:   SANGU-ine; SANGUI-MOT-or, of or relating to the circulation of blood; con-SANGUIN-eous, related by birth or blood
 
 SICC-
 :   ‘dry’ (*siccus*)
@@ -970,9 +970,9 @@ FIBR-
 :   ‘fibre’ (*fibra*)
 :   FIBR-il, a component filament of a fibre, as of a muscle or a nerve; FIBR-in, the fibrous, insoluble protein in the network involved in blood clotting
 
-FOLL-
+FOLL(I)-
 :   ‘bag’ (*follis*)
-:   FOLLI-icle, a capsular fruit which opens on one side only, or a cavity or sheath (as an ovarian or hair follicle), or a small secretory cavity or sac (as an acinus or alveolus); peri-FOLL-icul-ar, surrounding a follicle
+:   FOLLI-cle, a capsular fruit which opens on one side only, or a cavity or sheath (as an ovarian or hair follicle), or a small secretory cavity or sac (as an acinus or alveolus); peri-FOLLI-cul-ar, surrounding a follicle
 
 FUN-
 :   ‘rope’, ‘cord’ (*funis*)
@@ -1123,7 +1123,7 @@ Based on Ayers (1972), chapters 31–33.
 :   actor, motor, victor, incisor
 
 -ion
-:   ‘act of’, ‘state of’, ‘result of the of’ (*-io*)
+:   ‘act of’, ‘state of’, ‘result of the act of’ (*-io*)
 :   action, commotion, incision
 
 -ure

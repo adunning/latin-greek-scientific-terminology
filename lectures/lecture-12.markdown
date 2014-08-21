@@ -5,6 +5,77 @@ author: Andrew Dunning
 revealjs-url: ../javascripts/reveal.js
 ---
 
+# The Third Declension (redux)
+
+## Case Review
+
+- Nominative case: used to indicate the *subject* of a sentence.
+- Accusative case: used to indicate the *object* of a sentence.
+- Genitive case: used to indicate possession or close association.
+
+## Odd Things in the Third Declension
+
+- Often a significant difference between the nominative singular and the root that we end up with in English.
+- Ending for the nominative singular is inconsistent.
+- Often impossible to guess the gender by looking at the ending of the word.
+
+## Masculine and Feminine Nouns
+
+| 	         |   Singular    	    | Plural                |
+| -----------|----------------------|-----------------------|
+| Nominative |	— (e.g. radix)  	| -es (e.g. radices)     |
+| Genitive   |	-is (e.g. radicis)  | -um (-ium) (e.g. radicium)   |
+
+
+## Neuter Nouns
+
+| 	         |   Singular    	    | Plural                |
+| -----------|----------------------|-----------------------|
+| Nominative |	— (e.g. foramen)    | -a (-ia) (e.g. foramina)     |
+| Genitive   |	-is (e.g. foraminis)| -um (-ium) (e.g. foraminum)   |
+
+
+## Adjectives
+
+|                | Masc. and Fem. | Neuter   | Masc. and Fem. | Neuter |
+|----------------|----------|----------------|--------|------|
+|                | singular     |             | plural    |     |
+| nom.           | -is (e.g. dorsalis)     | -e (e.g. dorsale)            | -es (e.g. dorsales)   | -ia (e.g. dorsalia)  |
+| gen.           | -is (e.g. dorsalis)      | -is (e.g. doralis)           | -ium (e.g. dorsalium)   | -ium (e.g. dorsalium) |
+
+## adductor brevis
+
+## ductus semicircularos
+
+## filum terminale
+
+## os terminale
+
+## incisura anterior auris
+
+## cornu inferius
+
+## musculi subcostales
+
+## arteriae recurrentes
+
+## digitus annularis
+
+## nervus abducens
+
+## foramen occipale magnum
+
+## venae comitantes
+
+## arteria dorsalis
+
+## fissura longitudinalis cerebri
+
+## musculus cervicalis ascendens
+
+## musculi intercostales externi
+
+
 # Roots, Part I
 
 ## FACI-, (-FICI-)
@@ -87,6 +158,41 @@ revealjs-url: ../javascripts/reveal.js
 - ‘to tear’
 - a-VULS-ion, the forcible tearing or wrenching away of a part, as a polyp or a limb; re-VULS-ion, the drawing, by irritation, of blood from a distant part of the body
 
+# The Fourth Declension
+
+## Fourth Declension: Masculine
+
+| 	         |   Singular    	    | Plural                |
+| -----------|----------------------|-----------------------|
+| Nominative |	-us (e.g. ductus)	| -us (e.g. ductus)     |
+| Genitive   |	-us (e.g. ductuum)  | -uum (e.g. ductuum)   |
+
+
+## Fourth Declension: Neuter
+
+| 	         |   Singular    	    | Plural                |
+| -----------|----------------------|-----------------------|
+| Nominative |	-u (e.g. cornu)	| -ua (e.g. cornua)     |
+| Genitive   |	-us *or* -u (e.g. cornu[s])  | -uum (e.g. cornuum)   |
+
+## ductus lacrimales
+
+## ligamenta collateralia articulationum digitorum manus
+
+## genu internum radicis nervi (facialis)
+
+## septum sinuum (frontalium)
+
+## arteria genu (suprema)
+
+## ligamenta (cruciata) genu
+
+## processus articulares
+
+## apertura externa aqueductus vestibuli
+
+## cervix cornu
+
 # Roots, Part II
 
 ## ALVEOL-
@@ -148,6 +254,22 @@ revealjs-url: ../javascripts/reveal.js
 ## UNC-, UNCIN-
 - 'hook' (*uncus; uncinus*)
 - ad-UNC-ate, crooked; bent in the form of a hook; UNCI-form, shaped like a hook or barb; UNCI-FER-ous, bearing hooks or hook-like processes; UNCIN-ula, a genus of mildew with hooked appendages
+
+# The Fifth Declension
+
+## The Fifth Declension
+
+| 	         |   Singular    	    | Plural                |
+| -----------|----------------------|-----------------------|
+| Nominative |	-es (e.g. scabies)	| -es (e.g. scabies)     |
+| Genitive   |	-ei *or* -u (e.g. scabiei)  | -erum (e.g. scabierum)   |
+
+## facies dorsalis
+
+## arteria transversa faciei
+
+## facies articulares inferiores
+
 
 # Roots, Part III
 

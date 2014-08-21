@@ -896,7 +896,7 @@ IDI-
 
 IS-
 :   ‘equal’, ‘same’
-:   ISO-ZO-ic, inhabited by similar forms of life; ISO-METR-ic, pertaining to equality of measure
+:   ISO-ZO-ic, inhabited by similar forms of life; ISO-metr-ic, pertaining to equality of measure
 
 LAL-
 :   ‘to talk’
@@ -1636,7 +1636,7 @@ LYMPH-
 
 MIT-
 :   ‘thread’
-:   MITO-sis, indirect or karyokinetic cell division, with chromosome formation, etc.; MITO-GENE-sis, formation as a result of mitosis
+:   MITO-sis, indirect or karyokinetic cell division, with chromosome formation, etc.; MITO-GENE-sis, formation as a result of mitosis; MITO-CHONDR-ion, an organelle found in large numbers in most cells
 
 ORNIS-, ORNITH-
 :   ‘bird’
@@ -1910,8 +1910,7 @@ POIKIL-
 
 PYCN-, PYKN-
 :   ‘thick’, ‘frequent’
-
-PYCNO-meter, instrument for determining the specific gravity of fluids
+:   PYCNO-meter, instrument for determining the specific gravity of fluids
 
 PYL(E)-
 :   ‘gate’, ‘entrance’
