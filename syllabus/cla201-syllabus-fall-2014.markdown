@@ -45,9 +45,8 @@ Assessment is based on a series of tests, in which you will demonstrate your kno
 
 - Test I (16 October): 20%
 - Test II (20 November): 20%
-- Vocabulary Presentation: 10%
-- Pre-Lecture Analyses of Article Vocabulary: 5%
-- In-Depth Analysis of Article Vocabulary (due 27 November): 10%
+- Weekly Vocabulary Assignments (due the night before each class): 10%
+- Vocabulary Analysis Paper (due 27 November): 15%
 - Final Exam: 35%
 
 No late assignments will be accepted without advance permission from the instructor.
@@ -55,10 +54,6 @@ No late assignments will be accepted without advance permission from the instruc
 ## Tests and final exam
 
 Two general etymology tests will be given over the course of the term, in which you will analyse a set of words and give the meanings of their elements. The vocabulary for these tests will be drawn entirely from the vocabulary list distributed to the class. The final exam (cumulative) will combine these elements with discussions of terminology in passages from scientific articles, and short-answer questions on the historical development of scientific terminology.
-
-## Vocabulary presentation
-
-Each student will be given seven minutes to present part of the vocabulary list to the class, on a date determined at the beginning of the course. For the Latin or Greek prefixes, suffixes, or roots you are given, you will discuss uses of the elements in English scientific vocabulary and, where applicable, in everyday language, with the aim of providing the class with methods of remembering the words in question.
 
 ## Pre-lecture analyses of article vocabulary
 
