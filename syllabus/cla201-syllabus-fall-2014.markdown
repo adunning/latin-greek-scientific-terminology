@@ -1,29 +1,29 @@
 ---
 title: Latin and Greek in Scientific Terminology
-subtitle: CLA201H5F
+subtitle: <span style="font-variant:small-caps;">cla201h5f</span>
 csl: chicago-author-date.csl
 template: classicthesis.latex
 geometry: left=5cm, top=2cm, right=5cm, bottom=3cm
 ---
 
-<!-- To create PDF: pandoc syllabus.markdown -o syllabus.pdf -F pandoc-citeproc -->
+<!-- To create PDF: pandoc cla201-syllabus-fall-2014.markdown -F pandoc-zotxt -F pandoc-citeproc -o cla201-syllabus-fall-2014.pdf -->
 
 #### Classes
-Thursdays, 11 September–27 November 2014, 3:00–6:00 pm
+Thursdays, 11 September–27 November 2014, 3:00–6:00 <span style="font-variant:small-caps;">pm</span>
 
 #### Location
-[IB](http://map.utoronto.ca/utm/building/334) 345
+[<span style="font-variant:small-caps;">ib</span>](http://map.utoronto.ca/utm/building/334) 345
 
 #### Instructor
 Andrew Dunning, <andrew.dunning@utoronto.ca>
 
 #### Office Hours
-Thursdays during term, 2:00–3:00 pm, [NE](http://map.utoronto.ca/utm/building/311) 272A
+Thursdays during term, 2:00–3:00 <span style="font-variant:small-caps;">pm</span>, [<span style="font-variant:small-caps;">ne</span>](http://map.utoronto.ca/utm/building/311) 272A
 
 #### Teaching Assistant
-TBA
+Jay Gearey, <jay.gearey@utoronto.ca>
 
-#### Course Website
+#### Website
 <http://adunning.github.io/latin-greek-scientific-terminology>
 
 # Course description
@@ -73,13 +73,13 @@ Academic integrity is fundamental to learning and scholarship; for a recent exam
 
 # Accessibility
 
-Students with diverse learning styles and needs are welcome in this course. If you have a disability or health consideration that may require accommodations, please feel free to approach me and/or the [AccessAbility Resource Centre](http://www.utm.utoronto.ca/accessability/) as soon as possible. AccessAbility staff (located in [DV](http://map.utoronto.ca/utm/building/313) 2047) are available by appointment to assess specific needs, provide referrals and arrange appropriate accommodations. The sooner you let us know your needs, the quicker we can assist you in achieving your learning goals in this course.
+Students with diverse learning styles and needs are welcome in this course. If you have a disability or health consideration that may require accommodations, please feel free to approach me and/or the [AccessAbility Resource Centre](http://www.utm.utoronto.ca/accessability/) as soon as possible. AccessAbility staff (located in [<span style="font-variant:small-caps;">dv</span>](http://map.utoronto.ca/utm/building/313) 2047) are available by appointment to assess specific needs, provide referrals and arrange appropriate accommodations. The sooner you let us know your needs, the quicker we can assist you in achieving your learning goals in this course.
 
 The [Robert Gillespie Academic Skills Centre](http://www.utm.utoronto.ca/asc/undergraduate-students) is also available to all students, and offers a full range of workshops, seminars and individual consultations.
 
 # Questions
 
-You may direct any questions or concerns about the lectures or assignments to the instructor either via email or during office hours. Please ensure that the course code (CLA201) is included in the subject line, and that you sign your message with your full name. I will respond to all messages within 48 hours.
+You may direct any questions or concerns about the lectures or assignments to the instructor either via email or during office hours. Please ensure that the course code (<span style="font-variant:small-caps;">cla201h5f</span>) is included in the subject line, and that you sign your message with your full name. I will respond to all messages within 48 hours.
 
 \pagebreak
 
@@ -87,11 +87,11 @@ You may direct any questions or concerns about the lectures or assignments to th
 
 There is no required textbook for this course. All readings are available as PDFs through the Learning Portal; these supplement the lectures by providing historical background on the development of scientific terminology and some points of grammar. Questions based on these readings will appear on the tests and final exam.
 
-We will make extensive use of the etymologies found in English and technical dictionaries. The [*Oxford English Dictionary*](http://www.oed.com.myaccess.library.utoronto.ca) is excellent, but often more detailed than what you strictly need for this course. For quick reference, I would recommend @stevenson:2010oxford, available online through [Oxford Dictionaries](http://www.oxforddictionaries.com) with recordings of pronunciation (also included with Mac OS X). @venes:2013taber is an excellent medical dictionary available in the library's reference collection (and, in theory, [available online through the library](http://lib.myilibrary.com.myaccess.library.utoronto.ca/Open.aspx?id=214017), but the format is very difficult to use). These titles are available for purchase through the bookstore.
+We will make extensive use of the etymologies found in English and technical dictionaries. The [*Oxford English Dictionary*](http://www.oed.com.myaccess.library.utoronto.ca) is excellent, but often more detailed than what you strictly need for this course. For quick reference, I would recommend @stevenson:2010oxford, available online through [Oxford Dictionaries](http://www.oxforddictionaries.com) with recordings of pronunciation (also included with Mac OS X). @venes:2013taber and @stegman:2006stedmans are excellent medical dictionaries with etymologies available in the library's reference collection and online, while @senning:2007elsevier (in reference) is useful for understanding the etymology of chemical names.
 
 Classical dictionaries are necessary to fill in the details for more obscure terms. Available online through [Logeion](http://logeion.uchicago.edu), [Perseus](http://www.perseus.tufts.edu/hopper/morph), and various other sources are two of the most comprehensive dictionaries of Greek and Latin, respectively: @liddell:1940greek – for which a 1996 supplement is available in print – and @lewis:1879latin. Also available in the library's reference collection is @glare:1982oxford, a more recent Latin dictionary.
 
-You may wish to make use of two books on reserve at the UTM Library: @ayers:1972bioscientific is the source for most of this course's vocabulary and structure for presenting concepts from Greek and Latin, while @haubrich:2003medical is a useful reference tool for examining the origins of medical words.
+You may also wish to make use of two books on reserve at the UTM Library: @ayers:1972bioscientific is the source for most of this course's vocabulary and structure for presenting concepts from Greek and Latin, while @haubrich:2003medical is a useful reference tool for examining the origins of medical words.
 
 # Schedule
 
