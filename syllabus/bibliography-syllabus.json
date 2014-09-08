@@ -1,929 +1,1510 @@
 [
-    {
-        "ISBN": "0198642245",
-        "call-number": "PA2365.E5 O9 1982b",
-        "editor": [
-            {
-                "family": "Glare",
-                "given": "P.G.W."
-            }
-        ],
-        "event-place": "Oxford",
-        "id": "glare:1982oxford",
-        "issued": {
-            "date-parts": [
-                [
-                    "1982"
-                ]
-            ]
-        },
-        "number-of-pages": "2126",
-        "publisher": "Clarendon Press",
-        "publisher-place": "Oxford",
-        "source": "Library of Congress ISBN",
-        "title": "Oxford Latin dictionary",
-        "type": "book"
-    },
-    {
-        "ISBN": "9780199571123",
-        "URL": "http://www.oxforddictionaries.com/",
-        "call-number": "PE1628 .O8675 2010",
-        "edition": "3",
-        "editor": [
-            {
-                "family": "Stevenson",
-                "given": "Angus"
-            }
-        ],
-        "event-place": "Oxford",
-        "id": "stevenson:2010oxford",
-        "issued": {
-            "date-parts": [
-                [
-                    "2010"
-                ]
-            ]
-        },
-        "number-of-pages": "2069",
-        "publisher": "Oxford University Press",
-        "publisher-place": "Oxford",
-        "source": "Library of Congress ISBN",
-        "title": "Oxford dictionary of English",
-        "type": "book"
-    },
-    {
-        "ISSN": "0006-9248",
-        "URL": "http://www.bmj.sk/2006/10708-13.pdf",
-        "abstract": "Many medical terms have negative meaning expressed by means of a negative prefix or suffix. The most frequently used negative prefixes are: a-, dis-, in-, non-, and un-. There is only one negative suffix -less (Ref. 15).",
-        "author": [
-            {
-                "family": "D\u017euganov\u00e1",
-                "given": "Bo\u017eena"
-            }
-        ],
-        "container-title": "Bratislavsk\u00e9 lek\u00e1rske listy/Bratislava Medical Journal",
-        "id": "d\u017euganov\u00e1:2006negative",
-        "issue": "8",
-        "issued": {
-            "date-parts": [
-                [
-                    "2006"
-                ]
-            ]
-        },
-        "journalAbbreviation": "Bratisl Lek Listy",
-        "language": "eng",
-        "note": "PMID: 17125069",
-        "page": "332-335",
-        "source": "NCBI PubMed",
-        "title": "Negative affixes in medical English",
-        "type": "article-journal",
-        "volume": "107"
-    },
-    {
-        "DOI": "10.1007/s00276-014-1305-7",
-        "ISSN": "1279-8517",
-        "URL": "http://link.springer.com/10.1007/s00276-014-1305-7",
-        "abstract": "PURPOSE: The aim of this literary search was to chart the etymology of 32 selected human skeletal muscles, representative of all body regions.\nMETHODS: In researching this study, analysis of 15 influential Latin and German anatomical textbooks, dating from the sixteenth to the nineteenth century, was undertaken, as well as reference to four versions of the official Latin anatomical terminologies. Particular emphasis has been placed on the historical development of muscular nomenclature, and the subsequent division of these data into groups, defined by similarities in the evolution of their names into the modern form.\nRESULTS: The first group represents examples of muscles whose names have not changed since their introduction by Vesalius (1543). The second group comprises muscles which earned their definitive names during the seventeenth and eighteenth century. The third group is defined by acceptance into common anatomical vernacular by the late nineteenth century, including those outlined in the first official Latin terminology (B.N.A.) of 1895. The final group is reserved for six extra-ocular muscles with a particularly poetic history, favoured and popularised by the anatomical giants of late Renaissance and 1,700\u00a0s.\nCONCLUSIONS: As this study will demonstrate, it is evident that up until introduction of the B.N.A. there was an extremely liberal approach to naming muscles, deserving great respect in the retrospective terminological studies if complete and relevant results are to be achieved. Without this knowledge of the vernacular of the ages past, modern researchers can find themselves 'reinventing the wheel' in looking for their answers.",
-        "author": [
-            {
-                "family": "Musil",
-                "given": "Vladim\u00edr"
-            },
-            {
-                "family": "Suchomel",
-                "given": "Zden\u011bk"
-            },
-            {
-                "family": "Malinov\u00e1",
-                "given": "Petra"
-            },
-            {
-                "family": "Stingl",
-                "given": "Josef"
-            },
-            {
-                "family": "Vl\u010dek",
-                "given": "Martin"
-            },
-            {
-                "family": "V\u00e1cha",
-                "given": "Marek"
-            }
-        ],
-        "container-title": "Surgical and Radiologic Anatomy",
-        "id": "musil:2014history",
-        "issued": {
-            "date-parts": [
-                [
-                    "2014",
-                    5,
-                    15
-                ]
-            ]
-        },
-        "journalAbbreviation": "Surg Radiol Anat",
-        "language": "en",
-        "note": "PMID: 24828123",
-        "source": "NCBI PubMed",
-        "title": "The history of Latin terminology of human skeletal muscles (from Vesalius to the present)",
-        "type": "article-journal"
-    },
-    {
-        "ISBN": "0781733901",
-        "URL": "http://stedmansonline.com/webFiles/Dict-Stedmans28/APP04.pdf",
-        "author": [
-            {
-                "family": "Dirckx",
-                "given": "John H."
-            }
-        ],
-        "call-number": "R121 .S8 2006",
-        "container-title": "Stedman's medical dictionary",
-        "edition": "28",
-        "event-place": "Philadelphia",
-        "id": "dirckx:2006greek",
-        "issued": {
-            "date-parts": [
-                [
-                    "2006"
-                ]
-            ]
-        },
-        "page": "appendix 9",
-        "publisher": "Lippincott Williams & Wilkins",
-        "publisher-place": "Philadelphia",
-        "source": "Library of Congress ISBN",
-        "title": "Greek and Latin in Medical Terminology",
-        "type": "chapter"
-    },
-    {
-        "DOI": "10.1038/scientificamerican0314-64",
-        "ISSN": "0036-8733",
-        "URL": "http://www.nature.com/doifinder/10.1038/scientificamerican0314-64",
-        "accessed": {
-            "date-parts": [
-                [
-                    "2014",
-                    5,
-                    7
-                ]
-            ]
-        },
-        "author": [
-            {
-                "family": "Garner",
-                "given": "Harold"
-            }
-        ],
-        "container-title": "Scientific American",
-        "id": "garner:2014case",
-        "issue": "3",
-        "issued": {
-            "date-parts": [
-                [
-                    "2014",
-                    2,
-                    18
-                ]
-            ]
-        },
-        "page": "64-67",
-        "source": "CrossRef",
-        "title": "The Case of the Stolen Words",
-        "type": "article-journal",
-        "volume": "310"
-    },
-    {
-        "DOI": "10.1016/j.jpedsurg.2006.03.011",
-        "ISSN": "0022-3468",
-        "URL": "http://www.sciencedirect.com/science/article/pii/S0022346806002077",
-        "abstract": "It is widely accepted that the medical terminology has its roots in ancient Greek and Latin. Greek words have been used not only in the field of medicine but also in every day language for many centuries. The aim of this article is to provide an abbreviated guide to the etymology and the meaning of Greek words used in the medical literature today, emphasizing on the field of pediatric surgery. Thus, the term paediatric is constructed from the words paedion, meaning \u201cchild\u201d, and iatriki, meaning \u201cmedicine\u201d, literally, \u201cmedicine for children.\u201d Surgery, however, is not a Greek word. The corresponding Greek term is chirourgiki, derived from cheir and ergon, that is, \u201chand and action,\u201d meaning the action made by hands. This term is also found in the French and German medical literature as chirourgie and chirurgie, respectively. Some general terms in surgery are also of Greek origin. The word trauma has been transferred into the English literature without modification and comes from the verb diatitreno, meaning to \u201cpenetrate.\u201d Other such terms include diagnosis, from the verb diagignosko, meaning to \u201cdiscriminate\u201d; symptom, from the verb sympipto, that is, \u201cto coinside\u201d; and the adjectives clinical and clinic, from the noun klini, meaning \u201cbed.\u201d\nFocusing on special fields of pediatric surgery, the etymology and the meaning of Greek words used in the medical literature will be shown and analyzed.",
-        "accessed": {
-            "date-parts": [
-                [
-                    "2014",
-                    4,
-                    10
-                ]
-            ]
-        },
-        "author": [
-            {
-                "family": "Soutis",
-                "given": "Michael"
-            }
-        ],
-        "container-title": "Journal of Pediatric Surgery",
-        "id": "soutis:2006ancient",
-        "issue": "7",
-        "issued": {
-            "date-parts": [
-                [
-                    "2006",
-                    7
-                ]
-            ]
-        },
-        "journalAbbreviation": "Journal of Pediatric Surgery",
-        "page": "1302-1308",
-        "shortTitle": "Ancient Greek terminology in pediatric surgery",
-        "source": "ScienceDirect",
-        "title": "Ancient Greek terminology in pediatric surgery: About the word meaning",
-        "type": "article-journal",
-        "volume": "41"
-    },
-    {
-        "ISBN": "9780803629776  080362977X  9780803629783  0803629788  9780803629790  0803629796",
-        "abstract": "Taber's 22 bring meanings to life! Taber's 22 is the all-in-one, go-to source in the classroom, clinical, and beyond. Under the editorial direction of Donald Venes, MD, MSJ, a team of expert consulting editors and consultants, representing nearly every health care profession, ensures that the content reflects the most current healthcare information. A wealth of resources puts the language of nursing, medicine and the healthcare professions at your fingertips.",
-        "edition": "22",
-        "editor": [
-            {
-                "family": "Venes",
-                "given": "Donald"
-            }
-        ],
-        "event-place": "Philadelphia",
-        "id": "venes:2013taber",
-        "issued": {
-            "date-parts": [
-                [
-                    "2013"
-                ]
-            ]
-        },
-        "language": "English",
-        "publisher": "Davis",
-        "publisher-place": "Philadelphia",
-        "source": "Open WorldCat",
-        "title": "Taber's cyclopedic medical dictionary",
-        "type": "book"
-    },
-    {
-        "DOI": "10.1002/ca.22345",
-        "ISSN": "1098-2353",
-        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/ca.22345/abstract",
-        "abstract": "The giants of medicine and anatomy have each left their mark on the history of the cranial nerves, and much of the history of anatomic study can be viewed through the lens of how the cranial nerves were identified and named. A comprehensive literature review on the classification of the cranial names was performed. The identification of the cranial nerves began with Galen in the 2nd century AD and evolved up through the mid-20th century. In 1778, Samuel S\u00f6mmerring, a German anatomist, classified the 12 cranial nerves as we recognize them today. This review expands on the excellent investigations of Flamm, Shaw, and Simon et al., with discussion of the historical identification as well as the process of naming the human cranial nerves. Clin. Anat. 27:14\u201319, 2014. \u00a9 2013 Wiley Periodicals, Inc.",
-        "accessed": {
-            "date-parts": [
-                [
-                    "2014",
-                    4,
-                    10
-                ]
-            ]
-        },
-        "author": [
-            {
-                "family": "Davis",
-                "given": "Matthew C."
-            },
-            {
-                "family": "Griessenauer",
-                "given": "Christoph J."
-            },
-            {
-                "family": "Bosmia",
-                "given": "Anand N."
-            },
-            {
-                "family": "Tubbs",
-                "given": "R. Shane"
-            },
-            {
-                "family": "Shoja",
-                "given": "Mohammadali M."
-            }
-        ],
-        "container-title": "Clinical Anatomy",
-        "id": "davis:2014naming",
-        "issue": "1",
-        "issued": {
-            "date-parts": [
-                [
-                    "2014",
-                    1
-                ]
-            ]
-        },
-        "journalAbbreviation": "Clin. Anat.",
-        "language": "en",
-        "page": "14-19",
-        "shortTitle": "The naming of the cranial nerves",
-        "source": "Wiley Online Library",
-        "title": "The naming of the cranial nerves: A historical review",
-        "type": "article-journal",
-        "volume": "27"
-    },
-    {
-        "ISSN": "0006-9248",
-        "URL": "http://www.bmj.sk/2001/10203-08.pdf",
-        "abstract": "Our paper deals with the situation of medieval anatomy language in the pre-Vesalian period. It also explains the necessity of terminology reform undertaken by Vesalius in his De humani corporis fabrica. It describes formation principles of the scientific language of anatomy based on pure classical Latin while eliminating Arabic and Greek elements. Emphasis is laid on Vesalius' effort to unify terms as far as their meaning is concerned, to record lexical items and to create a permanent nomenclature in order to eliminate discrepancies in this field of communication. Our paper contains a lot of information on terminology demonstrating Vesalius' language reform and reminding us of his great achievement, for which he is considered a forerunner of anatomy nomenclature codification. (Ref. 5.)",
-        "author": [
-            {
-                "family": "Ivanov\u00e1",
-                "given": "Alena"
-            },
-            {
-                "family": "Holom\u00e1\u0148ov\u00e1",
-                "given": "Anna"
-            }
-        ],
-        "container-title": "Bratislavsk\u00e9 lek\u00e1rske listy/Bratislava Medical Journal",
-        "id": "ivanov\u00e1:2001anatomic",
-        "issue": "3",
-        "issued": {
-            "date-parts": [
-                [
-                    "2001"
-                ]
-            ]
-        },
-        "journalAbbreviation": "Bratisl Lek Listy",
-        "language": "eng, slo",
-        "note": "PMID: 11433607",
-        "page": "169-173",
-        "source": "NCBI PubMed",
-        "title": "Anatomic nomenclature by Vesalius",
-        "type": "article-journal",
-        "volume": "102"
-    },
-    {
-        "URL": "http://dialnet.unirioja.es/descarga/articulo/4597577.pdf",
-        "accessed": {
-            "date-parts": [
-                [
-                    "2014",
-                    6,
-                    19
-                ]
-            ]
-        },
-        "author": [
-            {
-                "family": "Arroyo",
-                "given": "Marisa D\u00edez"
-            }
-        ],
-        "container-title": "Revista espa\u00f1ola de ling\u00fc\u00edstica aplicada",
-        "id": "arroyo:2013scientific",
-        "issued": {
-            "date-parts": [
-                [
-                    "2013"
-                ]
-            ]
-        },
-        "language": "Spanish",
-        "page": "197\u2013213",
-        "source": "Google Scholar",
-        "title": "Scientific Language in Skin-Care Advertising: Persuading Through Opacity",
-        "type": "article-journal",
-        "volume": "26"
-    },
-    {
-        "ISSN": "0006-9248",
-        "URL": "http://www.bmj.sk/1998/09910-09.pdf",
-        "abstract": "Derivated medical terms can consist of a prefix, one or two word roots, a combining vowel, and a suffix in various combinations. To teach medical vocabulary means to teach the tools of word analysis that will enable understanding of complex terminology instead of memorising the whole medical dictionary. (Ref. 6.)",
-        "author": [
-            {
-                "family": "D\u017euganov\u00e1",
-                "given": "Bo\u017eena"
-            }
-        ],
-        "container-title": "Bratislavsk\u00e9 lek\u00e1rske listy/Bratislava Medical Journal",
-        "id": "d\u017euganov\u00e1:1998word",
-        "issue": "10",
-        "issued": {
-            "date-parts": [
-                [
-                    "1998",
-                    10
-                ]
-            ]
-        },
-        "journalAbbreviation": "Bratisl Lek Listy",
-        "language": "eng",
-        "note": "PMID: 9919759",
-        "page": "551-553",
-        "source": "NCBI PubMed",
-        "title": "Word analysis \u2013 a useful tool in learning the language of medicine in English",
-        "type": "article-journal",
-        "volume": "99"
-    },
-    {
-        "DOI": "10.1016/B0-08-044854-2/04268-1",
-        "ISBN": "978-0-08-044854-1",
-        "URL": "http://dx.doi.org/10.1016/B0-08-044854-2/04268-1",
-        "abstract": "An accurate and systematic nomenclature is of paramount importance in a purely descriptive discipline such as anatomy. Because Western science and medicine began in Greece, the earliest names for parts of the body were Greek words, at first borrowed from the vernacular. The growth and spread of anatomic knowledge eventually demanded a more specialized vocabulary. Later, as Latin became the international medium of scholarly communication, a copious and richly metaphoric but unsystematic lexicon of anatomy evolved in that language. In the 19th century, European anatomists organized to forge a more logical, consistent, and economical Latin nomenclature. Modern usage is a hybrid of vernacular words and of Latin and Greek drawn from various systems and periods.",
-        "accessed": {
-            "date-parts": [
-                [
-                    "2014",
-                    4,
-                    10
-                ]
-            ]
-        },
-        "author": [
-            {
-                "family": "Dirckx",
-                "given": "John H."
-            }
-        ],
-        "container-title": "Encyclopedia of Language & Linguistics",
-        "edition": "2",
-        "editor": [
-            {
-                "family": "Brown",
-                "given": "Keith"
-            }
-        ],
-        "event-place": "Oxford",
-        "id": "dirckx:2006anatomical",
-        "issued": {
-            "date-parts": [
-                [
-                    "2006"
-                ]
-            ]
-        },
-        "page": "244-252",
-        "publisher": "Elsevier",
-        "publisher-place": "Oxford",
-        "shortTitle": "Anatomical Nomenclature",
-        "source": "ScienceDirect",
-        "title": "Anatomical Nomenclature: History",
-        "type": "chapter"
-    },
-    {
-        "ISBN": "1930513496 9781930513495",
-        "abstract": "This second edition of Medical Meanings is fully updated and revised to include over thirty percent more of the definitions, histories, and amusing. More than a dictionary, it explores the history of medical terms, tracing some back to classical roots and describing the recent coinage of others. All previous 3000 entries have been considered afresh, and many have been revised or sharpened, and nearly 300 new words and phrases have been added.",
-        "author": [
-            {
-                "family": "Haubrich",
-                "given": "William S."
-            }
-        ],
-        "edition": "2",
-        "event-place": "Philadelphia",
-        "id": "haubrich:2003medical",
-        "issued": {
-            "date-parts": [
-                [
-                    "2003"
-                ]
-            ]
-        },
-        "language": "English",
-        "number-of-pages": "282",
-        "publisher": "American College of Physicians",
-        "publisher-place": "Philadelphia",
-        "shortTitle": "Medical meanings",
-        "source": "Open WorldCat",
-        "title": "Medical meanings: A glossary of word origins",
-        "type": "book"
-    },
-    {
-        "DOI": "10.1002/ca.22053",
-        "ISSN": "1098-2353",
-        "URL": "http://onlinelibrary.wiley.com/doi/10.1002/ca.22053/abstract",
-        "abstract": "Researching the origin of the terms that we use to identify neuroanatomical structures is a helpful and fascinating exercise. It can provide neuroscientists with a better insight and understanding of the macroscopic anatomy of the cranium and its contents. It can also help the novice to this discipline to become acquainted with structures whose three dimensional anatomy is often difficult to appreciate. The purpose of this article was to investigate the etymology of some of the terms referring to the macroscopic anatomical structures of the skull and the intracranial cavity. We observed how each name unravels an interesting story, sometimes linked to mythological creatures, other times to the shape of animals or objects and tools of everyday life. We conclude that even without a deep knowledge of the Greek, Latin, or Arabic language, learning who described a particular structure and how they decided to name it, makes the study of neuroanatomy more complete and fulfilling. Clin. Anat. 25:1005\u20131014, 2012. \u00a9 2012 Wiley Periodicals, Inc.",
-        "accessed": {
-            "date-parts": [
-                [
-                    "2014",
-                    4,
-                    10
-                ]
-            ]
-        },
-        "author": [
-            {
-                "family": "Paluzzi",
-                "given": "Alessandro"
-            },
-            {
-                "family": "Fernandez-Miranda",
-                "given": "Juan"
-            },
-            {
-                "family": "Torrenti",
-                "given": "Matthew"
-            },
-            {
-                "family": "Gardner",
-                "given": "Paul"
-            }
-        ],
-        "container-title": "Clinical Anatomy",
-        "id": "paluzzi:2012retracing",
-        "issue": "8",
-        "issued": {
-            "date-parts": [
-                [
-                    "2012",
-                    11
-                ]
-            ]
-        },
-        "journalAbbreviation": "Clin. Anat.",
-        "language": "en",
-        "note": "PMID: 23112209",
-        "page": "1005-1014",
-        "source": "Wiley Online Library",
-        "title": "Retracing the etymology of terms in neuroanatomy",
-        "type": "article-journal",
-        "volume": "25"
-    },
-    {
-        "ISSN": "1424-7860",
-        "URL": "http://www.smw.ch/dfe/set_archiv.asp?target=2002/41/smw-10027",
-        "abstract": "The present paper offers an up-to-date view of the status of Latin as the language of medicine, namely in its terminological component. It is concerned in greater detail with the three basic terminological vocabularies in which a doctor cannot so far manage without its knowledge. In this sense a primary rank is occupied by anatomical nomenclature whose international version remains Latin in the full extent. A more varied picture is presented by the clinical disciplines where, apart from Latin terms, expressions of ancient provenance have been applied in a large measure in the form of ethnic languages. At the same time, particularly in view of the needs of computerisation, repeated attempts have appeared to support English, which has the greatest chance of becoming a new language in the particular region of clinical medicine. In pharmaceutical terminology Latin has, for the time being, remained a functioning means of international communication, guaranteed by the European Pharmacopoeia (1996) and by the corpus of International Non-proprietary Names (1992, 1996), even though in the future an ever stronger competition of national languages should be taken into account.",
-        "author": [
-            {
-                "family": "Mare\u010dkov\u00e1",
-                "given": "Elena"
-            },
-            {
-                "family": "\u0160imon",
-                "given": "Franti\u0161ek"
-            },
-            {
-                "family": "\u010cerven\u00fd",
-                "given": "Ladislav"
-            }
-        ],
-        "container-title": "Swiss medical weekly",
-        "id": "mare\u010dkov\u00e1:2002latin",
-        "issue": "41\u201342",
-        "issued": {
-            "date-parts": [
-                [
-                    "2002",
-                    11,
-                    23
-                ]
-            ]
-        },
-        "journalAbbreviation": "Swiss Med Wkly",
-        "language": "eng",
-        "note": "PMID: 12571757",
-        "page": "581-587",
-        "shortTitle": "Latin as the language of medical terminology",
-        "source": "NCBI PubMed",
-        "title": "Latin as the language of medical terminology: Some remarks on its role and prospects",
-        "type": "article-journal",
-        "volume": "132"
-    },
-    {
-        "ISSN": "0193-1091",
-        "URL": "http://journals.lww.com/amjdermatopathology/Citation/1981/00310/A_description_and_directory_of_plural_forms_of.5.aspx",
-        "author": [
-            {
-                "family": "Dirckx",
-                "given": "John H."
-            },
-            {
-                "family": "Leider",
-                "given": "M."
-            }
-        ],
-        "container-title": "The American Journal of dermatopathology",
-        "id": "dirckx:1981description",
-        "issue": "1",
-        "issued": {
-            "date-parts": [
-                [
-                    "1981"
-                ]
-            ]
-        },
-        "journalAbbreviation": "Am J Dermatopathol",
-        "language": "eng",
-        "note": "PMID: 7235198",
-        "page": "41-53",
-        "source": "NCBI PubMed",
-        "title": "A description and directory of plural forms of medical Latin words and terms",
-        "type": "article-journal",
-        "volume": "3"
-    },
-    {
-        "ISSN": "1847-6376",
-        "URL": "http://hrcak.srce.hr/file/162511",
-        "abstract": "In medical terminology, two completely different phenomena can be seen: 1. precisely worked-out and internationally standardised anatomical nomenclature and 2. quickly developing non-standardised terminologies of individual clinical...",
-        "accessed": {
-            "date-parts": [
-                [
-                    "2014",
-                    6,
-                    19
-                ]
-            ]
-        },
-        "author": [
-            {
-                "family": "D\u017euganov\u00e1",
-                "given": "Bo\u017eena"
-            }
-        ],
-        "container-title": "JAHR",
-        "id": "d\u017euganov\u00e1:2013english",
-        "issue": "7",
-        "issued": {
-            "date-parts": [
-                [
-                    "2013",
-                    5
-                ]
-            ]
-        },
-        "language": "en",
-        "note": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=162511&lang=en",
-        "page": "55-69",
-        "source": "hrcak.srce.hr",
-        "title": "English medical terminology \u2013 different ways of forming medical terms",
-        "type": "article-journal",
-        "volume": "4"
-    },
-    {
-        "DOI": "10.1001/jama.1977.03280200055019",
-        "ISSN": "0098-7484",
-        "URL": "http://dx.doi.org/10.1001/jama.1977.03280200055019",
-        "abstract": "SEVERAL communications recently published in the medical literature have stirred up the embers of an ageold controversy about compound words that contain both Greek and Latin elements. Ganias1 proposed the introduction of five new ophthalmologic terms of Greek origin to rectify certain bilingual coinages that he found \"complicated and confusing.\" In a related editorial,2 Blodi approved the effort to \"keep the language unadulterated,\" ie, to avoid coupling Greek with Latin.Hussey3 took up the question of hybrid terms and dealt with it in a reasonable and practical fashion. After contributing his own balanced views, he presented the results of a small poll of other editors' opinions: all agreed that opposition to Greek-Latin hybrids is, in general, both groundless and futile. My purpose is to place the question in historical perspective and to offer practical suggestions for its resolution.THE DEVELOPMENT OF TECHNICAL NOMENCLATURE\u00a0\nA living language evolves",
-        "accessed": {
-            "date-parts": [
-                [
-                    "2014",
-                    5,
-                    7
-                ]
-            ]
-        },
-        "author": [
-            {
-                "family": "Dirckx",
-                "given": "John H."
-            }
-        ],
-        "container-title": "Journal of the American Medical Association",
-        "id": "dirckx:1977hybrid",
-        "issue": "19",
-        "issued": {
-            "date-parts": [
-                [
-                    "1977",
-                    11,
-                    7
-                ]
-            ]
-        },
-        "journalAbbreviation": "JAMA",
-        "note": "PMID: 578903",
-        "page": "2043-2045",
-        "source": "Silverchair",
-        "title": "Hybrid words in medical terminology",
-        "type": "article-journal",
-        "volume": "238"
-    },
-    {
-        "ISBN": "0198642261",
-        "call-number": "PA445.E5 L6 1996",
-        "edition": "9th ed. with revised supplement",
-        "editor": [
-            {
-                "family": "Liddell",
-                "given": "Henry George"
-            },
-            {
-                "family": "Scott",
-                "given": "Robert"
-            },
-            {
-                "family": "Stuart Jones",
-                "given": "Henry"
-            },
-            {
-                "family": "Glare",
-                "given": "P.G.W."
-            }
-        ],
-        "event-place": "Oxford",
-        "id": "liddell:1996greek",
-        "issued": {
-            "date-parts": [
-                [
-                    "1996"
-                ]
-            ]
-        },
-        "number-of-pages": "2042",
-        "publisher": "Clarendon Press",
-        "publisher-place": "Oxford",
-        "source": "Library of Congress ISBN",
-        "title": "A Greek-English lexicon",
-        "type": "book"
-    },
-    {
-        "DOI": "10.1007/s00276-008-0357-y",
-        "ISSN": "0930-1038",
-        "URL": "http://link.springer.com/10.1007/s00276-008-0357-y",
-        "abstract": "The anatomical terminology is a base for medical communication. It is elaborated into a nomenclature in Latin. Its history goes back to 1895, when the first Latin anatomical nomenclature was published as Basiliensia Nomina Anatomica. It was followed by seven revisions (Jenaiensia Nomina Anatomica 1935, Parisiensia Nomina Anatomica 1955, Nomina Anatomica 2nd to 6th edition 1960-1989). The last revision, Terminologia Anatomica, (TA) created by the Federative Committee on Anatomical Terminology and approved by the International Federation of Associations of Anatomists, was published in 1998. Apart from the official Latin anatomical terminology, it includes a list of recommended English equivalents. In this article, major changes and pitfalls of the nomenclature are discussed, as well as the clinical anatomy terms. The last revision (TA) is highly recommended to the attention of not only teachers, students and researchers, but also to clinicians, doctors, translators, editors and publishers to be followed in their activities.",
-        "author": [
-            {
-                "family": "Kachl\u00edk",
-                "given": "David"
-            },
-            {
-                "family": "B\u00e1\u010da",
-                "given": "V\u00e1clav"
-            },
-            {
-                "family": "Bozd\u011bchov\u00e1",
-                "given": "Ivana"
-            },
-            {
-                "family": "\u010cech",
-                "given": "Pavel"
-            },
-            {
-                "family": "Musil",
-                "given": "Vladim\u00edr"
-            }
-        ],
-        "container-title": "Surgical and Radiologic Anatomy",
-        "id": "kachl\u00edk:2008anatomical",
-        "issue": "6",
-        "issued": {
-            "date-parts": [
-                [
-                    "2008",
-                    8
-                ]
-            ]
-        },
-        "journalAbbreviation": "Surg Radiol Anat",
-        "language": "eng",
-        "note": "PMID: 18488135",
-        "page": "459-466",
-        "shortTitle": "Anatomical terminology and nomenclature",
-        "source": "NCBI PubMed",
-        "title": "Anatomical terminology and nomenclature: Past, present and highlights",
-        "type": "article-journal",
-        "volume": "30"
-    },
-    {
-        "DOI": "10.1097/DAD.0b013e3181597a43",
-        "ISSN": "1533-0311",
-        "abstract": "Early in the 7th century of our era, the prelate and scholar Isidore of Seville compiled a Latin encyclopedia of classical learning that retained its popularity throughout the Middle Ages and into early modern times. This work, called Origines seu Etymologiae, treats many of its topics by tracing (often fancifully and incorrectly) the histories of their terms. From Book IV, which deals with medicine, 3 chapters containing glossaries of acute, chronic, and cutaneous diseases are here translated.",
-        "author": [
-            {
-                "family": "Dirckx",
-                "given": "John H."
-            }
-        ],
-        "container-title": "The American Journal of dermatopathology",
-        "id": "dirckx:2007isidore",
-        "issue": "6",
-        "issued": {
-            "date-parts": [
-                [
-                    "2007",
-                    12
-                ]
-            ]
-        },
-        "journalAbbreviation": "Am J Dermatopathol",
-        "language": "eng",
-        "note": "PMID: 18032959",
-        "page": "581-583",
-        "source": "NCBI PubMed",
-        "title": "Isidore of Seville on the origins and meanings of medical terms",
-        "type": "article-journal",
-        "volume": "29"
-    },
-    {
-        "call-number": "PA2365 .E5 1975",
-        "editor": [
-            {
-                "family": "Lewis",
-                "given": "Charlton T."
-            },
-            {
-                "family": "Short",
-                "given": "Charles"
-            }
-        ],
-        "event-place": "Oxford",
-        "id": "lewis:1879latin",
-        "issued": {
-            "date-parts": [
-                [
-                    "1879"
-                ]
-            ]
-        },
-        "number-of-pages": "2019",
-        "publisher": "Clarendon Press",
-        "publisher-place": "Oxford",
-        "source": "toroprod.library.utoronto.ca Library Catalog",
-        "title": "A Latin dictionary: Founded on Andrews' edition of Freund's Latin dictionary",
-        "type": "book"
-    },
-    {
-        "ISSN": "0193-1091",
-        "URL": "http://journals.lww.com/amjdermatopathology/Citation/2005/02000/The_Doctor_s_Dyslexicon__101_Pitfalls_in_Medical.16.aspx",
-        "author": [
-            {
-                "family": "Dirckx",
-                "given": "John H."
-            }
-        ],
-        "container-title": "The American Journal of dermatopathology",
-        "id": "dirckx:2005doctor",
-        "issue": "1",
-        "issued": {
-            "date-parts": [
-                [
-                    "2005",
-                    2
-                ]
-            ]
-        },
-        "journalAbbreviation": "Am J Dermatopathol",
-        "language": "eng",
-        "note": "PMID: 15677983",
-        "page": "86-88",
-        "shortTitle": "The doctor's dyslexicon",
-        "source": "NCBI PubMed",
-        "title": "The doctor's dyslexicon: 101 pitfalls in medical language",
-        "type": "article-journal",
-        "volume": "27"
-    },
-    {
-        "ISBN": "0816503052",
-        "author": [
-            {
-                "family": "Ayers",
-                "given": "Donald M."
-            }
-        ],
-        "call-number": "QH83 .A94",
-        "event-place": "Tucson",
-        "id": "ayers:1972bioscientific",
-        "issued": {
-            "date-parts": [
-                [
-                    "1972"
-                ]
-            ]
-        },
-        "number-of-pages": "325",
-        "publisher": "University of Arizona Press",
-        "publisher-place": "Tucson",
-        "shortTitle": "Bioscientific terminology",
-        "source": "Library of Congress ISBN",
-        "title": "Bioscientific terminology: Words from Latin and Greek stems",
-        "type": "book"
-    },
-    {
-        "DOI": "10.1002/ca.22062",
-        "ISSN": "1098-2353",
-        "URL": "http://onlinelibrary.wiley.com.myaccess.library.utoronto.ca/doi/10.1002/ca.22062/abstract",
-        "abstract": "Previous research focusing on Classical Latin and Greek roots has shown that understanding the etymology of English anatomical terms may be beneficial for students of human anatomy. However, not all anatomical terms are derived from Classical origins. This study aims to explore the linguistic roots of the Modern English terminology used in human gross anatomy. By reference to the Oxford English Dictionary, etymologies were determined for a lexicon of 798 Modern English gross anatomical terms from the 40th edition of Gray's Anatomy. Earliest traceable language of origin was determined for all 798 terms; language of acquisition was determined for 747 terms. Earliest traceable languages of origin were: Classical Latin (62%), Classical Greek (24%), Old English (7%), Post-Classical Latin (3%), and other (4%). Languages of acquisition were: Classical Latin (42%), Post-Classical Latin (29%), Old English (8%), Modern French (6%), Classical Greek (5%), Middle English (3%), and other (7%). While the roots of Modern English anatomical terminology mostly lie in Classical languages (accounting for the origin of 86% of terms), the anatomical lexicon of Modern English is actually much more diverse. Interesting and perhaps less familiar examples from these languages and the methods by which such terms have been created and absorbed are discussed. The author suggests that awareness of anatomical etymologies may enhance the enjoyment and understanding of human anatomy for students and teachers alike. Clin. Anat. 25:1015\u20131022, 2012. \u00a9 2012 Wiley Periodicals, Inc.",
-        "accessed": {
-            "date-parts": [
-                [
-                    "2014",
-                    4,
-                    10
-                ]
-            ]
-        },
-        "author": [
-            {
-                "family": "Turmezei",
-                "given": "Tom D."
-            }
-        ],
-        "container-title": "Clinical Anatomy",
-        "id": "turmezei:2012linguistic",
-        "issue": "8",
-        "issued": {
-            "date-parts": [
-                [
-                    "2012",
-                    11
-                ]
-            ]
-        },
-        "journalAbbreviation": "Clin Anat",
-        "language": "en",
-        "note": "PMID: 22461143",
-        "page": "1015-1022",
-        "source": "Wiley Online Library",
-        "title": "The linguistic roots of Modern English anatomical terminology",
-        "type": "article-journal",
-        "volume": "25"
-    }
+  {
+    "publisher": "Clarendon Press", 
+    "ISBN": "0198642245", 
+    "publisher-place": "Oxford", 
+    "title": "Oxford Latin dictionary", 
+    "call-number": "PA2365.E5 O9 1982b", 
+    "number-of-pages": "2126", 
+    "source": "Library of Congress ISBN", 
+    "event-place": "Oxford", 
+    "issued": {
+      "date-parts": [
+        [
+          "1982"
+        ]
+      ]
+    }, 
+    "type": "book", 
+    "id": "glare:1982oxford", 
+    "editor": [
+      {
+        "given": "P.G.W.", 
+        "family": "Glare"
+      }
+    ]
+  }, 
+  {
+    "publisher": "Oxford University Press", 
+    "ISBN": "9780199571123", 
+    "publisher-place": "Oxford", 
+    "title": "Oxford dictionary of English", 
+    "URL": "http://www.oxforddictionaries.com/", 
+    "call-number": "PE1628 .O8675 2010", 
+    "number-of-pages": "2069", 
+    "edition": "3", 
+    "source": "Library of Congress ISBN", 
+    "issued": {
+      "date-parts": [
+        [
+          "2010"
+        ]
+      ]
+    }, 
+    "event-place": "Oxford", 
+    "type": "book", 
+    "id": "stevenson:2010oxford", 
+    "editor": [
+      {
+        "given": "Angus", 
+        "family": "Stevenson"
+      }
+    ]
+  }, 
+  {
+    "DOI": "10.1002/ca.22345", 
+    "language": "en", 
+    "shortTitle": "The naming of the cranial nerves", 
+    "title": "The naming of the cranial nerves: A historical review", 
+    "URL": "http://onlinelibrary.wiley.com/doi/10.1002/ca.22345/abstract", 
+    "issue": "1", 
+    "abstract": "The giants of medicine and anatomy have each left their mark on the history of the cranial nerves, and much of the history of anatomic study can be viewed through the lens of how the cranial nerves were identified and named. A comprehensive literature review on the classification of the cranial names was performed. The identification of the cranial nerves began with Galen in the 2nd century AD and evolved up through the mid-20th century. In 1778, Samuel S\u00f6mmerring, a German anatomist, classified the 12 cranial nerves as we recognize them today. This review expands on the excellent investigations of Flamm, Shaw, and Simon et al., with discussion of the historical identification as well as the process of naming the human cranial nerves. Clin. Anat. 27:14\u201319, 2014. \u00a9 2013 Wiley Periodicals, Inc.", 
+    "ISSN": "1098-2353", 
+    "page": "14-19", 
+    "volume": "27", 
+    "source": "Wiley Online Library", 
+    "issued": {
+      "date-parts": [
+        [
+          "2014", 
+          1
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "Matthew C.", 
+        "family": "Davis"
+      }, 
+      {
+        "given": "Christoph J.", 
+        "family": "Griessenauer"
+      }, 
+      {
+        "given": "Anand N.", 
+        "family": "Bosmia"
+      }, 
+      {
+        "given": "R. Shane", 
+        "family": "Tubbs"
+      }, 
+      {
+        "given": "Mohammadali M.", 
+        "family": "Shoja"
+      }
+    ], 
+    "container-title": "Clinical Anatomy", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          4, 
+          10
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Clin. Anat.", 
+    "type": "article-journal", 
+    "id": "davis:2014naming"
+  }, 
+  {
+    "DOI": "10.1111/j.1447-073X.2007.00180.x", 
+    "author": [
+      {
+        "given": "Tatsuo", 
+        "family": "Sakai"
+      }
+    ], 
+    "language": "en", 
+    "title": "Historical evolution of anatomical terminology from ancient to modern", 
+    "URL": "http://link.springer.com/10.1111/j.1447-073X.2007.00180.x", 
+    "issue": "2", 
+    "ISSN": "1447-6959, 1447-073X", 
+    "page": "65-81", 
+    "volume": "82", 
+    "source": "CrossRef", 
+    "issued": {
+      "date-parts": [
+        [
+          "2007", 
+          6
+        ]
+      ]
+    }, 
+    "container-title": "Anatomical Science International", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          4, 
+          10
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "sakai:2007historical"
+  }, 
+  {
+    "note": "PMID: 17125069", 
+    "author": [
+      {
+        "given": "Bo\u017eena", 
+        "family": "D\u017euganov\u00e1"
+      }
+    ], 
+    "language": "eng", 
+    "title": "Negative affixes in medical English", 
+    "URL": "http://www.bmj.sk/2006/10708-13.pdf", 
+    "issue": "8", 
+    "abstract": "Many medical terms have negative meaning expressed by means of a negative prefix or suffix. The most frequently used negative prefixes are: a-, dis-, in-, non-, and un-. There is only one negative suffix -less (Ref. 15).", 
+    "ISSN": "0006-9248", 
+    "page": "332-335", 
+    "volume": "107", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    }, 
+    "container-title": "Bratislavsk\u00e9 lek\u00e1rske listy/Bratislava Medical Journal", 
+    "journalAbbreviation": "Bratisl Lek Listy", 
+    "type": "article-journal", 
+    "id": "d\u017euganov\u00e1:2006negative"
+  }, 
+  {
+    "DOI": "10.1007/s00276-014-1305-7", 
+    "author": [
+      {
+        "given": "Vladim\u00edr", 
+        "family": "Musil"
+      }, 
+      {
+        "given": "Zden\u011bk", 
+        "family": "Suchomel"
+      }, 
+      {
+        "given": "Petra", 
+        "family": "Malinov\u00e1"
+      }, 
+      {
+        "given": "Josef", 
+        "family": "Stingl"
+      }, 
+      {
+        "given": "Martin", 
+        "family": "Vl\u010dek"
+      }, 
+      {
+        "given": "Marek", 
+        "family": "V\u00e1cha"
+      }
+    ], 
+    "language": "en", 
+    "title": "The history of Latin terminology of human skeletal muscles (from Vesalius to the present)", 
+    "URL": "http://link.springer.com/10.1007/s00276-014-1305-7", 
+    "issued": {
+      "date-parts": [
+        [
+          "2014", 
+          5, 
+          15
+        ]
+      ]
+    }, 
+    "abstract": "PURPOSE: The aim of this literary search was to chart the etymology of 32 selected human skeletal muscles, representative of all body regions.\nMETHODS: In researching this study, analysis of 15 influential Latin and German anatomical textbooks, dating from the sixteenth to the nineteenth century, was undertaken, as well as reference to four versions of the official Latin anatomical terminologies. Particular emphasis has been placed on the historical development of muscular nomenclature, and the subsequent division of these data into groups, defined by similarities in the evolution of their names into the modern form.\nRESULTS: The first group represents examples of muscles whose names have not changed since their introduction by Vesalius (1543). The second group comprises muscles which earned their definitive names during the seventeenth and eighteenth century. The third group is defined by acceptance into common anatomical vernacular by the late nineteenth century, including those outlined in the first official Latin terminology (B.N.A.) of 1895. The final group is reserved for six extra-ocular muscles with a particularly poetic history, favoured and popularised by the anatomical giants of late Renaissance and 1,700\u00a0s.\nCONCLUSIONS: As this study will demonstrate, it is evident that up until introduction of the B.N.A. there was an extremely liberal approach to naming muscles, deserving great respect in the retrospective terminological studies if complete and relevant results are to be achieved. Without this knowledge of the vernacular of the ages past, modern researchers can find themselves 'reinventing the wheel' in looking for their answers.", 
+    "ISSN": "1279-8517", 
+    "note": "PMID: 24828123", 
+    "source": "NCBI PubMed", 
+    "container-title": "Surgical and Radiologic Anatomy", 
+    "journalAbbreviation": "Surg Radiol Anat", 
+    "type": "article-journal", 
+    "id": "musil:2014history"
+  }, 
+  {
+    "publisher": "Lippincott Williams & Wilkins", 
+    "ISBN": "0781733901", 
+    "publisher-place": "Philadelphia", 
+    "title": "Greek and Latin in Medical Terminology", 
+    "URL": "http://stedmansonline.com/webFiles/Dict-Stedmans28/APP04.pdf", 
+    "call-number": "R121 .S8 2006", 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "page": "appendix 9", 
+    "edition": "28", 
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    }, 
+    "source": "Library of Congress ISBN", 
+    "container-title": "Stedman's medical dictionary", 
+    "event-place": "Philadelphia", 
+    "type": "chapter", 
+    "id": "dirckx:2006greek", 
+    "editor": [
+      {
+        "given": "Julie K.", 
+        "family": "Stegman"
+      }, 
+      {
+        "given": "Eric", 
+        "family": "Branger"
+      }, 
+      {
+        "given": "Tiffany", 
+        "family": "Piper"
+      }, 
+      {
+        "given": "Thomas W.", 
+        "family": "Filardo"
+      }, 
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }, 
+      {
+        "given": "Raymond", 
+        "family": "Lukens"
+      }, 
+      {
+        "given": "William R.", 
+        "family": "Hensyl"
+      }
+    ]
+  }, 
+  {
+    "DOI": "10.1038/scientificamerican0314-64", 
+    "author": [
+      {
+        "given": "Harold", 
+        "family": "Garner"
+      }
+    ], 
+    "title": "The Case of the Stolen Words", 
+    "URL": "http://www.nature.com/doifinder/10.1038/scientificamerican0314-64", 
+    "issue": "3", 
+    "ISSN": "0036-8733", 
+    "page": "64-67", 
+    "volume": "310", 
+    "source": "CrossRef", 
+    "issued": {
+      "date-parts": [
+        [
+          "2014", 
+          2, 
+          18
+        ]
+      ]
+    }, 
+    "container-title": "Scientific American", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          5, 
+          7
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "garner:2014case"
+  }, 
+  {
+    "note": "PMID: 3551658", 
+    "DOI": "10.1097/00000372-198702000-00014", 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "language": "eng", 
+    "title": "A little lexicon of archaic and obsolete medical terms", 
+    "issue": "1", 
+    "ISSN": "0193-1091", 
+    "page": "76-79", 
+    "volume": "9", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "1987", 
+          2
+        ]
+      ]
+    }, 
+    "container-title": "The American Journal of dermatopathology", 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "dirckx:1987little"
+  }, 
+  {
+    "note": "PMID: 11433607", 
+    "author": [
+      {
+        "given": "Alena", 
+        "family": "Ivanov\u00e1"
+      }, 
+      {
+        "given": "Anna", 
+        "family": "Holom\u00e1\u0148ov\u00e1"
+      }
+    ], 
+    "title": "Anatomic nomenclature by Vesalius", 
+    "URL": "http://www.bmj.sk/2001/10203-08.pdf", 
+    "issue": "3", 
+    "abstract": "Our paper deals with the situation of medieval anatomy language in the pre-Vesalian period. It also explains the necessity of terminology reform undertaken by Vesalius in his De humani corporis fabrica. It describes formation principles of the scientific language of anatomy based on pure classical Latin while eliminating Arabic and Greek elements. Emphasis is laid on Vesalius' effort to unify terms as far as their meaning is concerned, to record lexical items and to create a permanent nomenclature in order to eliminate discrepancies in this field of communication. Our paper contains a lot of information on terminology demonstrating Vesalius' language reform and reminding us of his great achievement, for which he is considered a forerunner of anatomy nomenclature codification. (Ref. 5.)", 
+    "ISSN": "0006-9248", 
+    "page": "169-173", 
+    "volume": "102", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2001"
+        ]
+      ]
+    }, 
+    "container-title": "Bratislavsk\u00e9 lek\u00e1rske listy/Bratislava Medical Journal", 
+    "journalAbbreviation": "Bratisl Lek Listy", 
+    "type": "article-journal", 
+    "id": "ivanov\u00e1:2001anatomic"
+  }, 
+  {
+    "DOI": "10.1016/j.jpedsurg.2006.03.011", 
+    "author": [
+      {
+        "given": "Michael", 
+        "family": "Soutis"
+      }
+    ], 
+    "shortTitle": "Ancient Greek terminology in pediatric surgery", 
+    "title": "Ancient Greek terminology in pediatric surgery: About the word meaning", 
+    "URL": "http://www.sciencedirect.com/science/article/pii/S0022346806002077", 
+    "issue": "7", 
+    "abstract": "It is widely accepted that the medical terminology has its roots in ancient Greek and Latin. Greek words have been used not only in the field of medicine but also in every day language for many centuries. The aim of this article is to provide an abbreviated guide to the etymology and the meaning of Greek words used in the medical literature today, emphasizing on the field of pediatric surgery. Thus, the term paediatric is constructed from the words paedion, meaning \u201cchild\u201d, and iatriki, meaning \u201cmedicine\u201d, literally, \u201cmedicine for children.\u201d Surgery, however, is not a Greek word. The corresponding Greek term is chirourgiki, derived from cheir and ergon, that is, \u201chand and action,\u201d meaning the action made by hands. This term is also found in the French and German medical literature as chirourgie and chirurgie, respectively. Some general terms in surgery are also of Greek origin. The word trauma has been transferred into the English literature without modification and comes from the verb diatitreno, meaning to \u201cpenetrate.\u201d Other such terms include diagnosis, from the verb diagignosko, meaning to \u201cdiscriminate\u201d; symptom, from the verb sympipto, that is, \u201cto coinside\u201d; and the adjectives clinical and clinic, from the noun klini, meaning \u201cbed.\u201d\nFocusing on special fields of pediatric surgery, the etymology and the meaning of Greek words used in the medical literature will be shown and analyzed.", 
+    "ISSN": "0022-3468", 
+    "page": "1302-1308", 
+    "volume": "41", 
+    "source": "ScienceDirect", 
+    "issued": {
+      "date-parts": [
+        [
+          "2006", 
+          7
+        ]
+      ]
+    }, 
+    "container-title": "Journal of Pediatric Surgery", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          4, 
+          10
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Journal of Pediatric Surgery", 
+    "type": "article-journal", 
+    "id": "soutis:2006ancient"
+  }, 
+  {
+    "publisher": "Davis", 
+    "ISBN": "9780803629776  080362977X  9780803629783  0803629788  9780803629790  0803629796", 
+    "publisher-place": "Philadelphia", 
+    "language": "English", 
+    "title": "Taber's cyclopedic medical dictionary", 
+    "URL": "http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=1079336", 
+    "issued": {
+      "date-parts": [
+        [
+          "2013"
+        ]
+      ]
+    }, 
+    "abstract": "Taber's 22 bring meanings to life! Taber's 22 is the all-in-one, go-to source in the classroom, clinical, and beyond. Under the editorial direction of Donald Venes, MD, MSJ, a team of expert consulting editors and consultants, representing nearly every health care profession, ensures that the content reflects the most current healthcare information. A wealth of resources puts the language of nursing, medicine and the healthcare professions at your fingertips.", 
+    "edition": "22", 
+    "source": "Open WorldCat", 
+    "event-place": "Philadelphia", 
+    "type": "book", 
+    "id": "venes:2013taber", 
+    "editor": [
+      {
+        "given": "Donald", 
+        "family": "Venes"
+      }
+    ]
+  }, 
+  {
+    "note": "PMID: 22461143", 
+    "DOI": "10.1002/ca.22062", 
+    "author": [
+      {
+        "given": "Tom D.", 
+        "family": "Turmezei"
+      }
+    ], 
+    "language": "en", 
+    "title": "The linguistic roots of Modern English anatomical terminology", 
+    "URL": "http://onlinelibrary.wiley.com.myaccess.library.utoronto.ca/doi/10.1002/ca.22062/abstract", 
+    "issue": "8", 
+    "abstract": "Previous research focusing on Classical Latin and Greek roots has shown that understanding the etymology of English anatomical terms may be beneficial for students of human anatomy. However, not all anatomical terms are derived from Classical origins. This study aims to explore the linguistic roots of the Modern English terminology used in human gross anatomy. By reference to the Oxford English Dictionary, etymologies were determined for a lexicon of 798 Modern English gross anatomical terms from the 40th edition of Gray's Anatomy. Earliest traceable language of origin was determined for all 798 terms; language of acquisition was determined for 747 terms. Earliest traceable languages of origin were: Classical Latin (62%), Classical Greek (24%), Old English (7%), Post-Classical Latin (3%), and other (4%). Languages of acquisition were: Classical Latin (42%), Post-Classical Latin (29%), Old English (8%), Modern French (6%), Classical Greek (5%), Middle English (3%), and other (7%). While the roots of Modern English anatomical terminology mostly lie in Classical languages (accounting for the origin of 86% of terms), the anatomical lexicon of Modern English is actually much more diverse. Interesting and perhaps less familiar examples from these languages and the methods by which such terms have been created and absorbed are discussed. The author suggests that awareness of anatomical etymologies may enhance the enjoyment and understanding of human anatomy for students and teachers alike. Clin. Anat. 25:1015\u20131022, 2012. \u00a9 2012 Wiley Periodicals, Inc.", 
+    "ISSN": "1098-2353", 
+    "page": "1015-1022", 
+    "volume": "25", 
+    "source": "Wiley Online Library", 
+    "issued": {
+      "date-parts": [
+        [
+          "2012", 
+          11
+        ]
+      ]
+    }, 
+    "container-title": "Clinical Anatomy", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          4, 
+          10
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Clin Anat", 
+    "type": "article-journal", 
+    "id": "turmezei:2012linguistic"
+  }, 
+  {
+    "note": "PMID: 10770446", 
+    "DOI": "10.1097/00000372-200004000-00021", 
+    "language": "eng", 
+    "shortTitle": "Pestilence narratives in classical literature", 
+    "title": "Pestilence narratives in classical literature: A study in creative imitation. I. Homer, Sophocles, Thucydides, and Lucretius", 
+    "issue": "2", 
+    "ISSN": "0193-1091", 
+    "page": "197-202", 
+    "volume": "22", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2000", 
+          4
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "container-title": "The American Journal of dermatopathology", 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "dirckx:2000pestilence1"
+  }, 
+  {
+    "publisher": "Elsevier", 
+    "ISBN": "0444522395", 
+    "publisher-place": "Amsterdam", 
+    "shortTitle": "Elsevier's dictionary of chemoetymology", 
+    "title": "Elsevier's dictionary of chemoetymology: The whies and whences of chemical nomenclature and terminology", 
+    "call-number": "QD7 .E56 2007", 
+    "number-of-pages": "433", 
+    "source": "Library of Congress ISBN", 
+    "event-place": "Amsterdam", 
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    }, 
+    "type": "book", 
+    "id": "senning:2007elsevier", 
+    "editor": [
+      {
+        "given": "Alexander", 
+        "family": "Senning"
+      }
+    ]
+  }, 
+  {
+    "note": "PMID: 11048986", 
+    "DOI": "10.1097/00000372-200010000-00015", 
+    "language": "eng", 
+    "shortTitle": "Pestilence narratives in classical literature", 
+    "title": "Pestilence narratives in classical literature: A study in creative imitation. II. Virgil, Ovid, Seneca, and Silius Italicus", 
+    "issue": "5", 
+    "abstract": "This article further explores patterns and traditions in classical accounts of pestilence. Recurring themes and expressions show that classical authors often copied earlier narratives, although literary analysis reveals that they sometimes embellished or distorted facts for their own purposes.", 
+    "ISSN": "0193-1091", 
+    "page": "459-464", 
+    "volume": "22", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2000", 
+          10
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "container-title": "The American Journal of dermatopathology", 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "dirckx:2000pestilence2"
+  }, 
+  {
+    "language": "Spanish", 
+    "title": "Scientific Language in Skin-Care Advertising: Persuading Through Opacity", 
+    "URL": "http://dialnet.unirioja.es/descarga/articulo/4597577.pdf", 
+    "issued": {
+      "date-parts": [
+        [
+          "2013"
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "Marisa", 
+        "family": "D\u00edez Arroyo"
+      }
+    ], 
+    "page": "197\u2013213", 
+    "volume": "26", 
+    "source": "Google Scholar", 
+    "container-title": "Revista espa\u00f1ola de ling\u00fc\u00edstica aplicada", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          6, 
+          19
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "arroyo:2013scientific"
+  }, 
+  {
+    "note": "PMID: 9919759", 
+    "author": [
+      {
+        "given": "Bo\u017eena", 
+        "family": "D\u017euganov\u00e1"
+      }
+    ], 
+    "language": "eng", 
+    "title": "Word analysis \u2013 A useful tool in learning the language of medicine in English", 
+    "URL": "http://www.bmj.sk/1998/09910-09.pdf", 
+    "issue": "10", 
+    "abstract": "Derivated medical terms can consist of a prefix, one or two word roots, a combining vowel, and a suffix in various combinations. To teach medical vocabulary means to teach the tools of word analysis that will enable understanding of complex terminology instead of memorising the whole medical dictionary. (Ref. 6.)", 
+    "ISSN": "0006-9248", 
+    "page": "551-553", 
+    "volume": "99", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "1998", 
+          10
+        ]
+      ]
+    }, 
+    "container-title": "Bratislavsk\u00e9 lek\u00e1rske listy/Bratislava Medical Journal", 
+    "journalAbbreviation": "Bratisl Lek Listy", 
+    "type": "article-journal", 
+    "id": "d\u017euganov\u00e1:1998word"
+  }, 
+  {
+    "DOI": "10.1038/sj.bdj.2008.844", 
+    "author": [
+      {
+        "given": "N.", 
+        "family": "Cooper"
+      }, 
+      {
+        "given": "L.", 
+        "family": "Cascarini"
+      }
+    ], 
+    "language": "en", 
+    "title": "Maxillary etymologies", 
+    "URL": "http://www.nature.com/bdj/journal/v205/n7/full/sj.bdj.2008.844.html", 
+    "issue": "7", 
+    "abstract": "Our vocabulary grows as undergraduates, and continues to develop as we continue to grow as dental professionals. For many of us not learned in Latin or Greek, we are too busy learning what words mean rather than appreciating why a word means what it does. This article aims to clarify where words relating to the maxilla are derived from, why they are used and how they are related to other similar words in everyday use.", 
+    "ISSN": "0007-0610, 1476-5373", 
+    "page": "393-394", 
+    "volume": "205", 
+    "source": "www.nature.com", 
+    "issued": {
+      "date-parts": [
+        [
+          "2008", 
+          10, 
+          11
+        ]
+      ]
+    }, 
+    "container-title": "British Dental Journal", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          4, 
+          10
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "cooper:2008maxillary"
+  }, 
+  {
+    "publisher": "American College of Physicians", 
+    "ISBN": "1930513496 9781930513495", 
+    "publisher-place": "Philadelphia", 
+    "shortTitle": "Medical meanings", 
+    "title": "Medical meanings: A glossary of word origins", 
+    "language": "English", 
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ]
+    }, 
+    "abstract": "This second edition of Medical Meanings is fully updated and revised to include over thirty percent more of the definitions, histories, and amusing. More than a dictionary, it explores the history of medical terms, tracing some back to classical roots and describing the recent coinage of others. All previous 3000 entries have been considered afresh, and many have been revised or sharpened, and nearly 300 new words and phrases have been added.", 
+    "author": [
+      {
+        "given": "William S.", 
+        "family": "Haubrich"
+      }
+    ], 
+    "number-of-pages": "282", 
+    "edition": "2", 
+    "source": "Open WorldCat", 
+    "event-place": "Philadelphia", 
+    "type": "book", 
+    "id": "haubrich:2003medical"
+  }, 
+  {
+    "note": "PMID: 23112209", 
+    "DOI": "10.1002/ca.22053", 
+    "author": [
+      {
+        "given": "Alessandro", 
+        "family": "Paluzzi"
+      }, 
+      {
+        "given": "Juan", 
+        "family": "Fernandez-Miranda"
+      }, 
+      {
+        "given": "Matthew", 
+        "family": "Torrenti"
+      }, 
+      {
+        "given": "Paul", 
+        "family": "Gardner"
+      }
+    ], 
+    "language": "en", 
+    "title": "Retracing the etymology of terms in neuroanatomy", 
+    "URL": "http://onlinelibrary.wiley.com/doi/10.1002/ca.22053/abstract", 
+    "issue": "8", 
+    "abstract": "Researching the origin of the terms that we use to identify neuroanatomical structures is a helpful and fascinating exercise. It can provide neuroscientists with a better insight and understanding of the macroscopic anatomy of the cranium and its contents. It can also help the novice to this discipline to become acquainted with structures whose three dimensional anatomy is often difficult to appreciate. The purpose of this article was to investigate the etymology of some of the terms referring to the macroscopic anatomical structures of the skull and the intracranial cavity. We observed how each name unravels an interesting story, sometimes linked to mythological creatures, other times to the shape of animals or objects and tools of everyday life. We conclude that even without a deep knowledge of the Greek, Latin, or Arabic language, learning who described a particular structure and how they decided to name it, makes the study of neuroanatomy more complete and fulfilling. Clin. Anat. 25:1005\u20131014, 2012. \u00a9 2012 Wiley Periodicals, Inc.", 
+    "ISSN": "1098-2353", 
+    "page": "1005-1014", 
+    "volume": "25", 
+    "source": "Wiley Online Library", 
+    "issued": {
+      "date-parts": [
+        [
+          "2012", 
+          11
+        ]
+      ]
+    }, 
+    "container-title": "Clinical Anatomy", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          4, 
+          10
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Clin. Anat.", 
+    "type": "article-journal", 
+    "id": "paluzzi:2012retracing"
+  }, 
+  {
+    "note": "PMID: 12571757", 
+    "language": "eng", 
+    "shortTitle": "Latin as the language of medical terminology", 
+    "title": "Latin as the language of medical terminology: Some remarks on its role and prospects", 
+    "URL": "http://www.smw.ch/dfe/set_archiv.asp?target=2002/41/smw-10027", 
+    "issue": "41\u201342", 
+    "abstract": "The present paper offers an up-to-date view of the status of Latin as the language of medicine, namely in its terminological component. It is concerned in greater detail with the three basic terminological vocabularies in which a doctor cannot so far manage without its knowledge. In this sense a primary rank is occupied by anatomical nomenclature whose international version remains Latin in the full extent. A more varied picture is presented by the clinical disciplines where, apart from Latin terms, expressions of ancient provenance have been applied in a large measure in the form of ethnic languages. At the same time, particularly in view of the needs of computerisation, repeated attempts have appeared to support English, which has the greatest chance of becoming a new language in the particular region of clinical medicine. In pharmaceutical terminology Latin has, for the time being, remained a functioning means of international communication, guaranteed by the European Pharmacopoeia (1996) and by the corpus of International Non-proprietary Names (1992, 1996), even though in the future an ever stronger competition of national languages should be taken into account.", 
+    "ISSN": "1424-7860", 
+    "page": "581-587", 
+    "volume": "132", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2002", 
+          11, 
+          23
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "Elena", 
+        "family": "Mare\u010dkov\u00e1"
+      }, 
+      {
+        "given": "Franti\u0161ek", 
+        "family": "\u0160imon"
+      }, 
+      {
+        "given": "Ladislav", 
+        "family": "\u010cerven\u00fd"
+      }
+    ], 
+    "container-title": "Swiss medical weekly", 
+    "journalAbbreviation": "Swiss Med Wkly", 
+    "type": "article-journal", 
+    "id": "mare\u010dkov\u00e1:2002latin"
+  }, 
+  {
+    "note": "PMID: 7235198", 
+    "DOI": "10.1097/00000372-198100310-00005", 
+    "language": "en", 
+    "shortTitle": "A description and directory of plural forms of medical Latin words and terms", 
+    "title": "A description and directory of plural forms of medical Latin words and terms", 
+    "URL": "http://journals.lww.com/amjdermatopathology/Citation/1981/00310/A_description_and_directory_of_plural_forms_of.5.aspx", 
+    "issue": "1", 
+    "ISSN": "0193-1091", 
+    "page": "41-53", 
+    "volume": "3", 
+    "source": "CrossRef", 
+    "issued": {
+      "date-parts": [
+        [
+          "1981"
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }, 
+      {
+        "given": "Morris", 
+        "family": "Leider"
+      }
+    ], 
+    "container-title": "The American Journal of Dermatopathology", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          7, 
+          23
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "dirckx:1981description"
+  }, 
+  {
+    "note": "PMID: 11176058", 
+    "DOI": "10.1097/00000372-200102000-00014", 
+    "language": "eng", 
+    "shortTitle": "More than one", 
+    "title": "More than one: Plurality in thought and language", 
+    "issue": "1", 
+    "abstract": "This paper surveys the grammatical category of number, by which we distinguish groups or sets of two or more similar entities from a singular or solitary entity. The ways in which the English language signifies plurality are reviewed, and irregular and null plurals are identified and classified. The interaction of form and meaning is explored, particularly with respect to collective and mass nouns. Common exceptions to basic grammatical patterns are discussed as well as recurring errors and misunderstandings pertaining to plural forms.", 
+    "ISSN": "0193-1091", 
+    "page": "69-75", 
+    "volume": "23", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2001", 
+          2
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "container-title": "The American Journal of dermatopathology", 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "dirckx:2001more"
+  }, 
+  {
+    "note": "PMID: 3232757", 
+    "DOI": "10.1097/00000372-198806000-00013", 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "language": "eng", 
+    "title": "Latin is alive and well", 
+    "issue": "3", 
+    "ISSN": "0193-1091", 
+    "page": "270-274", 
+    "volume": "10", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "1988", 
+          6
+        ]
+      ]
+    }, 
+    "container-title": "The American Journal of dermatopathology", 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "dirckx:1988latin"
+  }, 
+  {
+    "note": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=162511&lang=en", 
+    "author": [
+      {
+        "given": "Bo\u017eena", 
+        "family": "D\u017euganov\u00e1"
+      }
+    ], 
+    "language": "en", 
+    "title": "English medical terminology \u2013 different ways of forming medical terms", 
+    "URL": "http://hrcak.srce.hr/file/162511", 
+    "issue": "7", 
+    "abstract": "In medical terminology, two completely different phenomena can be seen: 1. precisely worked-out and internationally standardised anatomical nomenclature and 2. quickly developing non-standardised terminologies of individual clinical...", 
+    "ISSN": "1847-6376", 
+    "page": "55-69", 
+    "volume": "4", 
+    "source": "hrcak.srce.hr", 
+    "issued": {
+      "date-parts": [
+        [
+          "2013", 
+          5
+        ]
+      ]
+    }, 
+    "container-title": "JAHR", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          6, 
+          19
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "d\u017euganov\u00e1:2013english"
+  }, 
+  {
+    "DOI": "10.1038/bdj.2007.733", 
+    "author": [
+      {
+        "given": "L.", 
+        "family": "Cascarini"
+      }
+    ], 
+    "language": "en", 
+    "title": "Mandibular etymologies", 
+    "URL": "http://www.nature.com/bdj/journal/v203/n4/full/bdj.2007.733.html", 
+    "issue": "4", 
+    "abstract": "Many of us can remember how much our vocabulary grew as undergraduates and indeed has continued to grow as dental professionals. For many of us not trained in Latin and Greek we have often been too busy learning what the word means to understand why it means what it does. This article aims to clarify things a little. It explains where words relating to the mandible come from, why we use them now and also shows how they are related to other similar words in everyday use.", 
+    "ISSN": "0007-0610", 
+    "page": "209-210", 
+    "volume": "203", 
+    "source": "www.nature.com", 
+    "issued": {
+      "date-parts": [
+        [
+          "2007", 
+          8, 
+          25
+        ]
+      ]
+    }, 
+    "container-title": "British Dental Journal", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          4, 
+          10
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Br Dent J", 
+    "type": "article-journal", 
+    "id": "cascarini:2007mandibular"
+  }, 
+  {
+    "publisher": "Lippincott Williams & Wilkins", 
+    "ISBN": "0781733901", 
+    "publisher-place": "Philadelphia", 
+    "title": "Stedman's medical dictionary", 
+    "URL": "http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=14615", 
+    "call-number": "R121 .S8 2006", 
+    "edition": "28", 
+    "source": "Library of Congress ISBN", 
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    }, 
+    "event-place": "Philadelphia", 
+    "type": "book", 
+    "id": "stegman:2006stedmans", 
+    "editor": [
+      {
+        "given": "Julie K.", 
+        "family": "Stegman"
+      }, 
+      {
+        "given": "Eric", 
+        "family": "Branger"
+      }, 
+      {
+        "given": "Tiffany", 
+        "family": "Piper"
+      }, 
+      {
+        "given": "Thomas W.", 
+        "family": "Filardo"
+      }, 
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }, 
+      {
+        "given": "Raymond", 
+        "family": "Lukens"
+      }, 
+      {
+        "given": "William R.", 
+        "family": "Hensyl"
+      }
+    ]
+  }, 
+  {
+    "publisher": "Clarendon Press", 
+    "ISBN": "0198642261", 
+    "publisher-place": "Oxford", 
+    "title": "A Greek-English lexicon", 
+    "URL": "http://logeion.uchicago.edu/", 
+    "call-number": "PA445.E5 L6 1996", 
+    "number-of-pages": "2042", 
+    "edition": "9", 
+    "source": "Library of Congress ISBN", 
+    "issued": {
+      "date-parts": [
+        [
+          "1940"
+        ]
+      ]
+    }, 
+    "event-place": "Oxford", 
+    "type": "book", 
+    "id": "liddell:1940greek", 
+    "editor": [
+      {
+        "given": "Henry George", 
+        "family": "Liddell"
+      }, 
+      {
+        "given": "Robert", 
+        "family": "Scott"
+      }, 
+      {
+        "given": "Henry", 
+        "family": "Stuart Jones"
+      }
+    ]
+  }, 
+  {
+    "note": "PMID: 18488135", 
+    "DOI": "10.1007/s00276-008-0357-y", 
+    "language": "eng", 
+    "shortTitle": "Anatomical terminology and nomenclature", 
+    "title": "Anatomical terminology and nomenclature: Past, present and highlights", 
+    "URL": "http://link.springer.com/10.1007/s00276-008-0357-y", 
+    "issue": "6", 
+    "abstract": "The anatomical terminology is a base for medical communication. It is elaborated into a nomenclature in Latin. Its history goes back to 1895, when the first Latin anatomical nomenclature was published as Basiliensia Nomina Anatomica. It was followed by seven revisions (Jenaiensia Nomina Anatomica 1935, Parisiensia Nomina Anatomica 1955, Nomina Anatomica 2nd to 6th edition 1960-1989). The last revision, Terminologia Anatomica, (TA) created by the Federative Committee on Anatomical Terminology and approved by the International Federation of Associations of Anatomists, was published in 1998. Apart from the official Latin anatomical terminology, it includes a list of recommended English equivalents. In this article, major changes and pitfalls of the nomenclature are discussed, as well as the clinical anatomy terms. The last revision (TA) is highly recommended to the attention of not only teachers, students and researchers, but also to clinicians, doctors, translators, editors and publishers to be followed in their activities.", 
+    "ISSN": "0930-1038", 
+    "page": "459-466", 
+    "volume": "30", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2008", 
+          8
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "David", 
+        "family": "Kachl\u00edk"
+      }, 
+      {
+        "given": "V\u00e1clav", 
+        "family": "B\u00e1\u010da"
+      }, 
+      {
+        "given": "Ivana", 
+        "family": "Bozd\u011bchov\u00e1"
+      }, 
+      {
+        "given": "Pavel", 
+        "family": "\u010cech"
+      }, 
+      {
+        "given": "Vladim\u00edr", 
+        "family": "Musil"
+      }
+    ], 
+    "container-title": "Surgical and Radiologic Anatomy", 
+    "journalAbbreviation": "Surg Radiol Anat", 
+    "type": "article-journal", 
+    "id": "kachl\u00edk:2008anatomical"
+  }, 
+  {
+    "note": "PMID: 18032959", 
+    "DOI": "10.1097/DAD.0b013e3181597a43", 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "language": "eng", 
+    "title": "Isidore of Seville on the origins and meanings of medical terms", 
+    "issue": "6", 
+    "abstract": "Early in the 7th century of our era, the prelate and scholar Isidore of Seville compiled a Latin encyclopedia of classical learning that retained its popularity throughout the Middle Ages and into early modern times. This work, called Origines seu Etymologiae, treats many of its topics by tracing (often fancifully and incorrectly) the histories of their terms. From Book IV, which deals with medicine, 3 chapters containing glossaries of acute, chronic, and cutaneous diseases are here translated.", 
+    "ISSN": "1533-0311", 
+    "page": "581-583", 
+    "volume": "29", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2007", 
+          12
+        ]
+      ]
+    }, 
+    "container-title": "The American Journal of dermatopathology", 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "dirckx:2007isidore"
+  }, 
+  {
+    "publisher": "Clarendon Press", 
+    "ISBN": "9780198611868", 
+    "publisher-place": "Oxford", 
+    "title": "The Oxford English dictionary", 
+    "URL": "http://www.oed.com/", 
+    "call-number": "PE1625 .O87 1991", 
+    "edition": "2", 
+    "source": "Library of Congress ISBN", 
+    "issued": {
+      "date-parts": [
+        [
+          "1989"
+        ]
+      ]
+    }, 
+    "number-of-volumes": "20", 
+    "event-place": "Oxford", 
+    "type": "book", 
+    "id": "simpson:1989oxford", 
+    "editor": [
+      {
+        "given": "J.A.", 
+        "family": "Simpson"
+      }, 
+      {
+        "given": "E.S.C.", 
+        "family": "Weiner"
+      }
+    ]
+  }, 
+  {
+    "DOI": "10.1016/B0-08-044854-2/04268-1",
+		"publisher": "Elsevier", 
+    "ISBN": "978-0-08-044854-1", 
+    "publisher-place": "Oxford", 
+    "shortTitle": "Anatomical Nomenclature", 
+    "title": "Anatomical Nomenclature: History", 
+    "URL": "http://dx.doi.org/10.1016/B0-08-044854-2/04268-1", 
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    }, 
+    "abstract": "An accurate and systematic nomenclature is of paramount importance in a purely descriptive discipline such as anatomy. Because Western science and medicine began in Greece, the earliest names for parts of the body were Greek words, at first borrowed from the vernacular. The growth and spread of anatomic knowledge eventually demanded a more specialized vocabulary. Later, as Latin became the international medium of scholarly communication, a copious and richly metaphoric but unsystematic lexicon of anatomy evolved in that language. In the 19th century, European anatomists organized to forge a more logical, consistent, and economical Latin nomenclature. Modern usage is a hybrid of vernacular words and of Latin and Greek drawn from various systems and periods.", 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "page": "244-252", 
+    "edition": "2", 
+    "source": "ScienceDirect", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          4, 
+          10
+        ]
+      ]
+    }, 
+    "container-title": "Encyclopedia of Language & Linguistics", 
+    "event-place": "Oxford", 
+    "type": "chapter", 
+    "id": "dirckx:2006anatomical", 
+    "editor": [
+      {
+        "given": "Keith", 
+        "family": "Brown"
+      }
+    ]
+  }, 
+  {
+    "note": "PMID: 10218686", 
+    "DOI": "10.1097/00000372-199904000-00018", 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "language": "eng", 
+    "title": "Little things that count", 
+    "issue": "2", 
+    "ISSN": "0193-1091", 
+    "page": "204-207", 
+    "volume": "21", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "1999", 
+          4
+        ]
+      ]
+    }, 
+    "container-title": "The American Journal of dermatopathology", 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "dirckx:1999little"
+  }, 
+  {
+    "publisher": "Clarendon Press", 
+    "publisher-place": "Oxford", 
+    "title": "A Latin dictionary: Founded on Andrews' edition of Freund's Latin dictionary", 
+    "URL": "http://logeion.uchicago.edu/", 
+    "call-number": "PA2365 .E5 1975", 
+    "number-of-pages": "2019", 
+    "source": "toroprod.library.utoronto.ca Library Catalog", 
+    "event-place": "Oxford", 
+    "issued": {
+      "date-parts": [
+        [
+          "1879"
+        ]
+      ]
+    }, 
+    "type": "book", 
+    "id": "lewis:1879latin", 
+    "editor": [
+      {
+        "given": "Charlton T.", 
+        "family": "Lewis"
+      }, 
+      {
+        "given": "Charles", 
+        "family": "Short"
+      }
+    ]
+  }, 
+  {
+    "note": "PMID: 10752566", 
+    "DOI": "10.1007/s007050050036", 
+    "author": [
+      {
+        "given": "M.H.", 
+        "family": "van Regenmortel"
+      }
+    ], 
+    "language": "eng", 
+    "title": "On the relative merits of italics, Latin and binomial nomenclature in virus taxonomy", 
+    "issue": "2", 
+    "ISSN": "0304-8608", 
+    "page": "433-441", 
+    "volume": "145", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2000", 
+          2
+        ]
+      ]
+    }, 
+    "container-title": "Archives of virology", 
+    "journalAbbreviation": "Arch. Virol.", 
+    "type": "article-journal", 
+    "id": "regenmortel:2000relative"
+  }, 
+  {
+    "note": "PMID: 3977018", 
+    "DOI": "10.1097/00000372-198502000-00009", 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "language": "eng", 
+    "title": "And now a few words about sex", 
+    "issue": "1", 
+    "ISSN": "0193-1091", 
+    "page": "43-48", 
+    "volume": "7", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "1985", 
+          2
+        ]
+      ]
+    }, 
+    "container-title": "The American Journal of dermatopathology", 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "dirckx:1985and"
+  }, 
+  {
+    "note": "PMID: 2393072", 
+    "DOI": "10.1097/00000372-199008000-00016", 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "language": "eng", 
+    "title": "More living Latin", 
+    "issue": "4", 
+    "ISSN": "0193-1091", 
+    "page": "422-429", 
+    "volume": "12", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "1990", 
+          8
+        ]
+      ]
+    }, 
+    "container-title": "The American Journal of dermatopathology", 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "dirckx:1990more"
+  }, 
+  {
+    "note": "PMID: 578903", 
+    "DOI": "10.1001/jama.1977.03280200055019", 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "title": "Hybrid words in medical terminology", 
+    "URL": "http://dx.doi.org/10.1001/jama.1977.03280200055019", 
+    "issue": "19", 
+    "abstract": "SEVERAL communications recently published in the medical literature have stirred up the embers of an ageold controversy about compound words that contain both Greek and Latin elements. Ganias1 proposed the introduction of five new ophthalmologic terms of Greek origin to rectify certain bilingual coinages that he found \"complicated and confusing.\" In a related editorial,2 Blodi approved the effort to \"keep the language unadulterated,\" ie, to avoid coupling Greek with Latin.Hussey3 took up the question of hybrid terms and dealt with it in a reasonable and practical fashion. After contributing his own balanced views, he presented the results of a small poll of other editors' opinions: all agreed that opposition to Greek-Latin hybrids is, in general, both groundless and futile. My purpose is to place the question in historical perspective and to offer practical suggestions for its resolution.THE DEVELOPMENT OF TECHNICAL NOMENCLATURE\u00a0\nA living language evolves", 
+    "ISSN": "0098-7484", 
+    "page": "2043-2045", 
+    "volume": "238", 
+    "source": "Silverchair", 
+    "issued": {
+      "date-parts": [
+        [
+          "1977", 
+          11, 
+          7
+        ]
+      ]
+    }, 
+    "container-title": "Journal of the American Medical Association", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          5, 
+          7
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "JAMA", 
+    "type": "article-journal", 
+    "id": "dirckx:1977hybrid"
+  }, 
+  {
+    "note": "PMID: 7081628", 
+    "DOI": "10.1097/00000372-198202000-00005", 
+    "author": [
+      {
+        "given": "Morris", 
+        "family": "Leider"
+      }, 
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "language": "en", 
+    "title": "A glossary of selected classical and neo-classical expressions apt or adaptable in medical writing", 
+    "URL": "http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=00000372-198202000-00005", 
+    "issue": "1", 
+    "ISSN": "0193-1091", 
+    "page": "25-38", 
+    "volume": "4", 
+    "source": "CrossRef", 
+    "issued": {
+      "date-parts": [
+        [
+          "1982", 
+          2
+        ]
+      ]
+    }, 
+    "container-title": "The American Journal of Dermatopathology", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          7, 
+          23
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "leider:1982glossary"
+  }, 
+  {
+    "publisher": "University of Arizona Press", 
+    "ISBN": "0816503052", 
+    "publisher-place": "Tucson", 
+    "shortTitle": "Bioscientific terminology", 
+    "title": "Bioscientific terminology: Words from Latin and Greek stems", 
+    "call-number": "QH83 .A94", 
+    "abstract": "Presents Greek and Latin (in that order), mostly using word roots. Some of the material is obsolete, and there are also some errors. Nonetheless, the book remains one of the better overviews for Latin and Greek words across life sciences. Used as a textbook at the University of Toronto for many years.", 
+    "author": [
+      {
+        "given": "Donald M.", 
+        "family": "Ayers"
+      }
+    ], 
+    "number-of-pages": "325", 
+    "source": "Library of Congress ISBN", 
+    "event-place": "Tucson", 
+    "issued": {
+      "date-parts": [
+        [
+          "1972"
+        ]
+      ]
+    }, 
+    "type": "book", 
+    "id": "ayers:1972bioscientific"
+  }, 
+  {
+    "note": "PMID: 20069644", 
+    "DOI": "10.1002/ca.20912", 
+    "author": [
+      {
+        "given": "Daniel D.", 
+        "family": "Lydiatt"
+      }, 
+      {
+        "given": "Gregory S.", 
+        "family": "Bucher"
+      }
+    ], 
+    "language": "eng", 
+    "title": "The historical Latin and etymology of selected anatomical terms of the larynx", 
+    "URL": "http://onlinelibrary.wiley.com/doi/10.1002/ca.20912/abstract", 
+    "issue": "2", 
+    "abstract": "The etymological evolution of the anatomical terms larynx, cricoid, glottis, epiglottis, and thyroid (cartilage) dates to antiquity. Human dissection replaced animal in the 16th and 17th centuries and terms evolved. This evolution was recorded in the literature largely in Latin. We translated key studies of laryngeal anatomy from the 16th century to better understand this evolution. We present the Latin with our translations, and historical commentary as essential to this understanding. Vesalius favored the Latin scutiform (shield) for the thyroid cartilage, but recognized peltalis (shield). The Basle Nomina Anatomica (BNA) chose the Greek thyroid (theta upsilon rho epsilon omicron epsilon iota delta eta) for modern convention. Vesalius used the name \"innominate\" for the cricoid cartilage, but described its resemblance to a ring, drawn in the margin of the Fabrica. Krikoid, the Greek for ring shaped, was adopted by the BNA. Although the term arytenoid was used for centuries, Vesalius argued the Greek name referred to the spout of a cup or ladle. He recognized the human arytenoids as two separate cartilages as opposed to single in certain animals. The glottis was defined by Vesalius as the vocal fold or rima glottidis of today, and he advanced its function by understanding the paired, mobile arytenoid cartilages. He defined the function of the epiglottis and first described the pre-epiglottic space. Vesalius' student at Padua, Italy, Columbo contributed to anatomical knowledge, but animosity between them clouded the record. Harvey, working 75 years later in England, offers an evolutionary window from Vesalius. Harvey's laryngeal studies preceded by a decade his groundbreaking studies on the circulation of blood.", 
+    "ISSN": "1098-2353", 
+    "page": "131-144", 
+    "volume": "23", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2010", 
+          3
+        ]
+      ]
+    }, 
+    "container-title": "Clinical Anatomy", 
+    "journalAbbreviation": "Clin Anat", 
+    "type": "article-journal", 
+    "id": "lydiatt:2010historical"
+  }
 ]

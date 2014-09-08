@@ -1,12 +1,13 @@
 ---
 title: Latin and Greek in Scientific Terminology
 subtitle: <span style="font-variant:small-caps;">cla201h5f</span>
+bibliography: bibliography-syllabus.json
 csl: chicago-author-date.csl
 template: classicthesis.latex
 geometry: left=5cm, top=2cm, right=5cm, bottom=3cm
 ---
 
-<!-- To create PDF: pandoc cla201-syllabus-fall-2014.markdown -F pandoc-zotxt -F pandoc-citeproc -o cla201-syllabus-fall-2014.pdf -->
+<!-- To create PDF: pandoc cla201-syllabus-fall-2014.markdown -F pandoc-citeproc -o cla201-syllabus-fall-2014.pdf --latex-engine=xelatex -->
 
 #### Classes
 Thursdays, 11 September–27 November 2014, 3:00–6:00 <span style="font-variant:small-caps;">pm</span>
@@ -18,7 +19,7 @@ Thursdays, 11 September–27 November 2014, 3:00–6:00 <span style="font-varian
 Andrew Dunning, <andrew.dunning@utoronto.ca>
 
 #### Office Hours
-Thursdays during term, 2:00–3:00 <span style="font-variant:small-caps;">pm</span>, [<span style="font-variant:small-caps;">ne</span>](http://map.utoronto.ca/utm/building/311) 272A
+Thursdays during term, 2:00–3:00 <span style="font-variant:small-caps;">pm</span>, [<span style="font-variant:small-caps;">ne</span>](http://map.utoronto.ca/utm/building/311) 272<span style="font-variant:small-caps;">a</span>
 
 #### Teaching Assistant
 Jay Gearey, <jay.gearey@utoronto.ca>
@@ -28,9 +29,7 @@ Jay Gearey, <jay.gearey@utoronto.ca>
 
 # Course description
 
-The natural sciences, and the life sciences in particular, employ an enormous vocabulary of technical terms that present a sizeable challenge to the beginning student. The complexity of these terms is owed in part to the fact that many were formed from Greek and Latin words, in order to allow for easier communication within a multilingual scientific community at a time when most of its members learned these languages as a core part of their education. Although most students of the sciences are no longer expected to learn classical languages, a basic exposure to the Latin and Greek elements of scientific language can make it much easier to understand the meaning of technical terms and to expand one’s scientific vocabulary.
-
-No previous knowledge of Greek or Latin is expected of students.
+The natural sciences, and the life sciences in particular, employ an enormous vocabulary of technical terms, presenting a sizeable challenge to the beginning student. The complexity of these terms is owed in part to the fact that many were formed from Greek and Latin words, in order to allow for easier communication within a multilingual scientific community at a time when most of its members learned these languages as a core part of their education. Although most students of the sciences are no longer expected to learn classical languages, a basic exposure to the Latin and Greek elements of scientific language can make it much easier to understand the meaning of technical terms and to expand one’s scientific vocabulary.
 
 ## Learning goals
 
@@ -39,59 +38,56 @@ No previous knowledge of Greek or Latin is expected of students.
 - Gain the skills necessary to identify the Greek and Latin elements of scientific terminology and give their meaning.
 - Understand the historical processes leading to the development of current scientific terminology.
 
+## How to succeed in this course
+
+This course does not presume previous knowledge of Greek or Latin. Nonetheless, as it covers a broad period of history and includes many unfamiliar concepts, ensure that you do the following:
+
+- Examine the course readings before class and make brief notes in your own words to ensure that you understand the concepts they describe. This will help you to digest the information more thoroughly and save you hours when studying for the tests and final exam.
+- Start learning the vocabulary each week before class, and review it daily using flashcards or one of several online programs. Try to link Latin and Greek roots to words you already know, and point these connections out to the rest of us.
+- Ask questions; chances are that someone else is wondering the same thing as you, regardless of how silly you might think it sounds. Come to my office hours if you don't understand something we covered.
+
 # Assignments
 
 Assessment is based on a series of tests, in which you will demonstrate your knowledge of Latin and Greek word forms as applied to scientific terminology, and written assignments, in which you will demonstrate your ability to engage with scientific literature. These are weighted as follows:
 
-- Test I (16 October): 20%
-- Test II (20 November): 20%
-- Weekly Vocabulary Assignments (due the night before each class): 10%
-- Vocabulary Analysis Paper (due 27 November): 15%
-- Final Exam: 35%
-
-No late assignments will be accepted without advance permission from the instructor.
+- Test I (*16 October*): 20%
+- Test II (*20 November*): 20%
+- Weekly Vocabulary Assignments (*due the day before each class*): 5%
+- Vocabulary Analysis Paper (*due 27 November*): 15%
+- Final Exam (*date to be announced*): 40%
 
 ## Tests and final exam
 
-Two general etymology tests will be given over the course of the term, in which you will analyse a set of words and give the meanings of their elements. The vocabulary for these tests will be drawn entirely from the vocabulary list distributed to the class. The final exam (cumulative) will combine these elements with discussions of terminology in passages from scientific articles, and short-answer questions on the historical development of scientific terminology.
+Two tests will be conducted, in which you will be expected to:
 
-## Pre-lecture analyses of article vocabulary
+- analyse scientific terms and give the meanings of their elements;
+- provide the meanings of word roots from the vocabulary list;
+- transliterate words written in the Greek alphabet into their equivalents in the Roman alphabet;
+- identify the derivation of words in passages from scientific articles;
+- provide English terms matching definitions for word roots; and
+- respond to questions on the history of scientific developments in the classical, medieval, and early modern periods that influenced the development of modern scientific nomenclature.
 
-During each lecture, we will dissect the terminology of two peer-reviewed scientific articles. Before class, skim one of the articles (to which links will be supplied on the Learning Portal) and make a list of ten words that you find unusual and appear to you to be based on Greek or Latin. Break down one of these words into its constituent roots based on the etymologies provided in dictionaries (please indicate which you are using). This must be submitted through the Learning Portal **by 11:59 pm the night before each class**. We will analyse these words during class the following day.
+Practice tests will be conducted in advance in order to familiarize you with the format. The vocabulary for these tests will be drawn entirely from the vocabulary list distributed to the class; the historical content for the tests will come from a combination of the lectures and the course readings. The final exam (cumulative) will combine these elements with discussions of terminology in passages from scientific articles, and short-answer questions on the historical development of scientific terminology.
 
-## In-depth analysis of article vocabulary
+## Weekly vocabulary assignments
 
-This assignment builds on your weekly experience examining vocabulary from journals. Select twenty terms from two recent (2014) articles in peer-reviewed scientific journals, and analyse their etymology and meaning. You should use at least three different dictionaries (or other scholarly sources) to support your findings. As models, you might examine @cascarini:2007mandibular or @cooper:2008maxillary. Unlike these articles, however, you must fully cite the dictionaries and other sources used using author-date system of the [*Chicago Manual of Style*](http://www.chicagomanualofstyle.org.myaccess.library.utoronto.ca/) (used in this syllabus) or another style relevant to your discipline.
+During each lecture, we will dissect the terminology of a recent peer-reviewed scientific article. Before class, look through the week's article (posted on the Learning Portal; note that these are separate from the course readings) and make a list of ten words that you find unusual and appear to you to be based on Greek or Latin. Break down one of these words into its constituent roots based on the etymologies provided in dictionaries. This must be submitted through the Learning Portal **by 11:59 <span style="font-variant:small-caps;">pm</span> the night before each class**; late assignments will not be accepted, but one will be subtracted from the final evaluation. We will analyse these words during class the following day. Assessment is based on both the completion of the assignment and participation in class.
 
-# Missed and late assignments or tests
+## Vocabulary analysis paper
 
-Tests and assignments may be excused only in cases of medical or personal emergencies. Within three days of the event, absences must be reported online through ROSI, in addition to notifying me via email. The weight of the excused test or assignment will be added to the weight of the next such item on the schedule. Pre-lecture analyses of article vocabulary may be excused, but not handed in late. The in-depth analysis of article vocabulary will only be accepted after the deadline with prior permission (which must be requested at least two days in advance via email).
+This assignment builds on your weekly experience examining vocabulary from journals. Select twenty terms total from any two recent (2014) articles in peer-reviewed scientific journals, and analyse their etymology and meaning. You should use at least three different dictionaries (or other scholarly sources) to support your findings. For models, see @cascarini:2007mandibular and @cooper:2008maxillary. Unlike these articles, however, you must fully cite the dictionaries and other sources used using author-date system of the [*Chicago Manual of Style*](http://www.chicagomanualofstyle.org.myaccess.library.utoronto.ca/) (used in this syllabus) or another style relevant to your discipline. Further details are provided separately.
 
-# Academic integrity
+# Resources
 
-Academic integrity is fundamental to learning and scholarship; for a recent example of its importance to the sciences, see @garner:2014case. Participating honestly, respectfully, responsibly, and fairly in this academic community ensures that the University of Toronto degree that you earn will be valued as a true indication of your individual academic achievement, and will continue to receive the respect and recognition it deserves. All suspected cases of academic dishonesty will be investigated following the procedures outlined in the University of Toronto’s [Code of Behaviour on Academic Matters](http://www.governingcouncil.utoronto.ca/policies/behaveac.htm). The consequences for academic misconduct can be severe, including a failure in the course and a notation on your transcript. If you have any questions about what is or is not permitted in this course, please do not hesitate to contact me. If you have questions about appropriate research and citation methods, seek out additional information from me, or from other available campus resources. If you are experiencing personal challenges that are having an impact on your academic work, please speak to me or seek the advice of your college registrar.
+All required readings are listed in the schedule below and available online; these supplement the lectures by providing historical background on the development of scientific terminology and some points of grammar. Questions based on these readings will appear on the tests and final exam.
 
-# Accessibility
+We will make extensive use of the etymologies found in English and technical dictionaries. The [*Oxford English Dictionary*](http://www.oed.com.myaccess.library.utoronto.ca) [@simpson:1989oxford] is excellent, and you will become intimately familiar with it. For quick reference, I would recommend the [*Oxford Dictionary of English*](http://www.oxforddictionaries.com) [@stevenson:2010oxford], whose online version includes recordings of pronunciation; the dictionary is also included with Mac OS X. [*Taber's Cyclopedic Medical Dictionary*](http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=1079336) [@venes:2013taber] and [*Stedman's Medical Dictionary*](http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=14615) [@stegman:2006stedmans] are excellent medical dictionaries with etymologies, available in the library's reference collection and online; @senning:2007elsevier, in reference, is useful for understanding chemical names. @haubrich:2003medical is a useful reference tool for examining the origins of medical words, and is on reserve at the library.
 
-Students with diverse learning styles and needs are welcome in this course. If you have a disability or health consideration that may require accommodations, please feel free to approach me and/or the [AccessAbility Resource Centre](http://www.utm.utoronto.ca/accessability/) as soon as possible. AccessAbility staff (located in [<span style="font-variant:small-caps;">dv</span>](http://map.utoronto.ca/utm/building/313) 2047) are available by appointment to assess specific needs, provide referrals and arrange appropriate accommodations. The sooner you let us know your needs, the quicker we can assist you in achieving your learning goals in this course.
+Classical dictionaries are necessary to fill in the details for more obscure terms. Available online through [Logeion](http://logeion.uchicago.edu), [Perseus](http://www.perseus.tufts.edu/hopper/morph), and various other sources are two of the most comprehensive dictionaries of Greek and Latin, respectively: @liddell:1940greek – for which a 1996 supplement is available in print – and @lewis:1879latin. The latter of these is quite dated, and for the purposes of classical scholarship it has been replaced by the *Oxford Latin Dictionary* [@glare:1982oxford], but this is only available in print.
 
-The [Robert Gillespie Academic Skills Centre](http://www.utm.utoronto.ca/asc/undergraduate-students) is also available to all students, and offers a full range of workshops, seminars and individual consultations.
-
-# Questions
-
-You may direct any questions or concerns about the lectures or assignments to the instructor either via email or during office hours. Please ensure that the course code (<span style="font-variant:small-caps;">cla201h5f</span>) is included in the subject line, and that you sign your message with your full name. I will respond to all messages within 48 hours.
+You may also wish to make use of @ayers:1972bioscientific, on reserve at the library, from which much of this course's vocabulary and structure is derived; it includes additional exercises that you may find helpful.
 
 \pagebreak
-
-# Readings
-
-There is no required textbook for this course. All readings are available as PDFs through the Learning Portal; these supplement the lectures by providing historical background on the development of scientific terminology and some points of grammar. Questions based on these readings will appear on the tests and final exam.
-
-We will make extensive use of the etymologies found in English and technical dictionaries. The [*Oxford English Dictionary*](http://www.oed.com.myaccess.library.utoronto.ca) is excellent, but often more detailed than what you strictly need for this course. For quick reference, I would recommend @stevenson:2010oxford, available online through [Oxford Dictionaries](http://www.oxforddictionaries.com) with recordings of pronunciation (also included with Mac OS X). @venes:2013taber and @stegman:2006stedmans are excellent medical dictionaries with etymologies available in the library's reference collection and online, while @senning:2007elsevier (in reference) is useful for understanding the etymology of chemical names.
-
-Classical dictionaries are necessary to fill in the details for more obscure terms. Available online through [Logeion](http://logeion.uchicago.edu), [Perseus](http://www.perseus.tufts.edu/hopper/morph), and various other sources are two of the most comprehensive dictionaries of Greek and Latin, respectively: @liddell:1940greek – for which a 1996 supplement is available in print – and @lewis:1879latin. Also available in the library's reference collection is @glare:1982oxford, a more recent Latin dictionary.
-
-You may also wish to make use of two books on reserve at the UTM Library: @ayers:1972bioscientific is the source for most of this course's vocabulary and structure for presenting concepts from Greek and Latin, while @haubrich:2003medical is a useful reference tool for examining the origins of medical words.
 
 # Schedule
 
@@ -134,7 +130,7 @@ You may also wish to make use of two books on reserve at the UTM Library: @ayers
 <!-- Chapters 11–14 -->
 
 #### Read
-@dirckx:2000pestilence1 and @dirckx:2000pestilence2, discussing ancient interpretations of plagues; @dirckx:1999little, on diminutives
+Dirckx [-@dirckx:2000pestilence1; -@dirckx:2000pestilence2], discussing ancient interpretations of plagues; @dirckx:1999little, on diminutives
 
 ### 5. Thursday, 9 October
 - Evolving Meanings
@@ -187,41 +183,71 @@ You may also wish to make use of two books on reserve at the UTM Library: @ayers
 <!-- Chapters 27–30 -->
 
 ### 10. Thursday, 13 November
-- **Test II**
 - Latin Suffixes III
-- Latin Nouns
+- Latin Declensions and Plurals
+- Latin Nouns I
 
 #### Read
-@dirckx:1981description, plurals of Latin nouns and adjectives; @lydiatt:2010historical, on the nomenclature of the larynx
+@dirckx:1981description, plurals of Latin nouns and adjectives; @lydiatt:2010historical, on the nomenclature of the larynx; @leider:1982glossary, a list of Latin phrases used in scientific writing
 
 <!--  Chapters 31–33 -->
 
 ### 11. Thursday, 20 November
+- **Test II**
 - Latin Nouns II
-- Latin Declensions and Plurals
 
 #### Read
-@davis:2014naming, on the etymology of the cranial nerves; @dirckx:1987little, a list of obsolete medical terminology; @leider:1982glossary, a list of Latin phrases used in scientific writing
+@davis:2014naming, on the etymology of the cranial nerves; @dirckx:1987little, a list of obsolete medical terminology
 
 <!-- Chapters 34–37  -->
 
 <!--Exam scripts due 24 November. -->
 
 ### 12. Thursday, 27 November
-- **In-Depth Analysis of Article Vocabulary Due**
+- **Vocabulary Analysis Paper Due**
 - Latin Phrases
 - Conclusion
 
 #### Read
-@marečková:2002latin, on the future of Latin in the sciences; @arroyo:2013scientific, on scientific terminology in advertising
+@dirckx:2006anatomical, a summary of the history of anatomical nomenclature; @marečková:2002latin, on the future of Latin in the sciences; @arroyo:2013scientific, on scientific terminology in advertising
 
 <!-- Chapters 38–40 -->
 
-## Final exam: To be announced
+\pagebreak
+
+# Policies
+
+## Communication
+
+You are always welcome to drop by with questions during office hours. I will respond to email messages within 48 hours. Official course announcements will be sent occasionally to your University of Toronto email address.
+
+## Missed tests and deferrals
+
+You may be exempted from a term test only in cases of medical or personal emergencies. Absences must be reported online through ROSI, and you must notify me via email with a medical certificate or other appropriate documentation **within three days of the event**. The weight of the excused test will be distributed equally between other assignments and tests. If you require a deferral of the final exam, you must file a [petition with the Office of the Registrar](http://www.utm.utoronto.ca/registrar/current-students/petitions).
+
+### Notice of collection
+
+*The University of Toronto respects your privacy. Personal information is collected pursuant to section 2*(*14*) *of the University of Toronto Act, 1971. It is collected for the purpose of administering accommodations for academic purposes based on medical grounds. The department will maintain a record of all medical certificates received. At all times your information will be protected in accordance with the Freedom of Information and Protection of Privacy Act.*
+
+## Late work
+
+Weekly vocabulary assignments will not be accepted late; one will be automatically excused for all students. The final vocabulary paper will only be accepted after the deadline with prior permission (which must be requested at least two days in advance via email).
+
+## Academic integrity
+
+Academic integrity is fundamental to learning and scholarship; for a recent example of its importance to the sciences, see @garner:2014case. You are expected to know and follow the University of Toronto’s [Code of Student Conduct](http://www.governingcouncil.utoronto.ca/policies/studentc.htm) and [Code of Behaviour on Academic Matters](http://www.governingcouncil.utoronto.ca/policies/behaveac.htm).
+
+Normally, students will be required to submit their course essays to [Turnitin.com](http://www.turnitin.com) for a review of textual similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in the Turnitin.com reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the University's use of the Turnitin.com service are described on the Turnitin.com website.
+
+## Accommodations
+
+If you are a student with a disability or health consideration and need academic accommodations, please see me and contact the [AccessAbility Resource Centre](http://www.utm.utoronto.ca/accessability/) as soon as possible.
+
+The [Academic Skills Centre](http://www.utm.utoronto.ca/asc/undergraduate-students) is also available to all students, and offers a full range of workshops, seminars and individual consultations.
 
 # Bibliography
 
-The following resources are available through the University of Toronto library (links to subscription articles will only work on the campus network). For convenience, PDFs of articles can also be found on the Learning Portal.
+The following resources are available through the University of Toronto library (links to subscription articles will only work on the campus network). For convenience, articles can also be found on the Learning Portal.
 
 \vspace{\baselineskip}
 \setlength{\parindent}{-15pt}
