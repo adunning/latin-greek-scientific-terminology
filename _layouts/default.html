@@ -9,6 +9,11 @@
 
     <div class="page-content">
       <div class="wrap">
+      {% if site.draft %}
+      <p class="draft-warning">
+        <strong>DRAFT SYLLABUS: final version coming soon</strong>
+      </p>
+      {% endif %}
       {{ content }}
       </div>
     </div>

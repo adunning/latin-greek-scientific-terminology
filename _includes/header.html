@@ -17,8 +17,12 @@
         </svg>
       </a>
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+        {% for order in (1..10) %}
+          {% for page in site.pages %}
+          {% if page.order == order %}
+            {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+          {% endif %}
+          {% endfor %}
         {% endfor %}
       </div>
     </nav>
@@ -26,3 +30,4 @@
   </div>
 
 </header>
+
