@@ -134,7 +134,7 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 <!--Exam scripts due 24 November. -->
 
 ### 12. Thursday, 27 November
-- **Vocabulary Analysis Paper Due**
+- **[Vocabulary Analysis Paper]({{ site.baseurl }}/assignments/vocabulary-analysis-paper/) Due**
 - Latin Phrases
 - Conclusion
 

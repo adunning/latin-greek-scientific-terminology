@@ -5,7 +5,7 @@ permalink: '/resources/'
 title: Resources
 ...
 
-All required readings, listed the [schedule](/schedule/), are available online; these supplement the lectures by providing historical background on the development of scientific terminology and some points of grammar. Questions based on these readings will appear on the tests and final exam.
+All required readings, listed the [schedule]({{ site.baseurl }}/schedule/), are available online; these supplement the lectures by providing historical background on the development of scientific terminology and some points of grammar. Questions based on these readings will appear on the tests and final exam.
 
 We will make extensive use of the etymologies found in English and technical dictionaries. The [*Oxford English Dictionary*](http://www.oed.com.myaccess.library.utoronto.ca) (Simpson and Weiner 1989)<!-- [@simpson:1989oxford] --> is the most comprehensive and accurate English dictionary available, though for quick reference I would recommend the [*Oxford Dictionary of English*](http://www.oxforddictionaries.com) (Stevenson 2010)<!-- [@stevenson:2010oxford] -->, whose online version includes recordings of pronunciation; it is also included with Mac OS X.
 
@@ -19,7 +19,7 @@ You may also wish to make use of Ayers (1972)<!-- @ayers:1972bioscientific -->, 
 
 A digital object identifier (DOI) is a permanent locator for a digital resource. These can be used to access the work through the University of Toronto's subscriptions via the DOI resolver at <http://dx.doi.org.myaccess.library.utoronto.ca/>: either visit this address and enter the item's identifier, or take the DOI link provided below and add `.myaccess.library.utoronto.ca`  after the host name. For example, Davis et al. (2014)<!-- @davis:2014naming --> can be accessed through the library at <http://dx.doi.org.myaccess.library.utoronto.ca/10.1002/ca.22345>.
 
-The bibliographical data for the works listed below can be downloaded in [CSL JSON](/bibliography.json) or [BibLaTeX](/bibliography.bib) format.
+The bibliographical data for the works listed below can be downloaded in [CSL JSON]({{ site.baseurl }}/bibliography.json) or [BibLaTeX]({{ site.baseurl }}/bibliography.bib) format.
 
 ## Dictionaries
 

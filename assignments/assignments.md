@@ -37,4 +37,4 @@ During each lecture, we will dissect the terminology of a recent peer-reviewed s
 
 ### Vocabulary analysis paper
 
-[This assignment](/assignments/vocabulary-analysis-paper/) builds on your weekly experience examining vocabulary from journals. Select twenty terms total from any two recent (2014) articles in peer-reviewed scientific journals, and analyse their etymology and meaning. You should use at least three different dictionaries (or other scholarly sources) to support your findings.
+[This assignment](vocabulary-analysis-paper/) builds on your weekly experience examining vocabulary from journals. Select twenty terms total from any two recent (2014) articles in peer-reviewed scientific journals, and analyse their etymology and meaning. You should use at least three different dictionaries (or other scholarly sources) to support your findings.
