@@ -1,5 +1,5 @@
 # Site settings
-baseurl: ""
+baseurl: "/greek-latin-scientific-terminology"
 url: "http://adunning.github.io/greek-latin-scientific-terminology"
 
 # Build settings
@@ -12,7 +12,6 @@ pandoc:
     - filter=pandoc-citeproc
     - 'bibliography=bibliography.json'
     - 'csl=chicago-author-date.csl'
-destination: '../public'
 
 # Course information
 title: "Latin and Greek in Scientific Terminology"
