@@ -1,6 +1,6 @@
 # Site settings
-baseurl: "/greek-latin-scientific-terminology"
-url: "http://adunning.github.io/greek-latin-scientific-terminology"
+baseurl: "/latin-greek-scientific-terminology"
+url: "http://adunning.github.io/latin-greek-scientific-terminology"
 
 # Build settings
 plugins: plugins
