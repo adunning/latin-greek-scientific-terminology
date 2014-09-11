@@ -4,7 +4,7 @@ permalink: '/assignments/vocabulary-analysis-paper/'
 title: Vocabulary Analysis Paper
 ...
 
-This assignment builds on your weekly experience examining vocabulary from journals. Select twenty terms from two recent (2014) articles in peer-reviewed scientific journals, and analyse their etymology and meaning. You should use at least three different dictionaries (or other scholarly sources) to support your findings. You must fully cite the dictionaries and other sources used using author-date system of the [*Chicago Manual of Style*](http://www.chicagomanualofstyle.org/) (used in the syllabus) or another style relevant to your discipline.
+This assignment builds on your weekly experience examining vocabulary from journals. Select twenty terms total from two recent (2014) articles in peer-reviewed scientific journals, and analyse their etymology and meaning. You should use at least three different dictionaries (or other scholarly sources) to support your findings. You must fully cite the dictionaries and other sources used using author-date system of the [*Chicago Manual of Style*](http://www.chicagomanualofstyle.org/) (used in the syllabus) or another style relevant to your discipline.
 
 The assignment will only be accepted after the deadline with prior permission (which must be requested at least two days in advance via email).
 
@@ -14,7 +14,7 @@ If you have absolutely no idea where to find peer-reviewed articles from which t
 
 ### Steps to Writing the Paper
 
-After you have found two articles that (hopefully) interest you, choose twenty Latin- or Greek-derived words from the articles you selected. Try to give yourself a bit of a challenge, looking up technical as well as common words.
+After you have found two articles that (hopefully) interest you, choose twenty Latin- or Greek-derived words from the articles you selected. (If you find that there are more interesting words in one or the other, you can use as few as five terms from one of the articles as long as you have twenty terms altogether.) Try to give yourself a bit of a challenge, looking up technical as well as common words.
 
 I would recommend looking each of these words up in at least two sources, to be safe (remember that you must use at least three peer-reviewed sources for researching the assignment), though it's not required. Make note of the Latin/Greek stems of the word, being sure to make a citation for everything.
 
