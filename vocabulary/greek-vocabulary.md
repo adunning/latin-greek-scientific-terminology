@@ -110,7 +110,7 @@ syn- (sym-, syl-, sy-, sys-)
 
 ALG-
 :   'pain' (*-algesia*, 'sense of pain')
-:   an-ALG-esic, a drug acting to relieve pain; nost-ALG-ia, a sentimental longing or wistful affection for a period in the past
+:   an-ALG-esia, the inability to feel pain; an-ALG-esic, a drug acting to relieve pain; nost-ALG-ia, a sentimental longing or wistful affection for a period in the past
 
 ARTHR-
 :   'joint', 'speech sound', 'articulation'

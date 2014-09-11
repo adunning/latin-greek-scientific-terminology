@@ -20,6 +20,10 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 
 <!-- Ayers, chapters 1–3 -->
 
+#### Class Materials
+- [Slides](../lectures/lecture-1.html)
+- [Download slide text](../lectures/lecture-1.rtf) (RTF)
+
 ### 2. Thursday, 18 September
 - The Greek Alphabet
 - Basic Concepts of Inflected Languages
@@ -49,7 +53,7 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 <!-- Chapters 11–14 -->
 
 #### Read
-- Dirckx [-@dirckx:2000pestilence1; @dirckx:2000pestilence2], discussing [ancient interpretations] of plagues ([part I](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200004000-00021), [part II](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200010000-00015))
+- Dirckx [-@dirckx:2000pestilence1; @dirckx:2000pestilence2], discussing ancient interpretations of plagues ([part I](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200004000-00021), [part II](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200010000-00015))
 - @dirckx:1999little, [on diminutives](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-199904000-00018)
 
 ### 5. Thursday, 9 October
