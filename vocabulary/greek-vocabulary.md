@@ -678,7 +678,8 @@ DACRY-
 :   'tear' (i.e. from crying, etc.)
 :   DACRYO-CYST-itis, inflammation of the lacrimal sac
 
-GASTR- (GASTER-), 'stomach', 'belly of a muscle'
+GASTR- (GASTER-)
+:   'stomach', 'belly of a muscle'
 :   GASTRO-POD, a mollusc with ventral muscular disc adapted for creeping; meta-GASTR-ic, pertaining to posterior gastric regions
 
 HELMINTH-

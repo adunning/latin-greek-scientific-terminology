@@ -33,6 +33,10 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 - @džuganová:1998word, [showing the difference between a prefix and a suffix](http://www.bmj.sk/1998/09910-09.pdf)
 - @dirckx:1985and, [discussing the function of gender in language](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-198502000-00009)
 
+#### Class Materials
+- [Slides](../lectures/lecture-2.html)
+- [Download slide text](../lectures/lecture-2.rtf) (RTF)
+
 <!-- Chapters 4, 5, 6 -->
 
 <!-- Students can theoretically add the course up to 21 September. Final class list available 22 September. -->
@@ -44,6 +48,7 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 #### Read
 - @džuganová:2013english, [explaining current approaches to terminology](http://hrcak.srce.hr/file/162511)
 - @dirckx:2001more, [on singular and plural terms](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200102000-00014)
+- @marx:2010uro, [reviewing the history of the terms 'ureter' and 'urethra'](http://dx.doi.org.myaccess.library.utoronto.ca/10.1002/pros.21129)
 
 <!-- Chapters 7–10 -->
 
@@ -59,11 +64,12 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 ### 5. Thursday, 9 October
 - Evolving Meanings
 - Terminology and History
+- Terms from Classical Mythology
 
 #### Read
 - @sakai:2007historical, [on the development of anatomical terminology](http://dx.doi.org.myaccess.library.utoronto.ca/10.1111/j.1447-073X.2007.00180.x)
 - @kachlík:2008anatomical, [describing the modern standardization of anatomical terminology](http://dx.doi.org.myaccess.library.utoronto.ca/10.1007/s00276-008-0357-y)
-- @soutis:2006ancient, [on Greek words found in the context of paediatric surgery](http://dx.doi.org.myaccess.library.utoronto.ca/10.1016/j.jpedsurg.2006.03.011)
+- @karenberg:2012world, [describing the influence of mythology in naming the parts of the body](http://www.anatomy.org.tr/issue/201301/pdf/05.pdf)
 
 <!-- Chapters 15–18 -->
 
@@ -98,6 +104,7 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 #### Read
 - @džuganová:2006negative, [on prefixes and suffixes with a negative meaning](http://www.bmj.sk/2006/10708-13.pdf)
 - @dirckx:2007isidore, [translating Isidore of Seville's *Etymologies*, a medieval approach to word derivations](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/DAD.0b013e3181597a43)
+- @soutis:2006ancient, [on Greek words found in the context of paediatric surgery](http://dx.doi.org.myaccess.library.utoronto.ca/10.1016/j.jpedsurg.2006.03.011)
 
 <!-- Chapters 24–26 -->
 
@@ -110,6 +117,7 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 #### Read
 - @ivanová:2001anatomic, [discussing terminology reform by Vesalius](http://www.bmj.sk/2001/10203-08.pdf)
 - @musil:2014history, [effects of early-modern scholarship on the nomenclature of the human skeletal muscles](http://dx.doi.org.myaccess.library.utoronto.ca/10.1007/s00276-014-1305-7)
+- @marx:2009history, [on the history of the term 'prostate'](http://dx.doi.org.myaccess.library.utoronto.ca/10.1002/pros.20871)
 
 <!-- Chapters 27–30 -->
 

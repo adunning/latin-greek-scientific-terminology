@@ -33,7 +33,7 @@ Practice tests will be conducted the week before each test in order to familiari
 
 ### Weekly vocabulary assignments
 
-During each lecture, we will dissect the terminology of a recent peer-reviewed scientific article. Before class, look through the week's article (posted on the Learning Portal; note that these are separate from the course readings) and make a list of ten words that you find unusual and appear to you to be based on Greek or Latin. Break down one of these words into its constituent roots based on the etymologies provided in dictionaries. This must be submitted through the Learning Portal **by 11:59 p.m. the night before each class**; late assignments will not be accepted, but one will be subtracted from the final evaluation. We will analyse these words during class the following day. Assessment is based on both the completion of the assignment and participation in class.
+During each lecture, we will dissect the terminology of a recent peer-reviewed scientific article. Before class, look through the week's article, posted on the [Learning Portal](http://portal.utoronto.ca/) (these are separate from the course readings) and make a list of ten words that you find unusual and appear to you to be based on Greek or Latin. Break down one of these words into its constituent roots based on the etymologies provided in dictionaries. This must be submitted through the Learning Portal **by 11:59 p.m. the night before each class**; late assignments will not be accepted, but one will be subtracted from the final evaluation. We will analyse these words during class the following day. Assessment is based on both the completion of the assignment and participation in class.
 
 ### Vocabulary analysis paper
 
