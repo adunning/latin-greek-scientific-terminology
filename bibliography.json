@@ -1,5 +1,30 @@
 [
   {
+    "publisher": "Mayfield", 
+    "ISBN": "0874840538 9780874840537", 
+    "publisher-place": "Mountain View, CA", 
+    "shortTitle": "Dictionary of word roots and combining forms", 
+    "title": "Dictionary of word roots and combining forms: compiled from the Greek, Latin, and other languages, with special reference to biological terms and scientific names", 
+    "language": "English", 
+    "issued": {
+      "date-parts": [
+        [
+          "1960"
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "Donald J.", 
+        "family": "Borror"
+      }
+    ], 
+    "source": "Open WorldCat", 
+    "event-place": "Mountain View, CA", 
+    "type": "book", 
+    "id": "borror:1960dictionary"
+  }, 
+  {
     "publisher": "Clarendon Press", 
     "ISBN": "0198642245", 
     "publisher-place": "Oxford", 
@@ -25,64 +50,41 @@
     ]
   }, 
   {
-    "publisher": "Clarendon Press", 
-    "ISBN": "0198642261", 
-    "publisher-place": "Oxford", 
-    "title": "A Greek-English lexicon", 
-    "URL": "http://logeion.uchicago.edu/", 
-    "call-number": "PA445.E5 L6 1996", 
-    "number-of-pages": "2042", 
-    "edition": "9", 
-    "source": "Library of Congress ISBN", 
-    "issued": {
-      "date-parts": [
-        [
-          "1940"
-        ]
-      ]
-    }, 
-    "event-place": "Oxford", 
-    "type": "book", 
-    "id": "liddell:1940greek", 
-    "editor": [
-      {
-        "given": "Henry George", 
-        "family": "Liddell"
-      }, 
-      {
-        "given": "Robert", 
-        "family": "Scott"
-      }, 
-      {
-        "given": "Henry", 
-        "family": "Stuart Jones"
-      }
-    ]
-  }, 
-  {
-    "publisher": "Mayfield", 
-    "ISBN": "0874840538 9780874840537", 
-    "publisher-place": "Mountain View, CA", 
-    "shortTitle": "Dictionary of word roots and combining forms", 
-    "title": "Dictionary of word roots and combining forms: compiled from the Greek, Latin, and other languages, with special reference to biological terms and scientific names", 
-    "language": "English", 
-    "issued": {
-      "date-parts": [
-        [
-          "1960"
-        ]
-      ]
-    }, 
+    "note": "PMID: 16016791\nPMCID: PMC194697", 
     "author": [
       {
-        "given": "Donald J", 
-        "family": "Borror"
+        "given": "George L.", 
+        "family": "Banay"
       }
     ], 
-    "source": "Open WorldCat", 
-    "event-place": "Mountain View, CA", 
-    "type": "book", 
-    "id": "borror:1960dictionary"
+    "title": "An Introduction to Medical Terminology. I. Greek and Latin Derivations", 
+    "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC194697/", 
+    "issue": "1", 
+    "ISSN": "0025-7338", 
+    "page": "1-27", 
+    "volume": "36", 
+    "source": "PubMed Central", 
+    "issued": {
+      "date-parts": [
+        [
+          "1948", 
+          1
+        ]
+      ]
+    }, 
+    "container-title": "Bulletin of the Medical Library Association", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          9
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Bull Med Libr Assoc", 
+    "type": "article-journal", 
+    "id": "banay:1948introduction"
   }, 
   {
     "publisher": "Davis", 
@@ -159,29 +161,45 @@
     "id": "urso:2001different"
   }, 
   {
-    "publisher": "Lippincott Williams & Wilkins", 
-    "ISBN": "0781766109", 
-    "publisher-place": "Baltimore", 
-    "shortTitle": "Terminologia histologica", 
-    "title": "Terminologia histologica: international terms for human cytology and histology", 
-    "call-number": "QM550.2 .T47 2008", 
+    "DOI": "10.1016/S0940-9602(03)80067-5", 
     "author": [
       {
-        "literal": "Federative International Committee on Anatomical Terminology"
+        "given": "J.", 
+        "family": "Krmpoti\u0107-Nemani\u0107"
+      }, 
+      {
+        "given": "I.", 
+        "family": "Vinter"
       }
     ], 
-    "number-of-pages": "207", 
-    "source": "Library of Congress ISBN", 
-    "event-place": "Baltimore", 
+    "title": "Missing and incorrect terms in terminologia anatomica (1998)", 
+    "URL": "http://www.sciencedirect.com/science/article/pii/S0940960203800675", 
+    "issue": "4", 
+    "abstract": "Summary\nBased on our studies we suggest that the term articulation femoropatellaris should be introduced in the new anatomic terminology, because of the importance of this entity in the function and pathology of the knee joint. In order to indicate that the condylar surfaces, having a different function are separated from the patellar surface of the femur, the term \u201clinea condylopatellaris medialis and linea condylopatellaris lateralis\u201d should be introduced in the anatomical terminology.\n\nThe term \u201cnodus lymphoideus\u201d should be changed to nodus lymphaticus because the adjective lymphaticus means belonging to the node in question while the adjective lymphoideus means \u201csimilar\u201d, which is not correct.", 
+    "ISSN": "0940-9602", 
+    "page": "387-388", 
+    "volume": "185", 
+    "source": "ScienceDirect", 
     "issued": {
       "date-parts": [
         [
-          "2008"
+          "2003", 
+          7
         ]
       ]
     }, 
-    "type": "book", 
-    "id": "terminology:2008terminologia"
+    "container-title": "Annals of Anatomy/Anatomischer Anzeiger", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          9
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "nemani\u0107:2003missing"
   }, 
   {
     "publisher": "Oxford University Press", 
@@ -234,6 +252,38 @@
         "family": "White"
       }
     ]
+  }, 
+  {
+    "note": "PMID: 11433607", 
+    "author": [
+      {
+        "given": "Alena", 
+        "family": "Ivanov\u00e1"
+      }, 
+      {
+        "given": "Anna", 
+        "family": "Holom\u00e1\u0148ov\u00e1"
+      }
+    ], 
+    "title": "Anatomic nomenclature by Vesalius", 
+    "URL": "http://www.bmj.sk/2001/10203-08.pdf", 
+    "issue": "3", 
+    "abstract": "Our paper deals with the situation of medieval anatomy language in the pre-Vesalian period. It also explains the necessity of terminology reform undertaken by Vesalius in his De humani corporis fabrica. It describes formation principles of the scientific language of anatomy based on pure classical Latin while eliminating Arabic and Greek elements. Emphasis is laid on Vesalius' effort to unify terms as far as their meaning is concerned, to record lexical items and to create a permanent nomenclature in order to eliminate discrepancies in this field of communication. Our paper contains a lot of information on terminology demonstrating Vesalius' language reform and reminding us of his great achievement, for which he is considered a forerunner of anatomy nomenclature codification. (Ref. 5.)", 
+    "ISSN": "0006-9248", 
+    "page": "169-173", 
+    "volume": "102", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2001"
+        ]
+      ]
+    }, 
+    "container-title": "Bratislavsk\u00e9 lek\u00e1rske listy/Bratislava Medical Journal", 
+    "journalAbbreviation": "Bratisl Lek Listy", 
+    "type": "article-journal", 
+    "id": "ivanov\u00e1:2001anatomic"
   }, 
   {
     "note": "PMID: 24123982", 
@@ -379,7 +429,7 @@
     "DOI": "10.1002/ca.21185", 
     "language": "en", 
     "shortTitle": "AnatomicalTerms.info", 
-    "title": "AnatomicalTerms.info: Heading for an online solution to the anatomical synonym problem hurdles in data-reuse from the Terminologia Anatomica and the foundational model of anatomy and potentials for future development", 
+    "title": "AnatomicalTerms.info: Heading for an online solution to the anatomical synonym problem. Hurdles in data-reuse from the <i>Terminologia Anatomica</i> and the foundational model of anatomy and potentials for future development", 
     "URL": "http://onlinelibrary.wiley.com/doi/10.1002/ca.21185/abstract", 
     "issue": "7", 
     "abstract": "The many synonyms for anatomical structures confuse medical students and complicate medical communication. Easily accessible translations would alleviate this problem. None of the presently available resources\u2014Terminologia Anatomica (TA), digital terminologies such as the Foundational Model of Anatomy (FMA), and websites\u2014are fully satisfactory to this aim. Internet technologies offer new possibilities to solve the problem. Several authors have called for an online TA. An online translation resource should be easily accessible, user-friendly, comprehensive, expandable, and its quality determinable. As first step towards this goal, we built a translation website that we named www.AnatomicalTerms.info, based on the database of the FMA. It translates between English, Latin, eponyms, and to a lesser extent other languages, and presently contains over 31,000 terms for 7,250 structures, covering 95% of TA. In addition, it automatically presents searches for images, documents and anatomical variations regarding the sought structure. Several terminological and conceptual issues were encountered in transferring data from TA and FMA into AnatomicalTerms.info, resultant from these resources' different set-ups (paper versus digital) and targets (machine versus human-user). To the best of our knowledge, AnatomicalTerms.info is unique in its combination of user-friendliness and comprehensiveness. As next step, wiki-like expandability will be added to enable open contribution of clinical synonyms and terms in different languages. Specific quality measures will be taken to strike a balance between open contribution and quality assurance. AnatomicalTerms.info's mechanism that \u201ctranslates\u201d terms to structures furthermore may enhance targeted searching by linking images, descriptions, and other anatomical resources to the structures. Clin. Anat. 24:817\u2013830, 2011. \u00a9 2011 Wiley-Liss, Inc.", 
@@ -446,19 +496,19 @@
     ], 
     "language": "eng", 
     "title": "Nomina anatomica. Anatomic terminology and the old French terminology", 
+    "URL": "http://www.sciencedirect.com/science/article/pii/S1699258X12002458", 
     "issued": {
-      "season": "Dec-2013  undefined", 
       "date-parts": [
         [
           "2012", 
-          1
+          12
         ]
       ]
     }, 
     "abstract": "A surprising finding in our seminars in Latin America and Spain was that approximately half of the participants continued to use the old French anatomical nomenclature. The substance of this paper is a table in which we compare the anatomical names for the items reviewed in our seminar, in a Spanish version of the old French nomenclature and in the Spanish, Portuguese, and English versions of the currently employed anatomical terms.", 
     "ISSN": "1885-1398", 
     "page": "3-9", 
-    "volume": "8 Suppl 2", 
+    "volume": "8, supplement 2", 
     "source": "NCBI PubMed", 
     "container-title": "Reumatolog\u00eda clinica", 
     "journalAbbreviation": "Reumatol Clin", 
@@ -530,6 +580,44 @@
         "family": "Capinera"
       }
     ]
+  }, 
+  {
+    "DOI": "10.1055/s-2003-812548", 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "language": "de", 
+    "title": "\u201eDie Poesie in Wirklichkeit verwandeln\u201d. Antike Sagengestalten in der modernen Medizin", 
+    "URL": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-2003-812548", 
+    "issue": "51/52", 
+    "ISSN": "0012-0472, 1439-4413", 
+    "page": "2698-2706", 
+    "volume": "128", 
+    "source": "CrossRef", 
+    "issued": {
+      "date-parts": [
+        [
+          "2003", 
+          12
+        ]
+      ]
+    }, 
+    "container-title": "Deutsche medizinische Wochenschrift", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "DMW", 
+    "type": "article-journal", 
+    "id": "karenberg:2003poesie"
   }, 
   {
     "publisher": "Whitston", 
@@ -615,6 +703,31 @@
     "journalAbbreviation": "Clin. Anat.", 
     "type": "article-journal", 
     "id": "davis:2014naming"
+  }, 
+  {
+    "publisher": "Thieme", 
+    "ISBN": "9783131216526 3131216522", 
+    "publisher-place": "Stuttgart", 
+    "shortTitle": "Medizinische Terminologie", 
+    "title": "Medizinische Terminologie: Lehr- und Arbeitsbuch", 
+    "language": "German", 
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "Wolfgang", 
+        "family": "Caspar"
+      }
+    ], 
+    "source": "Open WorldCat", 
+    "event-place": "Stuttgart", 
+    "type": "book", 
+    "id": "caspar:2007medizinische"
   }, 
   {
     "publisher": "Lippincott Williams & Wilkins", 
@@ -745,6 +858,51 @@
     "journalAbbreviation": "Am J Dermatopathol", 
     "type": "article-journal", 
     "id": "dirckx:1981description"
+  }, 
+  {
+    "collection-title": "Handbook of clinical neurology", 
+    "ISBN": "9780444520098", 
+    "publisher-place": "Edinburgh", 
+    "title": "The Greco-Roman world", 
+    "URL": "http://dx.doi.org/10.1016/S0072-9752(08)02105-2", 
+    "DOI": "10.1016/S0072-9752(08)02105-2",
+    "call-number": "RC338 .H58 2010", 
+    "abstract": "This chapter focuses on the relevance of neuroanatomy, neurophysiology, and disorders of the nervous system in the Greco-Roman world. All technical terms and the general frame of reference are modern, not historical. The guiding principles of modern science\u2014the formulation of testable hypotheses, controlled experimentation, and observer objectivity\u2014are largely the achievements of later generations, and their application to the ancient neurosciences would be premature. From this perspective, many old theories regarding brain function and the nature of scientific evidence are decidedly speculative and dubious. In this early phase of medicine, it was also impossible to classify illnesses morphologically or etiologically. Instead, various clusters of symptoms and signs were summarized to define different kinds of diseases. It is for this reason that ancient terms such as \u201cepilepsy\u201d and \u201capoplexy\u201d bear only a slight resemblance to the modern versions. It is critical to keep in mind when studying ancient neurology that Greco-Roman science differs fundamentally from modern science.", 
+    "collection-number": "3rd ser., 17 (95)", 
+    "publisher": "Elsevier", 
+    "page": "49-59", 
+    "source": "Library of Congress ISBN", 
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    }, 
+    "event-place": "Edinburgh", 
+    "container-title": "History of neurology", 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "type": "chapter", 
+    "id": "karenberg:2009greco", 
+    "editor": [
+      {
+        "given": "Stanley", 
+        "family": "Finger"
+      }, 
+      {
+        "given": "Franc\u0327ois", 
+        "family": "Boller"
+      }, 
+      {
+        "given": "Kenneth L.", 
+        "family": "Tyler"
+      }
+    ]
   }, 
   {
     "note": "PMID: 17694812", 
@@ -924,7 +1082,7 @@
     "collection-title": "Studies in ancient medicine", 
     "ISBN": "9789004242784", 
     "publisher-place": "Leiden", 
-    "title": "Greek and Roman Patients under Galen\u2019s Gaze: A Doctor at the Crossroads of Two Cultures", 
+    "title": "Greek and roman patients under Galen\u2019s gaze: a doctor at the crossroads of two cultures", 
     "URL": "http://dx.doi.org/10.1163/9789004273863_003", 
     "DOI": "10.1163/9789004273863_003",
     "call-number": "R138", 
@@ -1034,65 +1192,85 @@
     "id": "mann:2013poorer"
   }, 
   {
-    "note": "PMID: 10770446", 
-    "DOI": "10.1097/00000372-200004000-00021", 
-    "language": "eng", 
-    "shortTitle": "Pestilence narratives in classical literature", 
-    "title": "Pestilence narratives in classical literature: A study in creative imitation. I. Homer, Sophocles, Thucydides, and Lucretius", 
-    "issue": "2", 
-    "ISSN": "0193-1091", 
-    "page": "197-202", 
-    "volume": "22", 
-    "source": "NCBI PubMed", 
+    "publisher": "Philadelphia School District, Office of Curriculum and Instruction", 
+    "publisher-place": "Philadelphia, PA", 
+    "language": "en", 
+    "title": "Latin, the language of health sciences: teacher's guide", 
+    "URL": "http://eric.ed.gov/?id=ED216523", 
     "issued": {
       "date-parts": [
         [
-          "2000", 
-          4
+          "1982"
         ]
       ]
     }, 
+    "abstract": "This guide to an audio-lingual approach to Latin instruction is intended to assist Latin teachers and English teachers with background in Latin to expand the English vocabulary and reading skills of pupils through the study of Latin roots, prefixes, and suffixes. The content of this guide to health vocabulary introduces students to Latin and English word derivations and to the sources of medical terminology in classical mythology. The introductory material provides general notes on the teaching of Latin in the Philadelphia School District, suggestions for scheduling and staffing the Latin classes, an outline of the organization of each lesson, some general hints to the teacher, and an overview of the material to be taught in this unit. The material to be taught is presented in 11 lessons, a number of word games, and a unit review lesson. An annotated bibiliography completes the unit. (AMH)", 
     "author": [
       {
-        "given": "John H.", 
-        "family": "Dirckx"
+        "given": "Rudolph", 
+        "family": "Masciantonio"
       }
     ], 
-    "container-title": "The American Journal of dermatopathology", 
-    "journalAbbreviation": "Am J Dermatopathol", 
-    "type": "article-journal", 
-    "id": "dirckx:2000pestilence1"
+    "number": "ED 216 523", 
+    "page": "76", 
+    "source": "eric.ed.gov", 
+    "event-place": "Philadelphia, PA", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          7, 
+          15
+        ]
+      ]
+    }, 
+    "type": "report", 
+    "id": "masciantonio:1982latin"
   }, 
   {
-    "note": "PMID: 11048986", 
-    "DOI": "10.1097/00000372-200010000-00015", 
-    "language": "eng", 
-    "shortTitle": "Pestilence narratives in classical literature", 
-    "title": "Pestilence narratives in classical literature: A study in creative imitation. II. Virgil, Ovid, Seneca, and Silius Italicus", 
-    "issue": "5", 
-    "abstract": "This article further explores patterns and traditions in classical accounts of pestilence. Recurring themes and expressions show that classical authors often copied earlier narratives, although literary analysis reveals that they sometimes embellished or distorted facts for their own purposes.", 
-    "ISSN": "0193-1091", 
-    "page": "459-464", 
-    "volume": "22", 
-    "source": "NCBI PubMed", 
+    "DOI": "10.1016/S0940-9602(01)80215-6", 
+    "author": [
+      {
+        "given": "Elena", 
+        "family": "Mare\u010dkov\u00e1"
+      }, 
+      {
+        "given": "Franti\u0161ek", 
+        "family": "\u0160imon"
+      }, 
+      {
+        "given": "Ladislav", 
+        "family": "\u010cerven\u00fd"
+      }
+    ], 
+    "title": "On the new anatomical nomenclature", 
+    "URL": "http://www.sciencedirect.com/science/article/pii/S0940960201802156", 
+    "issue": "3", 
+    "abstract": "Summary\nThe present paper is concerned with the linguistic aspect of the new anatomical nomenclature (Terminologia Anatomica 1998). Orthographic, morphological, syntactic, lexical, and terminological comments are presented. In the authors' opinion, shortcomings might have been effectively avoided by cooperation with linguists.", 
+    "ISSN": "0940-9602", 
+    "page": "201-207", 
+    "volume": "183", 
+    "source": "ScienceDirect", 
     "issued": {
       "date-parts": [
         [
-          "2000", 
-          10
+          "2001", 
+          5
         ]
       ]
     }, 
-    "author": [
-      {
-        "given": "John H.", 
-        "family": "Dirckx"
-      }
-    ], 
-    "container-title": "The American Journal of dermatopathology", 
-    "journalAbbreviation": "Am J Dermatopathol", 
+    "container-title": "Annals of Anatomy/Anatomischer Anzeiger", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          9
+        ]
+      ]
+    }, 
     "type": "article-journal", 
-    "id": "dirckx:2000pestilence2"
+    "id": "mare\u010dkov\u00e1:2001new"
   }, 
   {
     "publisher": "Clarendon Press", 
@@ -1164,36 +1342,37 @@
     ]
   }, 
   {
-    "DOI": "10.5829/idosi.wasj.2014.29.02.1329", 
-    "title": "How Much Latin Terminology Education Is Enough? The Views of Students", 
-    "URL": "http://www.idosi.org/wasj/wasj29(2)14/15.pdf", 
-    "issue": "2", 
-    "author": [
-      {
-        "given": "Sema", 
-        "family": "\u00d6zkadif"
-      }, 
-      {
-        "given": "Selda", 
-        "family": "K\u0131l\u0131\u00e7"
-      }, 
-      {
-        "given": "Emrullah", 
-        "family": "Eken"
-      }
-    ], 
-    "page": "239-246", 
-    "volume": "29", 
+    "publisher": "Thomas", 
+    "publisher-place": "Springfield, IL", 
+    "title": "The story behind the word: some interesting origins of medical terms", 
+    "URL": "http://catalog.hathitrust.org/Record/001556876", 
     "issued": {
       "date-parts": [
         [
-          "2014"
+          "1958"
         ]
       ]
     }, 
-    "container-title": "World Applied Sciences Journal", 
-    "type": "article-journal", 
-    "id": "\u00f6zkadif:2014how"
+    "author": [
+      {
+        "given": "Henry", 
+        "family": "Wain"
+      }
+    ], 
+    "number-of-pages": "viii, 342 p.", 
+    "source": "Hathi Trust", 
+    "event-place": "Springfield, IL", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "type": "book", 
+    "id": "wain:1958story"
   }, 
   {
     "note": "PMID: 18488135", 
@@ -1272,43 +1451,6 @@
     "journalAbbreviation": "Am J Dermatopathol", 
     "type": "article-journal", 
     "id": "dirckx:2007isidore"
-  }, 
-  {
-    "note": "PMID: 649501\nPMCID: PMC1235726", 
-    "author": [
-      {
-        "given": "R", 
-        "family": "Warwick"
-      }
-    ], 
-    "title": "The future of Nomina Anatomica: a personal view", 
-    "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1235726/", 
-    "issue": "Pt 1", 
-    "ISSN": "0021-8782", 
-    "page": "221-223", 
-    "volume": "126", 
-    "source": "PubMed Central", 
-    "issued": {
-      "date-parts": [
-        [
-          "1978", 
-          5
-        ]
-      ]
-    }, 
-    "container-title": "Journal of Anatomy", 
-    "accessed": {
-      "date-parts": [
-        [
-          "2014", 
-          5, 
-          2
-        ]
-      ]
-    }, 
-    "journalAbbreviation": "J Anat", 
-    "type": "article-journal", 
-    "id": "warwick:1978future"
   }, 
   {
     "note": "PMID: 15141812", 
@@ -1477,9 +1619,8 @@
         "family": "Sarma"
       }
     ], 
-    "title": "Etymology as an Aid to Understanding Chemistry Concepts", 
+    "title": "Etymology as an aid to understanding chemistry concepts", 
     "URL": "http://dx.doi.org/10.1021/ed081p1437", 
-    "DOI": "10.1021/ed081p1437",
     "issue": "10", 
     "abstract": "Recognition of word roots and the pattern of evolution of scientific terms can be helpful in understanding chemistry concepts (gaining knowledge of new concepts represented by related terms). The meaning and significance of various etymological roots, occurring as prefixes and suffixes in technical terms particularly of organic chemistry, are explained in a unified manner in order to show the connection of various concepts vis \u00e0 vis the terms in currency. The meanings of some special words and many examples are provided. The interesting aspects of history and culture often involved in the evolution of terms will help sustain an abiding engagement in the study of chemistry.", 
     "ISSN": "0021-9584", 
@@ -1547,6 +1688,44 @@
     "id": "herold:2013lost"
   }, 
   {
+    "note": "PMID: 11618816", 
+    "DOI": "10.1080/09647049409525595", 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "shortTitle": "Reconstructing a doctrine", 
+    "title": "Reconstructing a doctrine: Galen on apoplexy", 
+    "URL": "http://www.tandfonline.com/doi/abs/10.1080/09647049409525595", 
+    "issue": "2", 
+    "ISSN": "0964-704X", 
+    "page": "85-101", 
+    "volume": "3", 
+    "source": "Taylor and Francis+NEJM", 
+    "issued": {
+      "date-parts": [
+        [
+          "1994", 
+          4
+        ]
+      ]
+    }, 
+    "container-title": "Journal of the History of the Neurosciences", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "karenberg:1994reconstructing"
+  }, 
+  {
     "note": "PMID: 3977018", 
     "DOI": "10.1097/00000372-198502000-00009", 
     "author": [
@@ -1607,6 +1786,42 @@
     "journalAbbreviation": "Bratisl Lek Listy", 
     "type": "article-journal", 
     "id": "pol\u00e1\u010dkov\u00e1:2000confrontational"
+  }, 
+  {
+    "author": [
+      {
+        "given": "Lesley A.", 
+        "family": "Dean-Jones"
+      }
+    ], 
+    "title": "Teaching medical terminology as a classics course", 
+    "URL": "http://www.jstor.org/stable/3298183", 
+    "issue": "3", 
+    "ISSN": "0009-8353", 
+    "page": "290-296", 
+    "volume": "93", 
+    "source": "JSTOR", 
+    "issued": {
+      "date-parts": [
+        [
+          "1998", 
+          2
+        ]
+      ]
+    }, 
+    "container-title": "The Classical Journal", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          12
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "The Classical Journal", 
+    "type": "article-journal", 
+    "id": "jones:1998teaching"
   }, 
   {
     "note": "PMID: 15618935", 
@@ -1751,6 +1966,49 @@
         "family": "Shank"
       }
     ]
+  }, 
+  {
+    "DOI": "10.1016/S0022-510X(03)00121-7", 
+    "author": [
+      {
+        "given": "Ferdinand Peter", 
+        "family": "Moog"
+      }, 
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "title": "St. Francis came at dawn: the miraculous recovery of a hemiplegic monk in the Middle Ages", 
+    "URL": "http://www.sciencedirect.com/science/article/pii/S0022510X03001217", 
+    "issue": "1\u20132", 
+    "abstract": "We present the English translation of a remarkable case report from the 13th century. A collection of miracles ascribed to St. Francis contains the story of a young monk suddenly afflicted by a neurological disorder characterized by hemiplegia, speech problems and confusion. St. Francis' appearance led to complete recovery. From a theological and literary point of view, the text includes many allusions to the miracles performed by Jesus and to pagan traditions from Asclepius to Ovid. Retrospective neurological diagnoses range from a prolonged ischemic neurological deficit (PRIND) to psychogenesis. This case history is a rare example of faith healing in its contemporary context.", 
+    "ISSN": "0022-510X", 
+    "page": "15-17", 
+    "volume": "213", 
+    "source": "ScienceDirect", 
+    "issued": {
+      "date-parts": [
+        [
+          "2003", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "container-title": "Journal of the Neurological Sciences", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Journal of the Neurological Sciences", 
+    "type": "article-journal", 
+    "id": "moog:2003st"
   }, 
   {
     "publisher": "Koeltz", 
@@ -2024,10 +2282,51 @@
     ]
   }, 
   {
+    "DOI": "10.1163/157338203X00062", 
+    "author": [
+      {
+        "given": "Ferdinand Peter", 
+        "family": "Moog"
+      }, 
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "title": "Heilige als Patrone Gegen den Schlaganfall", 
+    "URL": "http://www.jstor.org/stable/4130379", 
+    "issue": "3", 
+    "abstract": "In Christian Europe of the High Middle Ages, saints played a central role in the everyday life of the ailing. Alongside healing attempts which involved magic and/or scientifically-based medicine, the invocation of specific patron saints for protection against evils or for the curing of ailments was a widespread practise. A large choice of patron saints was \"available\" for a wide range of diseases, especially those nowadays classified as neurologic or psychiatric. For the falling sickness alone, e.g., there is evidence of some twenty patron saints reputed to have a particular involvement. Surprisingly, there is no evidence of a comparable devotion to patrons for apoplectics. This \"negative result\" is confirmed by a thorough examination of medieval sources. St. Wolfgang and St. Andreas Avellino are the only two proven stroke patrons. Both, however, were only known within their respective locations. The absence of a specific supportive Christian figure for stroke victims deserves particular analysis: The high fatality rate of apoplexy and the lack of commercial interest on the part of the Christian places of pilgrimage may serve as possible explanations.", 
+    "ISSN": "1383-7427", 
+    "page": "196-209", 
+    "volume": "8", 
+    "source": "JSTOR", 
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ]
+    }, 
+    "container-title": "Early Science and Medicine", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Early Science and Medicine", 
+    "type": "article-journal", 
+    "id": "moog:2003heilige"
+  }, 
+  {
     "publisher": "Cambridge University Press", 
     "ISBN": "9781139056007", 
     "publisher-place": "Cambridge", 
-    "title": "Anatomy, Histology, and Cytology", 
+    "title": "Anatomy, histology, and cytology", 
     "URL": "http://dx.doi.org/10.1017/CHOL9780521572019.016", 
     "DOI": "10.1017/CHOL9780521572019.016",
     "issued": {
@@ -2095,30 +2394,32 @@
     "id": "nybakken:1959greek"
   }, 
   {
-    "publisher": "Heinemann", 
-    "publisher-place": "London", 
-    "shortTitle": "Medical terms", 
-    "title": "Medical terms: their origin and construction", 
-    "call-number": "R123 .R6 1971", 
+    "publisher": "CRC Press", 
+    "ISBN": "9781466558571", 
+    "publisher-place": "Boca Raton", 
+    "shortTitle": "Using the biological literature", 
+    "title": "Using the biological literature: a practical guide", 
+    "URL": "http://dx.doi.org/10.1201/b16753", 
+    "DOI": "10.1201/b16753",
+    "call-number": "QH303.6 .D38 2013", 
     "author": [
       {
-        "given": "Ffrangcon", 
-        "family": "Roberts"
+        "given": "Diane", 
+        "family": "Schmidt"
       }
     ], 
-    "number-of-pages": "102", 
-    "edition": "5", 
-    "source": "toroprod.library.utoronto.ca Library Catalog", 
+    "edition": "4", 
+    "source": "Library of Congress ISBN", 
     "issued": {
       "date-parts": [
         [
-          "1971"
+          "2013"
         ]
       ]
     }, 
-    "event-place": "London", 
+    "event-place": "Boca Raton", 
     "type": "book", 
-    "id": "roberts:1971medical"
+    "id": "schmidt:2013using"
   }, 
   {
     "publisher": "Dybwad", 
@@ -2144,6 +2445,52 @@
     }, 
     "type": "book", 
     "id": "fonahn:1922arabic"
+  }, 
+  {
+    "DOI": "10.1097/01.ju.0000173910.99371.13", 
+    "author": [
+      {
+        "given": "Ferdinand Peter", 
+        "family": "Moog"
+      }, 
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }, 
+      {
+        "given": "Friedrich", 
+        "family": "Moll"
+      }
+    ], 
+    "title": "The catheter and its use from Hippocrates to Galen", 
+    "URL": "http://www.sciencedirect.com/science/article/pii/S0022534701685732", 
+    "issue": "4.1", 
+    "abstract": "ABSTRACTPurpose\nWe comprehensively reviewed the history and use of the bladder catheter in Western medicine from 500 BC to 200 AD.\nMaterials and Methods\nGreek and Latin texts were key word searched to identify descriptions of contemporary instruments and their uses.\nResults\nThe catheter and its use were mentioned by about 10 ancient authors in more than a total of 20 texts dating to the end of the second century AD. The authors include Hippocrates, Celsus, Soranus, Rufus, Aretaeus and Galen. They described the use of the instrument in reference to contemporary anatomy and physiology, and indications and contraindications in regard to certain conditions, such as urinary retention, bladder stones and intravesical blood clots. Technical details and particularities of use were also reviewed, as were pharmacological considerations and underlying physical principles.\nConclusions\nKnowledge of the urinary catheter, and its usefulness and risks in ancient medicine can be dated from the 5th century BC. Our study of European texts documents its broad use. Because catheterization was perceived as a practical measure, it generated little scientific controversy.", 
+    "ISSN": "0022-5347", 
+    "page": "1196-1198", 
+    "volume": "174", 
+    "source": "ScienceDirect", 
+    "issued": {
+      "date-parts": [
+        [
+          "2005", 
+          10
+        ]
+      ]
+    }, 
+    "container-title": "The Journal of Urology", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "The Journal of Urology", 
+    "type": "article-journal", 
+    "id": "moog:2005catheter2"
   }, 
   {
     "DOI": "10.1016/0039-6257(92)90113-8", 
@@ -2275,6 +2622,50 @@
     "id": "dunmore:2008studies"
   }, 
   {
+    "note": "Medicine has been enthusiastic in naming tests, symptoms, and diseases after their discoverers. Alexander Woywodt and Eric Matteson argue that eponyms are no longer appropriate, but Judith A Whitworth believes they remain a useful reflection of medical history\n\nThe Oxford English Dictionary defines an eponym as a person . . . after whom a discovery, invention, institution, etc is named or thought to be named. Eponyms are deeply rooted in tradition and their use has long been viewed as a matter of taste. However, it is time to abandon them in favour of a more descriptive nomenclature.\n\nEponyms often provide a less than truthful account of how diseases were discovered and reflect influence, politics, language, habit, or even sheer luck rather than scientific achievement. Moreover, the continued use of tainted eponyms is inappropriate and will not be accepted by patients, relatives, or the public. \n\nThe atrocities committed by Nazi doctors are well documented1; they received new attention with the discovery that Hans Reiter, a German doctor who is remembered for his discovery of a variant \u2026\nPMID: 17762033", 
+    "DOI": "10.1136/bmj.39308.342639.AD", 
+    "language": "en", 
+    "shortTitle": "Should eponyms be abandoned?", 
+    "title": "Should eponyms be abandoned? Yes", 
+    "URL": "http://www.bmj.com/content/335/7617/424", 
+    "issue": "7617", 
+    "ISSN": "0959-8138, 1468-5833", 
+    "page": "424", 
+    "volume": "335", 
+    "source": "www.bmj.com", 
+    "issued": {
+      "date-parts": [
+        [
+          "2007", 
+          8, 
+          30
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "Alexander", 
+        "family": "Woywodt"
+      }, 
+      {
+        "given": "Eric", 
+        "family": "Matteson"
+      }
+    ], 
+    "container-title": "BMJ", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "woywodt:2007should"
+  }, 
+  {
     "publisher": "Davis", 
     "ISBN": "9780803629776  080362977X  9780803629783  0803629788  9780803629790  0803629796", 
     "publisher-place": "Philadelphia", 
@@ -2363,6 +2754,36 @@
     "id": "clair:1904compend"
   }, 
   {
+    "note": "PMID: 10770446", 
+    "DOI": "10.1097/00000372-200004000-00021", 
+    "language": "eng", 
+    "shortTitle": "Pestilence narratives in classical literature", 
+    "title": "Pestilence narratives in classical literature: A study in creative imitation. I. Homer, Sophocles, Thucydides, and Lucretius", 
+    "issue": "2", 
+    "ISSN": "0193-1091", 
+    "page": "197-202", 
+    "volume": "22", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2000", 
+          4
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "container-title": "The American Journal of dermatopathology", 
+    "journalAbbreviation": "Am J Dermatopathol", 
+    "type": "article-journal", 
+    "id": "dirckx:2000pestilence1"
+  }, 
+  {
     "note": "PMID: 15677983", 
     "DOI": "10.1097/01.dad.0000148282.96494.0f", 
     "language": "eng", 
@@ -2394,36 +2815,35 @@
     "id": "dirckx:2005doctor"
   }, 
   {
-    "note": "PMID: 11433607", 
-    "author": [
-      {
-        "given": "Alena", 
-        "family": "Ivanov\u00e1"
-      }, 
-      {
-        "given": "Anna", 
-        "family": "Holom\u00e1\u0148ov\u00e1"
-      }
-    ], 
-    "title": "Anatomic nomenclature by Vesalius", 
-    "URL": "http://www.bmj.sk/2001/10203-08.pdf", 
-    "issue": "3", 
-    "abstract": "Our paper deals with the situation of medieval anatomy language in the pre-Vesalian period. It also explains the necessity of terminology reform undertaken by Vesalius in his De humani corporis fabrica. It describes formation principles of the scientific language of anatomy based on pure classical Latin while eliminating Arabic and Greek elements. Emphasis is laid on Vesalius' effort to unify terms as far as their meaning is concerned, to record lexical items and to create a permanent nomenclature in order to eliminate discrepancies in this field of communication. Our paper contains a lot of information on terminology demonstrating Vesalius' language reform and reminding us of his great achievement, for which he is considered a forerunner of anatomy nomenclature codification. (Ref. 5.)", 
-    "ISSN": "0006-9248", 
-    "page": "169-173", 
-    "volume": "102", 
+    "note": "PMID: 11048986", 
+    "DOI": "10.1097/00000372-200010000-00015", 
+    "language": "eng", 
+    "shortTitle": "Pestilence narratives in classical literature", 
+    "title": "Pestilence narratives in classical literature: A study in creative imitation. II. Virgil, Ovid, Seneca, and Silius Italicus", 
+    "issue": "5", 
+    "abstract": "This article further explores patterns and traditions in classical accounts of pestilence. Recurring themes and expressions show that classical authors often copied earlier narratives, although literary analysis reveals that they sometimes embellished or distorted facts for their own purposes.", 
+    "ISSN": "0193-1091", 
+    "page": "459-464", 
+    "volume": "22", 
     "source": "NCBI PubMed", 
     "issued": {
       "date-parts": [
         [
-          "2001"
+          "2000", 
+          10
         ]
       ]
     }, 
-    "container-title": "Bratislavsk\u00e9 lek\u00e1rske listy/Bratislava Medical Journal", 
-    "journalAbbreviation": "Bratisl Lek Listy", 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "container-title": "The American Journal of dermatopathology", 
+    "journalAbbreviation": "Am J Dermatopathol", 
     "type": "article-journal", 
-    "id": "ivanov\u00e1:2001anatomic"
+    "id": "dirckx:2000pestilence2"
   }, 
   {
     "publisher": "Springer", 
@@ -2651,6 +3071,124 @@
     "id": "agard:1955medical"
   }, 
   {
+    "note": "PMID: 12953616", 
+    "DOI": "10.1076/jhin.12.2.137.15533", 
+    "author": [
+      {
+        "given": "Ferdinand Peter", 
+        "family": "Moog"
+      }, 
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "shortTitle": "Between Horror and Hope", 
+    "title": "Between Horror and Hope: Gladiator\u2019s Blood as a Cure for Epileptics in Ancient Medicine", 
+    "URL": "http://www.tandfonline.com/doi/abs/10.1076/jhin.12.2.137.15533", 
+    "issue": "2", 
+    "abstract": "Between the first and the sixth century a single theological and several medical authors reported on the consumption of gladiator\u2019s blood or liver to cure epileptics. The origins of the sacred or apoplectic properties of blood of a slain gladiator, likely lie in Etruscan funeral rites. Although the influence of this religious background faded during the Roman Republic, the magical use of gladiators\u2019 blood continued for centuries. After the prohibition of gladiatorial combat in about 400 AD, an executed individual (particularly had he been beheaded) became the \u201clegitimate\u201d successor to the gladiator. Occasional indications in early modern textbooks on medicine as well as reports in the popular literature of the 19th and early 20th century document the existence of this ancient magical practice until modern times. Spontaneous recovery of some forms of epilepsy may be responsible for the illusion of therapeutic effectiveness and for the confirming statements by physicians who have commented on this cure.", 
+    "ISSN": "0964-704X", 
+    "page": "137-143", 
+    "volume": "12", 
+    "source": "Taylor and Francis+NEJM", 
+    "issued": {
+      "date-parts": [
+        [
+          "2003", 
+          6
+        ]
+      ]
+    }, 
+    "container-title": "Journal of the History of the Neurosciences", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "moog:2003between"
+  }, 
+  {
+    "DOI": "10.1055/s-2005-923338", 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "language": "de", 
+    "title": "Poesie und Pathologie. Literarische Figuren als Vorbilder f\u00fcr Krankheitsbegriffe", 
+    "URL": "https://www.thieme-connect.de/DOI/DOI?10.1055/s-2005-923338", 
+    "issue": "51/52", 
+    "ISSN": "0012-0472, 1439-4413", 
+    "page": "2971-2978", 
+    "volume": "130", 
+    "source": "CrossRef", 
+    "issued": {
+      "date-parts": [
+        [
+          "2005"
+        ]
+      ]
+    }, 
+    "container-title": "Deutsche medizinische Wochenschrift", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "DMW", 
+    "type": "article-journal", 
+    "id": "karenberg:2005poesie"
+  }, 
+  {
+    "DOI": "10.1055/s-2004-836108", 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "language": "de", 
+    "title": "S\u00fcnder und Selige. Biblische Gestalten und christliche Heilige in der modernen Medizin", 
+    "URL": "https://www.thieme-connect.de/DOI/DOI?10.1055/s-2004-836108", 
+    "issue": "51/52", 
+    "ISSN": "0012-0472, 1439-4413", 
+    "page": "2757-2765", 
+    "volume": "129", 
+    "source": "CrossRef", 
+    "issued": {
+      "date-parts": [
+        [
+          "2004", 
+          12
+        ]
+      ]
+    }, 
+    "container-title": "Deutsche medizinische Wochenschrift", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "DMW", 
+    "type": "article-journal", 
+    "id": "karenberg:2004s\u00fcnder"
+  }, 
+  {
     "publisher": "Elsevier", 
     "ISBN": "0444415599", 
     "publisher-place": "Amsterdam", 
@@ -2768,7 +3306,7 @@
     ], 
     "language": "en", 
     "title": "English medical terminology \u2013 different ways of forming medical terms", 
-    "URL": "http://hrcak.srce.hr/file/162511", 
+    "URL": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=162511", 
     "issue": "7", 
     "abstract": "In medical terminology, two completely different phenomena can be seen: 1. precisely worked-out and internationally standardised anatomical nomenclature and 2. quickly developing non-standardised terminologies of individual clinical...", 
     "ISSN": "1847-6376", 
@@ -2795,6 +3333,32 @@
     }, 
     "type": "article-journal", 
     "id": "d\u017euganov\u00e1:2013english"
+  }, 
+  {
+    "publisher": "Schattauer", 
+    "ISBN": "9783794527496  3794527496", 
+    "publisher-place": "Stuttgart", 
+    "shortTitle": "Fachsprache Medizin im Schnellkurs", 
+    "title": "Fachsprache Medizin im Schnellkurs: fu\u0308r Studium und Berufspraxis", 
+    "language": "German", 
+    "issued": {
+      "date-parts": [
+        [
+          "2011"
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "edition": "3", 
+    "source": "Open WorldCat", 
+    "event-place": "Stuttgart", 
+    "type": "book", 
+    "id": "karenberg:2011fachsprache"
   }, 
   {
     "note": "PMID: 578903", 
@@ -2837,6 +3401,49 @@
     "id": "dirckx:1977hybrid"
   }, 
   {
+    "note": "PMID: 11623841", 
+    "DOI": "10.1076/jhin.7.3.174.1858", 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }, 
+      {
+        "given": "Irmgard", 
+        "family": "Hort"
+      }
+    ], 
+    "shortTitle": "Medieval Descriptions and Doctrines of Stroke", 
+    "title": "Medieval Descriptions and Doctrines of Stroke: Preliminary Analysis of Select Sources. Part II: Between Galenism and Aristotelism \u2013 Islamic Theories of Apoplexy (800\u20131200)", 
+    "URL": "http://www.tandfonline.com/doi/abs/10.1076/jhin.7.3.174.1858", 
+    "issue": "3", 
+    "abstract": "This second paper on medieval descriptions and doctrines of stroke reviews concepts outlined by famous Muslim physicians of the Middle Ages such as Rhazes, Haly Abbas, Avicenna, and Averroes. Contrary to a popular belief, Islamic neurological texts represent not only a bridge between ancient and western medieval medical knowledge, but also document remarkable advancements. Whereas statements on diagnosis and prognosis lack originality, the endeavors of physician-philosophers and medical authors led to substantial additions and important changes in theory. Such modifications include the integration of ventricular doctrine and particularly the attempt to unify Aristotelian and Galenic tenets which resulted in a complex discussion about the seats and causes of apoplexy. The fairly simple model handed down by Galenists of the Byzantine period was replaced by more detailed classifications, which proposed \u201ccerebral\u201d as well as \u201cvascular\u201d origins of the disease without suggesting a \u201ccerebrovascular\u201d etiology. Islamic therapeutic strategies included dietetic, pharmacological and surgical elements. The use of the cautery in \u201cchronic apoplexy\u201d was a special feature of Arabic surgery.", 
+    "ISSN": "0964-704X", 
+    "page": "174-185", 
+    "volume": "7", 
+    "source": "Taylor and Francis+NEJM", 
+    "issued": {
+      "date-parts": [
+        [
+          "1998", 
+          12
+        ]
+      ]
+    }, 
+    "container-title": "Journal of the History of the Neurosciences", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "karenberg:1998medieval"
+  }, 
+  {
     "note": "PMID: 18630812", 
     "author": [
       {
@@ -2864,6 +3471,42 @@
     "journalAbbreviation": "Bratisl Lek Listy", 
     "type": "article-journal", 
     "id": "d\u017euganov\u00e1:2008synonymy"
+  }, 
+  {
+    "author": [
+      {
+        "given": "M\u00e1ria", 
+        "family": "Bujalkov\u00e1"
+      }
+    ], 
+    "title": "Are the methods to use historical lexicology (etymology) in contemporary medical terminology teaching reasonable?", 
+    "URL": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=162628", 
+    "issue": "7", 
+    "abstract": "Latin medical terminology is an obligatory course in the curricula of the Slovak medical faculties, encompassing history of medicine condensed in origins of medical terms and their current meanings, both in theory and practice. Course...", 
+    "ISSN": "1847-6376", 
+    "page": "469-478", 
+    "volume": "4", 
+    "source": "hrcak.srce.hr", 
+    "issued": {
+      "date-parts": [
+        [
+          "2013", 
+          5
+        ]
+      ]
+    }, 
+    "container-title": "JAHR", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          16
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "bujalkov\u00e1:2013are"
   }, 
   {
     "note": "PMID: 21265031", 
@@ -3027,6 +3670,58 @@
     "id": "scarborough:1992medical"
   }, 
   {
+    "publisher": "Elsevier", 
+    "ISBN": "0444419780", 
+    "publisher-place": "Amsterdam", 
+    "shortTitle": "Elsevier's dictionary of weeds of western Europe", 
+    "title": "Elsevier's dictionary of weeds of western Europe: their common names and importance in Latin, Danish, German, English, Spanish, Finnish, French, Icelandic, Italian, Dutch, Norwegian, Portuguese, and Swedish", 
+    "call-number": "SB613.E855 W54", 
+    "number-of-pages": "320", 
+    "source": "Library of Congress ISBN", 
+    "event-place": "Amsterdam", 
+    "issued": {
+      "date-parts": [
+        [
+          "1982"
+        ]
+      ]
+    }, 
+    "type": "book", 
+    "id": "williams:1982elsevier", 
+    "editor": [
+      {
+        "given": "Gareth", 
+        "family": "Williams"
+      }
+    ]
+  }, 
+  {
+    "publisher": "Elsevier", 
+    "ISBN": "9780444518774", 
+    "publisher-place": "Amsterdam", 
+    "shortTitle": "Elsevier's dictionary of mammals", 
+    "title": "Elsevier's dictionary of mammals: in Latin, English, German, French and Italian", 
+    "call-number": "QL701.2 .E47 2007", 
+    "number-of-pages": "857", 
+    "source": "Library of Congress ISBN", 
+    "event-place": "Amsterdam", 
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    }, 
+    "type": "book", 
+    "id": "wrobel:2007elsevier", 
+    "editor": [
+      {
+        "given": "M.", 
+        "family": "Wrobel"
+      }
+    ]
+  }, 
+  {
     "note": "PMID: 10321431", 
     "DOI": "10.1002/(sici)1097-0185(19990415)257:2<50::aid-ar4>3.3.co;2-n", 
     "language": "en", 
@@ -3105,6 +3800,38 @@
     "journalAbbreviation": "Survey of Ophthalmology", 
     "type": "article-journal", 
     "id": "myles:1993ophthalmic"
+  }, 
+  {
+    "DOI": "10.2399/ana.11.142", 
+    "language": "eng", 
+    "shortTitle": "The world of gods and the body of man", 
+    "title": "The world of gods and the body of man: mythological origins of modern anatomical terms", 
+    "URL": "http://www.anatomy.org.tr/issue/201301/pdf/05.pdf", 
+    "issued": {
+      "literal": "2012_2013"
+    }, 
+    "ISSN": "1308-8459", 
+    "page": "7-22", 
+    "volume": "6-7", 
+    "source": "mEDRA", 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "container-title": "Anatomy", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "karenberg:2012world"
   }, 
   {
     "publisher": "Springer", 
@@ -3246,6 +3973,31 @@
     "id": "dirckx:1998modern"
   }, 
   {
+    "publisher": "Lippincott Williams & Wilkins", 
+    "ISBN": "0781766109", 
+    "publisher-place": "Baltimore", 
+    "shortTitle": "Terminologia histologica", 
+    "title": "Terminologia histologica: international terms for human cytology and histology", 
+    "call-number": "QM550.2 .T47 2008", 
+    "author": [
+      {
+        "literal": "Federative International Committee on Anatomical Terminology"
+      }
+    ], 
+    "number-of-pages": "207", 
+    "source": "Library of Congress ISBN", 
+    "event-place": "Baltimore", 
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    }, 
+    "type": "book", 
+    "id": "terminology:2008terminologia"
+  }, 
+  {
     "publisher": "Oxford University Press", 
     "ISBN": "9780199571123", 
     "publisher-place": "Oxford", 
@@ -3273,6 +4025,32 @@
     ]
   }, 
   {
+    "publisher": "Schattauer", 
+    "ISBN": "3794523431  9783794523436", 
+    "publisher-place": "Stuttgart", 
+    "shortTitle": "Amor, A\u0308skulap & Co.", 
+    "title": "Amor, A\u0308skulap & Co.: Klassische Mythologie in der Sprache der modernen Medizin", 
+    "language": "German", 
+    "call-number": "R123 .K37 2005", 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "source": "Open WorldCat", 
+    "event-place": "Stuttgart", 
+    "issued": {
+      "date-parts": [
+        [
+          "2005"
+        ]
+      ]
+    }, 
+    "type": "book", 
+    "id": "karenberg:2005amor"
+  }, 
+  {
     "DOI": "10.1038/scientificamerican0314-64", 
     "author": [
       {
@@ -3280,7 +4058,7 @@
         "family": "Garner"
       }
     ], 
-    "title": "The Case of the Stolen Words", 
+    "title": "The case of the stolen words", 
     "URL": "http://www.nature.com/doifinder/10.1038/scientificamerican0314-64", 
     "issue": "3", 
     "ISSN": "0036-8733", 
@@ -3349,8 +4127,51 @@
     "id": "soutis:2006ancient"
   }, 
   {
-    "DOI": "10.2307/30047249", 
-    "title": "Vocabulary Instruction Goes \"Old School\"", 
+    "note": "PMID: 11903286", 
+    "DOI": "10.1046/j.1468-2982.2001.00274.x", 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }, 
+      {
+        "given": "Christian", 
+        "family": "Leitz"
+      }
+    ], 
+    "language": "en", 
+    "title": "Headache in Magical and Medical Papyri of Ancient Egypt", 
+    "URL": "http://cep.sagepub.com/content/21/9/911", 
+    "issue": "9", 
+    "abstract": "Despite the intensity with which many scholars have studied the evolution of Egyptian medicine, interdisciplinary studies on the history of headache are scarcely extant. Following a short discussion of historiographical issues, the main objective of this paper is to present a comprehensive and detailed overview on this subject. Scattered references to headache are extracted from so-called magical papyri and from medical texts of the New Kingdom. Although little is known about the quality of headache and about accompanying symptoms, four predominant localizations are distinguished. Due to the lack of precise descriptions it is impossible to establish the retrospective diagnosis of migraine. Explanations of the origin of cephalalgia and of the corresponding therapeutic actions differ according to the nature of the source. In magical papyri, headaches are attributed to the action of demons and supernatural forces, whereas medical papyri emphasize the role of head trauma and of \u2018pain matter\u2019 occurring in the body. Treatment could be magical, pharmacological or surgical. Examples of incantations and prescriptions are analysed in detail.", 
+    "ISSN": "0333-1024, 1468-2982", 
+    "page": "911-916", 
+    "volume": "21", 
+    "source": "cep.sagepub.com", 
+    "issued": {
+      "date-parts": [
+        [
+          "2001", 
+          11
+        ]
+      ]
+    }, 
+    "container-title": "Cephalalgia", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Cephalalgia", 
+    "type": "article-journal", 
+    "id": "karenberg:2001headache"
+  }, 
+  {
+    "title": "Vocabulary instruction goes \"old school\"", 
     "URL": "http://www.jstor.org/stable/30047249", 
     "issue": "4", 
     "abstract": "High school teacher Suzanne R. Kail and her students uncover the relevance of learning Latin and Greek roots to enhance vocabulary and spelling. Kail reflects on her experience of combining what might be seen as an old-school practice of memorization with promoting higher level thinking skills and anticipates what she will revise for the next school year.", 
@@ -3510,6 +4331,43 @@
     "event-place": "Chicago", 
     "type": "book", 
     "id": "lindberg:2007beginnings"
+  }, 
+  {
+    "note": "PMID: 16016859\nPMCID: PMC194804", 
+    "author": [
+      {
+        "given": "George L.", 
+        "family": "Banay"
+      }
+    ], 
+    "title": "An Introduction to Medical Terminology. II. Terms Drawn From Modern Languages", 
+    "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC194804/", 
+    "issue": "2", 
+    "ISSN": "0025-7338", 
+    "page": "152-163", 
+    "volume": "37", 
+    "source": "PubMed Central", 
+    "issued": {
+      "date-parts": [
+        [
+          "1949", 
+          4
+        ]
+      ]
+    }, 
+    "container-title": "Bulletin of the Medical Library Association", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          9
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Bull Med Libr Assoc", 
+    "type": "article-journal", 
+    "id": "banay:1949introduction"
   }, 
   {
     "DOI": "10.1075/term.4.1.04dir", 
@@ -3816,34 +4674,68 @@
     "id": "brown:1956composition"
   }, 
   {
-    "publisher": "Heffer", 
-    "publisher-place": "Cambridge", 
-    "shortTitle": "Anatomical terms", 
-    "title": "Anatomical terms: their origin and derivation", 
-    "call-number": "QM81 .F5 1968", 
+    "note": "PMID: 10752566", 
+    "DOI": "10.1007/s007050050036", 
     "author": [
       {
-        "given": "E.J.", 
-        "family": "Field"
-      }, 
-      {
-        "given": "R.J.", 
-        "family": "Harrison"
+        "given": "M.H.", 
+        "family": "van Regenmortel"
       }
     ], 
-    "number-of-pages": "212", 
-    "edition": "3", 
-    "source": "toroprod.library.utoronto.ca Library Catalog", 
+    "language": "eng", 
+    "title": "On the relative merits of italics, Latin and binomial nomenclature in virus taxonomy", 
+    "issue": "2", 
+    "ISSN": "0304-8608", 
+    "page": "433-441", 
+    "volume": "145", 
+    "source": "NCBI PubMed", 
     "issued": {
       "date-parts": [
         [
-          "1968"
+          "2000", 
+          2
         ]
       ]
     }, 
-    "event-place": "Cambridge", 
+    "container-title": "Archives of virology", 
+    "journalAbbreviation": "Arch. Virol.", 
+    "type": "article-journal", 
+    "id": "regenmortel:2000relative"
+  }, 
+  {
+    "publisher": "Clarendon Press", 
+    "ISBN": "0198642261", 
+    "publisher-place": "Oxford", 
+    "title": "A Greek-English lexicon", 
+    "URL": "http://logeion.uchicago.edu/", 
+    "call-number": "PA445.E5 L6 1996", 
+    "number-of-pages": "2042", 
+    "edition": "9", 
+    "source": "Library of Congress ISBN", 
+    "issued": {
+      "date-parts": [
+        [
+          "1940"
+        ]
+      ]
+    }, 
+    "event-place": "Oxford", 
     "type": "book", 
-    "id": "field:1968anatomical"
+    "id": "liddell:1940greek", 
+    "editor": [
+      {
+        "given": "Henry George", 
+        "family": "Liddell"
+      }, 
+      {
+        "given": "Robert", 
+        "family": "Scott"
+      }, 
+      {
+        "given": "Henry", 
+        "family": "Stuart Jones"
+      }
+    ]
   }, 
   {
     "publisher": "Saunders", 
@@ -3938,49 +4830,33 @@
     "id": "skinner:1949origin"
   }, 
   {
-    "publisher": "Elsevier", 
-    "ISBN": "978-0-08-044854-1", 
-    "publisher-place": "Oxford", 
-    "shortTitle": "Anatomical Nomenclature", 
-    "title": "Anatomical Nomenclature: History", 
-    "URL": "http://dx.doi.org/10.1016/B0-08-044854-2/04268-1", 
-    "DOI": "10.1016/B0-08-044854-2/04268-1",
+    "publisher": "Delmar", 
+    "ISBN": "0827364067", 
+    "publisher-place": "Albany, NY", 
+    "title": "The elements of medical terminology", 
+    "call-number": "R123 .A67 1994", 
+    "author": [
+      {
+        "given": "April", 
+        "family": "Applegate"
+      }, 
+      {
+        "given": "Valerie", 
+        "family": "Overton"
+      }
+    ], 
+    "number-of-pages": "388", 
+    "source": "Library of Congress ISBN", 
+    "event-place": "Albany, NY", 
     "issued": {
       "date-parts": [
         [
-          "2006"
+          "1994"
         ]
       ]
     }, 
-    "abstract": "An accurate and systematic nomenclature is of paramount importance in a purely descriptive discipline such as anatomy. Because Western science and medicine began in Greece, the earliest names for parts of the body were Greek words, at first borrowed from the vernacular. The growth and spread of anatomic knowledge eventually demanded a more specialized vocabulary. Later, as Latin became the international medium of scholarly communication, a copious and richly metaphoric but unsystematic lexicon of anatomy evolved in that language. In the 19th century, European anatomists organized to forge a more logical, consistent, and economical Latin nomenclature. Modern usage is a hybrid of vernacular words and of Latin and Greek drawn from various systems and periods.", 
-    "author": [
-      {
-        "given": "John H.", 
-        "family": "Dirckx"
-      }
-    ], 
-    "page": "244-252", 
-    "edition": "2", 
-    "source": "ScienceDirect", 
-    "accessed": {
-      "date-parts": [
-        [
-          "2014", 
-          4, 
-          10
-        ]
-      ]
-    }, 
-    "container-title": "Encyclopedia of Language & Linguistics", 
-    "event-place": "Oxford", 
-    "type": "chapter", 
-    "id": "dirckx:2006anatomical", 
-    "editor": [
-      {
-        "given": "Keith", 
-        "family": "Brown"
-      }
-    ]
+    "type": "book", 
+    "id": "applegate:1994elements"
   }, 
   {
     "publisher": "Elsevier", 
@@ -4044,6 +4920,41 @@
     "id": "johnson:1944latin"
   }, 
   {
+    "note": "PMID: 22996985", 
+    "DOI": "10.5935/1678-9741.20120050", 
+    "author": [
+      {
+        "given": "Georges", 
+        "family": "Bezas"
+      }, 
+      {
+        "given": "Alexandre Lins", 
+        "family": "Werneck"
+      }
+    ], 
+    "shortTitle": "Greek language", 
+    "title": "Greek language: analysis of the cardiologic anatomical etymology: past and present", 
+    "URL": "http://ref.scielo.org/79kmbg", 
+    "issue": "2", 
+    "abstract": "INTRODUCTION: The Greek language, the root of most Latin anatomical terms, is deeply present in the Anatomical Terminology. Many studies seek to analyze etymologically the terms stemming from the Greek words. In most of these studies, the terms appear defined according to the etymological understanding of the respective authors at the time of its creation. Therefore, it is possible that the terms currently used are not consistent with its origin in ancient Greek words.\nMETHODS: We selected cardiologic anatomical terms derived from Greek words, which are included in the International Anatomical Terminology. We performed an etymological analysis using the Greek roots present in the earliest terms. We compared the cardiologic anatomical terms currently used in Greece and Brazil to the Greek roots originating from the ancient Greek language. We used morphological decomposition of Greek roots, prefixes, and suffixes. We also verified their use on the same lexicons and texts from the ancient Greek language.\nRESULTS: We provided a list comprising 30 cardiologic anatomical terms that have their origins in ancient Greek as well as their component parts in the International Anatomical Terminology. We included the terms in the way they were standardized in Portuguese, English, and Modern Greek as well as the roots of the ancient Greek words that originated them.\nCONCLUSION: Many works deal with the true origin of words (etymology) but most of them neither returns to the earliest roots nor relate them to their use in texts of ancient Greek language. By comparing the world's greatest studies on the etymology of Greek words, this paper tries to clarify the differences between the true origin of the Greek anatomical terms as well as the origins of the cardiologic anatomical terms more accepted today in Brazil by health professionals.", 
+    "ISSN": "1678-9741", 
+    "page": "318-326", 
+    "volume": "27", 
+    "source": "NCBI PubMed", 
+    "issued": {
+      "date-parts": [
+        [
+          "2012", 
+          6
+        ]
+      ]
+    }, 
+    "container-title": "Revista brasileira de cirurgia cardiovascular", 
+    "journalAbbreviation": "Rev Bras Cir Cardiovasc", 
+    "type": "article-journal", 
+    "id": "bezas:2012greek"
+  }, 
+  {
     "DOI": "10.1038/jid.1961.68", 
     "author": [
       {
@@ -4084,43 +4995,99 @@
     "id": "leider:1961what"
   }, 
   {
-    "DOI": "10.1111/j.1466-769X.2012.00549.x", 
-    "language": "en", 
-    "shortTitle": "The austerity bargain and the social self", 
-    "title": "The austerity bargain and the social self: conceptual clarity surrounding health cutbacks", 
-    "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1466-769X.2012.00549.x/abstract", 
-    "issue": "1", 
-    "abstract": "As necessary austerity measures make major inroads into western health services, this paper investigates the philology of austerity and finds that there are two subtly similar yet importantly different derivations from the Latin and the Greek. The Latin austerus is an abstract term meaning dry, harsh, sour; whereas the Greek austeros has a more embodied and literal meaning of making the tongue dry. What seems an initially subtle difference between the metaphorical and the metonymic plays out as involving seriously different outcomes between harsh economic measures and the literal effects on the people suffering under measures that actually make the tongue dry. The paper argues that between the trope and the literal that which Wittgenstein described as \u2018a language game\u2019 ensues wherein the metaphorical through a sleight of grammar is passed off as being real while, the literal effects on real people is downplayed as metaphorical \u2018collateral damage\u2019. The paper further argues that within this grammar that forces itself upon us, the game of capital is played out through what the author terms an austerity bargain that is levelled by the financial elites: healthy capitalism equals a healthy society. The paper then examines the six elements of the social determinants of health and what actually contributes to a healthy society. Rather than being under an individual threat of exclusion from what Marx termed a superabundance, the paper considers the irreducible differences between the game of capital's individualism, and, the social determinants of health's social inclusion, legitimization and that which Habermas termed public authentication. The paper concludes that not only do necessary austerity measures need to be critiqued but that they radically undermine what determines a healthy society. It follows also that the social determinants of health, radically undermine the bargain inherent for the privileged few within the game of capital.", 
-    "ISSN": "1466-769X", 
-    "page": "38-44", 
-    "volume": "14", 
-    "source": "Wiley Online Library", 
+    "DOI": "10.1097/01.ju.0000165388.71483.fb", 
+    "author": [
+      {
+        "given": "Ferdinand Peter", 
+        "family": "Moog"
+      }, 
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }, 
+      {
+        "given": "Friedrich", 
+        "family": "Moll"
+      }
+    ], 
+    "title": "The catheter and its use in late antiquity and the early Middle Ages", 
+    "URL": "http://www.sciencedirect.com/science/article/pii/S0022534701682752", 
+    "issue": "2", 
+    "abstract": "ABSTRACTPurpose\nBased on Greek and Latin sources the use of the urinary catheter in Western medicine between 200 and 1000 CE was reviewed.\nMaterials and Methods\nComputerized databank searches permitted the identification and analysis of ancient and early medieval texts that include material on the catheter.\nResults\nTen medical authors mentioned the catheter and its use. In the Byzantine world they include the encyclopedists Oribasius, Aetius and Paul of Aegina. The best known Latin author is Caelius Aurelianus. These writers often put together summaries of earlier works. Innovation or independent research was not easily found at a time during which neither anatomical autopsy nor experimentation was widely practiced.\nConclusions\nOld texts contain numerous instructions on how to skillfully use the catheter. As a technical achievement, it was independent of philosophical trends. Its primary indications, namely urinary retention, bladder stones and the administration of cures, changed little with time. As one of the oldest and most important instruments at the disposal of physicians, the history of the catheter should be known to every urologist.", 
+    "ISSN": "0022-5347", 
+    "page": "439-441", 
+    "volume": "174", 
+    "source": "ScienceDirect", 
     "issued": {
       "date-parts": [
         [
-          "2013", 
-          1
+          "2005", 
+          8
         ]
       ]
     }, 
-    "author": [
-      {
-        "given": "David A.", 
-        "family": "Buchanan"
-      }
-    ], 
-    "container-title": "Nursing Philosophy", 
+    "container-title": "The Journal of Urology", 
     "accessed": {
       "date-parts": [
         [
           "2014", 
-          5, 
-          7
+          9, 
+          15
         ]
       ]
     }, 
+    "journalAbbreviation": "The Journal of Urology", 
     "type": "article-journal", 
-    "id": "buchanan:2013austerity"
+    "id": "moog:2005catheter1"
+  }, 
+  {
+    "DOI": "10.1007/s00276-014-1305-7", 
+    "author": [
+      {
+        "given": "Vladim\u00edr", 
+        "family": "Musil"
+      }, 
+      {
+        "given": "Zden\u011bk", 
+        "family": "Suchomel"
+      }, 
+      {
+        "given": "Petra", 
+        "family": "Malinov\u00e1"
+      }, 
+      {
+        "given": "Josef", 
+        "family": "Stingl"
+      }, 
+      {
+        "given": "Martin", 
+        "family": "Vl\u010dek"
+      }, 
+      {
+        "given": "Marek", 
+        "family": "V\u00e1cha"
+      }
+    ], 
+    "language": "en", 
+    "title": "The history of Latin terminology of human skeletal muscles (from Vesalius to the present)", 
+    "URL": "http://link.springer.com/10.1007/s00276-014-1305-7", 
+    "issued": {
+      "date-parts": [
+        [
+          "2014", 
+          5, 
+          15
+        ]
+      ]
+    }, 
+    "abstract": "PURPOSE: The aim of this literary search was to chart the etymology of 32 selected human skeletal muscles, representative of all body regions.\nMETHODS: In researching this study, analysis of 15 influential Latin and German anatomical textbooks, dating from the sixteenth to the nineteenth century, was undertaken, as well as reference to four versions of the official Latin anatomical terminologies. Particular emphasis has been placed on the historical development of muscular nomenclature, and the subsequent division of these data into groups, defined by similarities in the evolution of their names into the modern form.\nRESULTS: The first group represents examples of muscles whose names have not changed since their introduction by Vesalius (1543). The second group comprises muscles which earned their definitive names during the seventeenth and eighteenth century. The third group is defined by acceptance into common anatomical vernacular by the late nineteenth century, including those outlined in the first official Latin terminology (B.N.A.) of 1895. The final group is reserved for six extra-ocular muscles with a particularly poetic history, favoured and popularised by the anatomical giants of late Renaissance and 1,700\u00a0s.\nCONCLUSIONS: As this study will demonstrate, it is evident that up until introduction of the B.N.A. there was an extremely liberal approach to naming muscles, deserving great respect in the retrospective terminological studies if complete and relevant results are to be achieved. Without this knowledge of the vernacular of the ages past, modern researchers can find themselves 'reinventing the wheel' in looking for their answers.", 
+    "ISSN": "1279-8517", 
+    "note": "PMID: 24828123", 
+    "source": "NCBI PubMed", 
+    "container-title": "Surgical and Radiologic Anatomy", 
+    "journalAbbreviation": "Surg Radiol Anat", 
+    "type": "article-journal", 
+    "id": "musil:2014history"
   }, 
   {
     "publisher": "Elsevier", 
@@ -4153,6 +5120,49 @@
     ]
   }, 
   {
+    "DOI": "10.1007/BF03256190", 
+    "author": [
+      {
+        "given": "Ferdinand Peter", 
+        "family": "Moog"
+      }, 
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "language": "en", 
+    "title": "Toxicology in the Old Testament: Did the high priest Alcimus die of acute aconitine poisoning?", 
+    "URL": "http://link.springer.com/article/10.1007/BF03256190", 
+    "issue": "3", 
+    "abstract": "The Bible contains several interesting contributions to the history of neurology, as is the case of the High Priest Alkimos, who died suddenly in 159 BC. He was regarded as a stereotypical stroke victim for a long time. The reports on his death in the Septauginta and the later \u2018Jewish Antiquities\u2019 of Flavius Josephus present some typical symptoms of stroke (collapse, loss of speech and death within a short time), but they also describe severe pains, which are very unusual among patients with stroke. Similar symptoms can be found in the case of the Roman emperor Claudius, who was poisoned by his spouse Agrippina. It was thought that she used aconitine, an ingredient of the monkshood plant (Aconitum napellus L.), which imitates an apoplectic insult, but also causes vehement pains. It was therefore possible that something similar had happened to Alkimos, as aconitine was a common poison in ancient times and the surroundings of his death may confirm the suspicion. Reigning during a time of great upheaval, Alkimos was able to maintain his high office chiefly because of the help of the Seleucides. He had just begun construction work on the temple of Jerusalem, an order, which was regarded as a sacrilege by his foes. This impression was enhanced by his subsequent illness which could be considered as a divine punishment.", 
+    "ISSN": "0964-198X", 
+    "page": "151-156", 
+    "volume": "21", 
+    "source": "link.springer.com", 
+    "issued": {
+      "date-parts": [
+        [
+          "2002", 
+          9
+        ]
+      ]
+    }, 
+    "container-title": "Adverse Drug Reactions and Toxicological Reviews", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Adv Drug React Toxicol Rev", 
+    "type": "article-journal", 
+    "id": "moog:2002toxicology"
+  }, 
+  {
     "publisher": "Elsevier", 
     "ISBN": "9780444514400", 
     "publisher-place": "Amsterdam", 
@@ -4177,6 +5187,31 @@
         "family": "Konstantinidis"
       }
     ]
+  }, 
+  {
+    "publisher": "Verlag fu\u0308r Angewandte Wiss.", 
+    "ISBN": "392225103X 9783922251033", 
+    "publisher-place": "Mu\u0308nchen", 
+    "shortTitle": "Medizinische Fachsprache", 
+    "title": "Medizinische Fachsprache: Etymologisch-erkl\u00e4rende Einf\u00fchrung", 
+    "language": "German", 
+    "issued": {
+      "date-parts": [
+        [
+          "1988"
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "Klaus", 
+        "family": "Grossgebauer"
+      }
+    ], 
+    "source": "Open WorldCat", 
+    "event-place": "Mu\u0308nchen", 
+    "type": "book", 
+    "id": "grossgebauer:1988medizinische"
   }, 
   {
     "publisher": "Lippincott Williams & Wilkins", 
@@ -4294,30 +5329,30 @@
     "id": "beretta:1993enlightenment"
   }, 
   {
-    "publisher": "Elsevier", 
-    "ISBN": "0444419780", 
-    "publisher-place": "Amsterdam", 
-    "shortTitle": "Elsevier's dictionary of weeds of western Europe", 
-    "title": "Elsevier's dictionary of weeds of western Europe: their common names and importance in Latin, Danish, German, English, Spanish, Finnish, French, Icelandic, Italian, Dutch, Norwegian, Portuguese, and Swedish", 
-    "call-number": "SB613.E855 W54", 
-    "number-of-pages": "320", 
+    "publisher": "Thomas", 
+    "ISBN": "0398056714", 
+    "publisher-place": "Springfield, IL", 
+    "shortTitle": "Biolexicon", 
+    "title": "Biolexicon: a guide to the language of biology", 
+    "call-number": "QH302.5 .B59 1990", 
+    "author": [
+      {
+        "given": "Charles", 
+        "family": "Blinderman"
+      }
+    ], 
+    "number-of-pages": "363", 
     "source": "Library of Congress ISBN", 
-    "event-place": "Amsterdam", 
+    "event-place": "Springfield, IL", 
     "issued": {
       "date-parts": [
         [
-          "1982"
+          "1990"
         ]
       ]
     }, 
     "type": "book", 
-    "id": "williams:1982elsevier", 
-    "editor": [
-      {
-        "given": "Gareth", 
-        "family": "Williams"
-      }
-    ]
+    "id": "blinderman:1990biolexicon"
   }, 
   {
     "publisher": "Oxford University Press", 
@@ -4380,6 +5415,32 @@
     "id": "lumley:2007plant"
   }, 
   {
+    "publisher": "Heinemann", 
+    "publisher-place": "London", 
+    "shortTitle": "Medical terms", 
+    "title": "Medical terms: their origin and construction", 
+    "call-number": "R123 .R6 1971", 
+    "author": [
+      {
+        "given": "Ffrangcon", 
+        "family": "Roberts"
+      }
+    ], 
+    "number-of-pages": "102", 
+    "edition": "5", 
+    "source": "toroprod.library.utoronto.ca Library Catalog", 
+    "issued": {
+      "date-parts": [
+        [
+          "1971"
+        ]
+      ]
+    }, 
+    "event-place": "London", 
+    "type": "book", 
+    "id": "roberts:1971medical"
+  }, 
+  {
     "note": "PMID: 20730293", 
     "DOI": "10.1590/S0004-27492010000300019", 
     "language": "por", 
@@ -4425,6 +5486,93 @@
     "id": "temporini:2010relato"
   }, 
   {
+    "collection-title": "Handbook of clinical neurology", 
+    "ISBN": "9780444520098", 
+    "publisher-place": "Edinburgh", 
+    "title": "Neurological conditions in the European Middle Ages", 
+    "URL": "http://dx.doi.org/10.1016/S0072-9752(08)02107-6", 
+    "DOI": "10.1016/S0072-9752(08)02107-6",
+    "call-number": "RC338 .H58 2010", 
+    "abstract": "Medicine and neurology in the Middle Ages were different from what they are today. Traditionally, medicine in the Middle Ages has been described as intellectually stagnant and practically chaotic. This chapter presents a summary of the development of medicine as it relates to neurological conditions from the fall of the Roman Empire to the Renaissance in Western Europe. In characterizing \u201cmedieval\u201d medicine, it is important to note that the changes embraced by the Renaissance came to different parts of Europe at different times. Thus, late-13th-century Italy was experiencing elements decidedly post-medieval, while parts of England and Germany were still \u201cmedieval\u201d into the 15th century. The Middle Ages were far from homogeneous. Medieval theories of the causes of neurological disease were highly varied. In the Modern Era, the therapy is linked to diagnosis. In antiquity and the Middle Ages, therapy was more concretely linked to prognostica.", 
+    "collection-number": "3rd ser., 17 (95)", 
+    "publisher": "Elsevier", 
+    "page": "79-90", 
+    "source": "Library of Congress ISBN", 
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    }, 
+    "event-place": "Edinburgh", 
+    "container-title": "History of neurology", 
+    "author": [
+      {
+        "given": "Walton O., III", 
+        "family": "Schalick"
+      }
+    ], 
+    "type": "chapter", 
+    "id": "schalick:2009neurological", 
+    "editor": [
+      {
+        "given": "Stanley", 
+        "family": "Finger"
+      }, 
+      {
+        "given": "Franc\u0327ois", 
+        "family": "Boller"
+      }, 
+      {
+        "given": "Kenneth L.", 
+        "family": "Tyler"
+      }
+    ]
+  }, 
+  {
+    "note": "PMID: 15370320", 
+    "DOI": "10.1080/0964704049052158", 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }, 
+      {
+        "given": "Ferdinand Peter", 
+        "family": "Moog"
+      }
+    ], 
+    "title": "Next emperor, please! No end to retrospective diagnostics", 
+    "URL": "http://dx.doi.org/10.1080/0964704049052158", 
+    "DOI": "10.1080/0964704049052158",
+    "issue": "2", 
+    "ISSN": "0964-704X", 
+    "page": "143-149", 
+    "volume": "13", 
+    "source": "Taylor and Francis+NEJM", 
+    "issued": {
+      "date-parts": [
+        [
+          "2004", 
+          6
+        ]
+      ]
+    }, 
+    "container-title": "Journal of the History of the Neurosciences", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "karenberg:2004next"
+  }, 
+  {
     "publisher": "Praeger", 
     "ISBN": "0030639611", 
     "publisher-place": "New York", 
@@ -4451,30 +5599,30 @@
     "id": "dirckx:1983language"
   }, 
   {
-    "publisher": "Elsevier", 
-    "ISBN": "9780444518774", 
-    "publisher-place": "Amsterdam", 
-    "shortTitle": "Elsevier's dictionary of mammals", 
-    "title": "Elsevier's dictionary of mammals: in Latin, English, German, French and Italian", 
-    "call-number": "QL701.2 .E47 2007", 
-    "number-of-pages": "857", 
+    "publisher": "Festina Lente", 
+    "ISBN": "8885171141", 
+    "publisher-place": "Firenze", 
+    "language": "Italian", 
+    "title": "Dizionario etimologico storico dei termini medici", 
+    "call-number": "R121 .M3458 1993", 
+    "author": [
+      {
+        "given": "Enrico", 
+        "family": "Marcovecchio"
+      }
+    ], 
+    "number-of-pages": "938", 
     "source": "Library of Congress ISBN", 
-    "event-place": "Amsterdam", 
+    "event-place": "Firenze", 
     "issued": {
       "date-parts": [
         [
-          "2007"
+          "1993"
         ]
       ]
     }, 
     "type": "book", 
-    "id": "wrobel:2007elsevier", 
-    "editor": [
-      {
-        "given": "M.", 
-        "family": "Wrobel"
-      }
-    ]
+    "id": "marcovecchio:1993dizionario"
   }, 
   {
     "DOI": "10.1111/j.1447-073X.2007.00180.x", 
@@ -4543,48 +5691,43 @@
     "id": "d\u017euganov\u00e1:2006negative"
   }, 
   {
-    "note": "PMID: 22996985", 
-    "DOI": "10.5935/1678-9741.20120050", 
+    "publisher": "Hafner", 
+    "publisher-place": "New York", 
+    "title": "The origin of medical terms", 
+    "call-number": "R123 .S54 1970", 
     "author": [
       {
-        "given": "Georges", 
-        "family": "Bezas"
-      }, 
-      {
-        "given": "Alexandre Lins", 
-        "family": "Werneck"
+        "given": "Henry Alan", 
+        "family": "Skinner"
       }
     ], 
-    "shortTitle": "Greek language", 
-    "title": "Greek language: analysis of the cardiologic anatomical etymology: past and present", 
-    "URL": "http://ref.scielo.org/79kmbg", 
-    "issue": "2", 
-    "abstract": "INTRODUCTION: The Greek language, the root of most Latin anatomical terms, is deeply present in the Anatomical Terminology. Many studies seek to analyze etymologically the terms stemming from the Greek words. In most of these studies, the terms appear defined according to the etymological understanding of the respective authors at the time of its creation. Therefore, it is possible that the terms currently used are not consistent with its origin in ancient Greek words.\nMETHODS: We selected cardiologic anatomical terms derived from Greek words, which are included in the International Anatomical Terminology. We performed an etymological analysis using the Greek roots present in the earliest terms. We compared the cardiologic anatomical terms currently used in Greece and Brazil to the Greek roots originating from the ancient Greek language. We used morphological decomposition of Greek roots, prefixes, and suffixes. We also verified their use on the same lexicons and texts from the ancient Greek language.\nRESULTS: We provided a list comprising 30 cardiologic anatomical terms that have their origins in ancient Greek as well as their component parts in the International Anatomical Terminology. We included the terms in the way they were standardized in Portuguese, English, and Modern Greek as well as the roots of the ancient Greek words that originated them.\nCONCLUSION: Many works deal with the true origin of words (etymology) but most of them neither returns to the earliest roots nor relate them to their use in texts of ancient Greek language. By comparing the world's greatest studies on the etymology of Greek words, this paper tries to clarify the differences between the true origin of the Greek anatomical terms as well as the origins of the cardiologic anatomical terms more accepted today in Brazil by health professionals.", 
-    "ISSN": "1678-9741", 
-    "page": "318-326", 
-    "volume": "27", 
-    "source": "NCBI PubMed", 
+    "number-of-pages": "438", 
+    "edition": "2nd ed., corrected", 
+    "source": "toroprod.library.utoronto.ca Library Catalog", 
     "issued": {
       "date-parts": [
         [
-          "2012", 
-          6
+          "1970"
         ]
       ]
     }, 
-    "container-title": "Revista brasileira de cirurgia cardiovascular", 
-    "journalAbbreviation": "Rev Bras Cir Cardiovasc", 
-    "type": "article-journal", 
-    "id": "bezas:2012greek"
+    "event-place": "New York", 
+    "type": "book", 
+    "id": "skinner:1970origin"
   }, 
   {
-    "collection-title": "Merrow technical library: Biology", 
+    "publisher": "Merrow", 
     "ISBN": "0900541474", 
     "publisher-place": "Watford, Herts.", 
-    "publisher": "Merrow", 
+    "title": "Latin and Greek for biologists", 
     "call-number": "QH83 .S269 1971 REF", 
     "abstract": "Excellent summary of the most pertinent concepts of Greek and Latin necessary to understanding their usage in biology.", 
-    "title": "Latin and Greek for biologists", 
+    "author": [
+      {
+        "given": "Theodore Horace", 
+        "family": "Savory"
+      }
+    ], 
     "number-of-pages": "34", 
     "edition": "2", 
     "source": "toroprod.library.utoronto.ca Library Catalog", 
@@ -4596,70 +5739,40 @@
       ]
     }, 
     "event-place": "Watford, Herts.", 
-    "author": [
-      {
-        "given": "Theodore Horace", 
-        "family": "Savory"
-      }
-    ], 
     "type": "book", 
     "id": "savory:1971latin"
   }, 
   {
-    "DOI": "10.1007/s00276-014-1305-7", 
-    "author": [
-      {
-        "given": "Vladim\u00edr", 
-        "family": "Musil"
-      }, 
-      {
-        "given": "Zden\u011bk", 
-        "family": "Suchomel"
-      }, 
-      {
-        "given": "Petra", 
-        "family": "Malinov\u00e1"
-      }, 
-      {
-        "given": "Josef", 
-        "family": "Stingl"
-      }, 
-      {
-        "given": "Martin", 
-        "family": "Vl\u010dek"
-      }, 
-      {
-        "given": "Marek", 
-        "family": "V\u00e1cha"
-      }
-    ], 
-    "language": "en", 
-    "title": "The history of Latin terminology of human skeletal muscles (from Vesalius to the present)", 
-    "URL": "http://link.springer.com/10.1007/s00276-014-1305-7", 
+    "publisher": "Chambers", 
+    "ISBN": "055010349X", 
+    "publisher-place": "Edinburgh", 
+    "title": "Classical roots for medics", 
+    "call-number": "R123 .C435 2007", 
+    "number-of-pages": "213", 
+    "source": "toroprod.library.utoronto.ca Library Catalog", 
+    "event-place": "Edinburgh", 
     "issued": {
       "date-parts": [
         [
-          "2014", 
-          5, 
-          15
+          "2007"
         ]
       ]
     }, 
-    "abstract": "PURPOSE: The aim of this literary search was to chart the etymology of 32 selected human skeletal muscles, representative of all body regions.\nMETHODS: In researching this study, analysis of 15 influential Latin and German anatomical textbooks, dating from the sixteenth to the nineteenth century, was undertaken, as well as reference to four versions of the official Latin anatomical terminologies. Particular emphasis has been placed on the historical development of muscular nomenclature, and the subsequent division of these data into groups, defined by similarities in the evolution of their names into the modern form.\nRESULTS: The first group represents examples of muscles whose names have not changed since their introduction by Vesalius (1543). The second group comprises muscles which earned their definitive names during the seventeenth and eighteenth century. The third group is defined by acceptance into common anatomical vernacular by the late nineteenth century, including those outlined in the first official Latin terminology (B.N.A.) of 1895. The final group is reserved for six extra-ocular muscles with a particularly poetic history, favoured and popularised by the anatomical giants of late Renaissance and 1,700\u00a0s.\nCONCLUSIONS: As this study will demonstrate, it is evident that up until introduction of the B.N.A. there was an extremely liberal approach to naming muscles, deserving great respect in the retrospective terminological studies if complete and relevant results are to be achieved. Without this knowledge of the vernacular of the ages past, modern researchers can find themselves 'reinventing the wheel' in looking for their answers.", 
-    "ISSN": "1279-8517", 
-    "note": "PMID: 24828123", 
-    "source": "NCBI PubMed", 
-    "container-title": "Surgical and Radiologic Anatomy", 
-    "journalAbbreviation": "Surg Radiol Anat", 
-    "type": "article-journal", 
-    "id": "musil:2014history"
+    "type": "book", 
+    "id": "brooks:2007classical", 
+    "editor": [
+      {
+        "given": "Katie", 
+        "family": "Brooks"
+      }
+    ]
   }, 
   {
     "publisher": "Office de la langue fran\u00e7aise", 
     "ISBN": "255114695X 9782551146956", 
     "publisher-place": "Que\u0301bec", 
     "shortTitle": "Lexique des fruits", 
-    "title": "Lexique des fruits: lexique franc\u0327ais-anglais-latin", 
+    "title": "Lexique des fruits: Lexique franc\u0327ais-anglais-latin", 
     "language": "French", 
     "issued": {
       "date-parts": [
@@ -4707,6 +5820,96 @@
     "journalAbbreviation": "Am J Dermatopathol", 
     "type": "article-journal", 
     "id": "dirckx:1987little"
+  }, 
+  {
+    "DOI": "10.1002/pros.21129", 
+    "language": "en", 
+    "shortTitle": "Uro-words making history", 
+    "title": "Uro-words making history: Ureter and urethra", 
+    "URL": "http://onlinelibrary.wiley.com/doi/10.1002/pros.21129/abstract", 
+    "issue": "9", 
+    "abstract": "PURPOSE\nWe comprehensively review the history of the terms \u201cureter\u201d and \u201curethra\u201d from 700 BC to the present.\nMATERIALS AND METHODS\nUsing a case study approach, ancient medical texts were analyzed to clarify the etymology and use of both terms. In addition, selected anatomy textbooks from the 15th to 17th centuries were searched to identify and compare descriptions, illustrations, and various expressions used by contemporary authors to designate the upper and lower parts of the urinary tract.\nRESULTS\nThe Ancient Greek words \u201cureter\u201d and \u201curethra\u201d appear early in Hippocratic and Aristotelian writings. However, both terms designated what we today call the urethra. It was only with increasing anatomical knowledge in Greek medical texts after the 1st century AD that definitions of these words evolved similar to those we employ today. Numerous synonyms were used which served as a basis for translation into Arabic and later Latin during the transfer of ancient knowledge to the cultures of the medieval period. When Greek original texts and their Arabic\u2013Latin version were compared during the Renaissance, this led to terminological confusion which could only be gradually overcome. Around the year 1600, the use of the latinized terms \u201cureter\u201d and \u201curethra\u201d became generally accepted. The dissemination of these terms in modern national languages and the emergence of clinical derivatives complete this historical development.\nCONCLUSIONS\nThe history of the terms \u201cureter\u201d and \u201curethra\u201d is exemplary of the difficulties with which the development of a precise urologic terminology had to struggle. The story behind the words also clarifies why even today we still have imprecise or misleading terms. Prostate 70: 952\u2013958, 2010. \u00a9 2010 Wiley-Liss, Inc.", 
+    "ISSN": "1097-0045", 
+    "page": "952-958", 
+    "volume": "70", 
+    "source": "Wiley Online Library", 
+    "issued": {
+      "date-parts": [
+        [
+          "2010", 
+          6, 
+          15
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "Franz Josef", 
+        "family": "Marx"
+      }, 
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "container-title": "The Prostate", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Prostate", 
+    "type": "article-journal", 
+    "id": "marx:2010uro"
+  }, 
+  {
+    "publisher": "Elsevier", 
+    "ISBN": "978-0-08-044854-1", 
+    "publisher-place": "Oxford", 
+    "shortTitle": "Anatomical Nomenclature", 
+    "title": "Anatomical Nomenclature: History", 
+    "URL": "http://dx.doi.org/10.1016/B0-08-044854-2/04268-1", 
+    "DOI": "10.1016/B0-08-044854-2/04268-1",
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    }, 
+    "abstract": "An accurate and systematic nomenclature is of paramount importance in a purely descriptive discipline such as anatomy. Because Western science and medicine began in Greece, the earliest names for parts of the body were Greek words, at first borrowed from the vernacular. The growth and spread of anatomic knowledge eventually demanded a more specialized vocabulary. Later, as Latin became the international medium of scholarly communication, a copious and richly metaphoric but unsystematic lexicon of anatomy evolved in that language. In the 19th century, European anatomists organized to forge a more logical, consistent, and economical Latin nomenclature. Modern usage is a hybrid of vernacular words and of Latin and Greek drawn from various systems and periods.", 
+    "author": [
+      {
+        "given": "John H.", 
+        "family": "Dirckx"
+      }
+    ], 
+    "page": "244-252", 
+    "edition": "2", 
+    "source": "ScienceDirect", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          4, 
+          10
+        ]
+      ]
+    }, 
+    "container-title": "Encyclopedia of Language & Linguistics", 
+    "event-place": "Oxford", 
+    "type": "chapter", 
+    "id": "dirckx:2006anatomical", 
+    "editor": [
+      {
+        "given": "Keith", 
+        "family": "Brown"
+      }
+    ]
   }, 
   {
     "publisher": "Elsevier", 
@@ -4847,7 +6050,6 @@
     "publisher-place": "Philadelphia, PA", 
     "language": "English", 
     "title": "Dorland's illustrated medical dictionary.", 
-    "edition": "32", 
     "issued": {
       "date-parts": [
         [
@@ -4862,6 +6064,7 @@
         "family": "Dorland"
       }
     ], 
+    "edition": "32", 
     "source": "Open WorldCat", 
     "event-place": "Philadelphia, PA", 
     "type": "book", 
@@ -4892,23 +6095,28 @@
     "id": "lewis:1948medical"
   }, 
   {
-    "publisher": "Chambers", 
-    "ISBN": "055010349X", 
-    "publisher-place": "Edinburgh", 
-    "title": "Classical roots for medics", 
-    "call-number": "R123 .C435 2007", 
-    "number-of-pages": "213", 
-    "source": "toroprod.library.utoronto.ca Library Catalog", 
-    "event-place": "Edinburgh", 
+    "publisher": "Thieme", 
+    "ISBN": "3131143614 9783131143617 3131152516  9783131152510", 
+    "publisher-place": "Stuttgart", 
+    "language": "English", 
+    "title": "Terminologia anatomica: International anatomical terminology", 
     "issued": {
       "date-parts": [
         [
-          "2007"
+          "1998"
         ]
       ]
     }, 
+    "source": "Open WorldCat", 
+    "event-place": "Stuttgart", 
     "type": "book", 
-    "id": "anonymous:2007classical"
+    "id": "whitmore:1998terminologia", 
+    "editor": [
+      {
+        "given": "Ian", 
+        "family": "Whitmore"
+      }
+    ]
   }, 
   {
     "note": "PMID: 2003653", 
@@ -4938,6 +6146,36 @@
     "journalAbbreviation": "Am J Dermatopathol", 
     "type": "article-journal", 
     "id": "dirckx:1991words"
+  }, 
+  {
+    "publisher": "Logos", 
+    "ISBN": "9783832516710 3832516719", 
+    "publisher-place": "Berlin", 
+    "shortTitle": "Lingua medica", 
+    "title": "Lingua medica: Lehrbuch zur medizinischen und zahnmedizinischen Terminologie", 
+    "language": "German", 
+    "issued": {
+      "date-parts": [
+        [
+          "2010"
+        ]
+      ]
+    }, 
+    "author": [
+      {
+        "given": "Mariacarla", 
+        "family": "Gadebusch Bondio"
+      }, 
+      {
+        "given": "Hartmut", 
+        "family": "Bettin"
+      }
+    ], 
+    "edition": "2", 
+    "source": "Open WorldCat", 
+    "event-place": "Berlin", 
+    "type": "book", 
+    "id": "bondio:2010lingua"
   }, 
   {
     "note": "PMID: 9919759", 
@@ -4970,42 +6208,6 @@
     "id": "d\u017euganov\u00e1:1998word"
   }, 
   {
-    "publisher": "Philadelphia School District, Office of Curriculum and Instruction", 
-    "publisher-place": "Philadelphia, PA", 
-    "language": "en", 
-    "title": "Latin, The Language of Health Sciences. Teacher's Guide", 
-    "URL": "http://eric.ed.gov/?id=ED216523", 
-    "issued": {
-      "date-parts": [
-        [
-          "1982"
-        ]
-      ]
-    }, 
-    "abstract": "This guide to an audio-lingual approach to Latin instruction is intended to assist Latin teachers and English teachers with background in Latin to expand the English vocabulary and reading skills of pupils through the study of Latin roots, prefixes, and suffixes. The content of this guide to health vocabulary introduces students to Latin and English word derivations and to the sources of medical terminology in classical mythology. The introductory material provides general notes on the teaching of Latin in the Philadelphia School District, suggestions for scheduling and staffing the Latin classes, an outline of the organization of each lesson, some general hints to the teacher, and an overview of the material to be taught in this unit. The material to be taught is presented in 11 lessons, a number of word games, and a unit review lesson. An annotated bibiliography completes the unit. (AMH)", 
-    "author": [
-      {
-        "given": "Rudolph", 
-        "family": "Masciantonio"
-      }
-    ], 
-    "number": "ED 216 523", 
-    "page": "76", 
-    "source": "eric.ed.gov", 
-    "event-place": "Philadelphia, PA", 
-    "accessed": {
-      "date-parts": [
-        [
-          "2014", 
-          7, 
-          15
-        ]
-      ]
-    }, 
-    "type": "report", 
-    "id": "masciantonio:1982latin"
-  }, 
-  {
     "publisher": "American College of Physicians", 
     "ISBN": "1930513496 9781930513495", 
     "publisher-place": "Philadelphia", 
@@ -5032,6 +6234,50 @@
     "event-place": "Philadelphia", 
     "type": "book", 
     "id": "haubrich:2003medical"
+  }, 
+  {
+    "DOI": "10.1002/pros.20871", 
+    "author": [
+      {
+        "given": "Franz Josef", 
+        "family": "Marx"
+      }, 
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "language": "en", 
+    "title": "History of the term \"prostate\"", 
+    "URL": "http://onlinelibrary.wiley.com/doi/10.1002/pros.20871/abstract", 
+    "issue": "2", 
+    "abstract": "BACKGROUND\nWe comprehensively review the history of the word \u201cprostate\u201d and related terms from 600 BC to the present.\nMETHODS\nBoth medical and non-medical ancient texts were searched to clarify the term's etymology and use. Anatomy textbooks of the 16th through the 18th century were analyzed to identify descriptions, illustrations and various expressions used by contemporary authors to designate the prostate.\nRESULTS\nIn ancient Greek the masculine term \u201cprostat\u0113s\u201d meant \u201cpresident\u201d and was exclusively used in a non-medical sense. It was not until the Renaissance that anatomists discovered the organ naming it \u201cglandulous body.\u201d In 1600 the French physician du Laurens introduced the metaphoric denomination \u201cprostatae.\u201d However he and his contemporaries misinterpreted the history of the organ and the term, choose the wrong gender when translating it into Latin, and believed that it designated a double organ. Only in the 1800s was this anatomical error corrected while the grammatical one lived on.\nCONCLUSIONS\nThe history of the term \u201cprostate\u201d is a prime example of the difficulties with which the development of a precise urologic terminology had to struggle. At the same time this retrospective view provides a stimulus to avoid linguistic ambiguity in the future. Prostate 69: 208\u2013213, 2009. \u00a9 2008 Wiley\u2013Liss, Inc.", 
+    "ISSN": "1097-0045", 
+    "page": "208-213", 
+    "volume": "69", 
+    "source": "Wiley Online Library", 
+    "issued": {
+      "date-parts": [
+        [
+          "2009", 
+          2, 
+          1
+        ]
+      ]
+    }, 
+    "container-title": "The Prostate", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Prostate", 
+    "type": "article-journal", 
+    "id": "marx:2009history"
   }, 
   {
     "note": "PMID: 23112209", 
@@ -5151,34 +6397,125 @@
     "id": "swanson:2014neuroanatomical"
   }, 
   {
-    "note": "PMID: 23248927", 
-    "author": [
-      {
-        "given": "Keith", 
-        "family": "Stephens-Borg"
-      }
-    ], 
-    "language": "eng", 
-    "title": "da Vinci's codex and the anatomy of healthcare", 
-    "URL": "http://search.proquest.com/docview/1034895921/", 
-    "issue": "8", 
-    "abstract": "We usually display a laid-back approach to medical jargon throughout our theatre work. The word 'perioperative' is built from the Greek word 'peri' (around) and the Latin 'operari' (to work). Latin and Greek became the prefixed language of choice for Leonardo da Vinci, and his research was pivotal in determining the way in which surgical procedures are documented. Ancient manuscripts aided the unfolding of the secrets of anatomy, and Leonardo revealed that art was the key in expressive detailed explanation.", 
-    "ISSN": "1750-4589", 
-    "page": "257-261", 
-    "volume": "22", 
-    "source": "NCBI PubMed", 
+    "note": "PMID: 14740025", 
+    "DOI": "10.1177/096777200401200112", 
+    "language": "en", 
+    "shortTitle": "Roman Emperors Suffering from Apoplexy", 
+    "title": "Roman emperors suffering from apoplexy: the medical and historical significance of classical literary sources", 
+    "URL": "http://jmb.sagepub.com/content/12/1/43", 
+    "issue": "1", 
+    "abstract": "According to various Greek and Latin texts, several Roman emperors died of \u201capoplexy\u201d. This paper presents a systematic collection and evaluation of these sources. The contents of the texts are compared with contemporary knowledge as well as present-day perspectives. In retrospect, few of the \u201croyal cases\u201d can be classified as cerebrovascular disorders.", 
+    "ISSN": "0967-7720, 1758-1087", 
+    "page": "43-50", 
+    "volume": "12", 
+    "source": "jmb.sagepub.com", 
     "issued": {
       "date-parts": [
         [
-          "2012", 
-          8
+          "2004", 
+          2
         ]
       ]
     }, 
-    "container-title": "Journal of perioperative practice", 
-    "journalAbbreviation": "J Perioper Pract", 
+    "author": [
+      {
+        "given": "Ferdinand Peter", 
+        "family": "Moog"
+      }, 
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }
+    ], 
+    "container-title": "Journal of Medical Biography", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "J Med Biogr", 
     "type": "article-journal", 
-    "id": "borg:2012vinci"
+    "id": "moog:2004roman"
+  }, 
+  {
+    "collection-title": "Handbook of clinical neurology", 
+    "ISBN": "9780444520098", 
+    "publisher-place": "Edinburgh", 
+    "shortTitle": "After Galen", 
+    "title": "After Galen: late Antiquity and the Islamic world", 
+    "URL": "http://dx.doi.org/10.1016/S0072-9752(08)02106-4", 
+    "DOI": "10.1016/S0072-9752(08)02106-4",
+    "call-number": "RC338 .H58 2010", 
+    "abstract": "It is usually assumed that after Galen there was nothing new until the Renaissance. Contrary to this view, there were significant modifications of the inherited legacy in Late Antiquity, followed by fundamental changes within the Arabic/Islamic world. Their formative influence extends from the medieval period of transmission to the Renaissance and the 17th century. The increasing emphasis on the primacy of the brain initiated the beginnings of ventricular localization of function in Late Antiquity, which was subsequently developed into a theory and transmitted to the West via Arabic. Following the unprecedented translation movement in 9th-century Baghdad, the cumulative Greek and Hellenistic knowledge of the brain, nerves, and the senses from diverse sources were brought together in the systematic, logically unified Arabic medical compendia of encyclopedic proportions, which embody divergence from accepted views and new diagnostic observations. Their Latin versions became standard texts in medical schools. The oldest extant schematic diagrams relevant to neurology (the eye, the ventricles, the visual system, and the nerves) date from this period, and served as models for the medieval Latin West. The development of coherent descriptions of the motor and sensory systems, and related clinical disorders, by analogy with the mechanisms of hydraulic automata, foreshadows some of the explanatory methods associated with the 17th century.\n\nFurthermore, an entirely new approach resulted in a paradigm shift in theory and methodology through the experimental studies on the physics of light and vision of Ibn al-Haytham (d. 1040), who showed that what is sensed is not the object itself, but a punctate optical \u201cimage\u201d due to light reflected from its surface to the eye. This revolutionary approach to vision destroyed the viability of the Greek tradition of holistic forms and tactile sensory impressions. Ibn al-Haytham's theory of point-to-point correspondence formed the basis of subsequent attempts to find a topological representation of external objects in the eye (the retinal surface with Kepler) and in the brain (the pineal gland with Descartes and ultimately in the cortex with Munk). His serial re-projection of the punctate image in the eye, chiasma, and the brain can be regarded as dramatic precursors of the principles in neurology of hierarchical anatomical organization of sensory information from simple to complex.\n\nDue to Ibn al-Haytham, an understanding of vision increasingly required a synthesis of anatomy with the physics of light. Subsequently the visual enquiry shifted from the global question of \u201chow do we perceive the external world by the sense of sight?\u201d to specific concerns arising from the implications of Ibn al-Haytham's \u201coptical\u201d image in the eye: (a) the preservation of a point-to-point correspondence between object and image; (b) image inversion and the veridical (upright) perception of the object; (c) the unity of perception, or the binocular fusion of the two separate images, one from each eye; and (d) the anatomical projection of the retinal maps to various brain centers. The fact that these became central issues extending to Descartes and beyond underscores the unique legacy in neurology of Ibn al-Haytham's conception of a punctate sensory map, which was re-projected to the brain for complex sensory functions.", 
+    "collection-number": "3rd ser., 17 (95)", 
+    "publisher": "Elsevier", 
+    "page": "61-77", 
+    "source": "Library of Congress ISBN", 
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    }, 
+    "event-place": "Edinburgh", 
+    "container-title": "History of neurology", 
+    "author": [
+      {
+        "given": "G\u00fcl A.", 
+        "family": "Russell"
+      }
+    ], 
+    "type": "chapter", 
+    "id": "russell:2009after", 
+    "editor": [
+      {
+        "given": "Stanley", 
+        "family": "Finger"
+      }, 
+      {
+        "given": "Franc\u0327ois", 
+        "family": "Boller"
+      }, 
+      {
+        "given": "Kenneth L.", 
+        "family": "Tyler"
+      }
+    ]
+  }, 
+  {
+    "publisher": "Heffer", 
+    "publisher-place": "Cambridge", 
+    "shortTitle": "Anatomical terms", 
+    "title": "Anatomical terms: their origin and derivation", 
+    "call-number": "QM81 .F5 1968", 
+    "author": [
+      {
+        "given": "E.J.", 
+        "family": "Field"
+      }, 
+      {
+        "given": "R.J.", 
+        "family": "Harrison"
+      }
+    ], 
+    "number-of-pages": "212", 
+    "edition": "3", 
+    "source": "toroprod.library.utoronto.ca Library Catalog", 
+    "issued": {
+      "date-parts": [
+        [
+          "1968"
+        ]
+      ]
+    }, 
+    "event-place": "Cambridge", 
+    "type": "book", 
+    "id": "field:1968anatomical"
   }, 
   {
     "note": "PMID: 2604028", 
@@ -5240,7 +6577,7 @@
     "collection-title": "Studies in ancient medicine", 
     "ISBN": "9789004242784", 
     "publisher-place": "Leiden", 
-    "title": "On Terminological Variation in the Late Latin Translation of the Hippocratic Aphorisms", 
+    "title": "On terminological variation in the late latin translation of the Hippocratic aphorisms", 
     "URL": "http://dx.doi.org/10.1163/9789004273863_021", 
     "DOI": "10.1163/9789004273863_021",
     "call-number": "R138", 
@@ -5273,33 +6610,30 @@
     ]
   }, 
   {
-    "note": "PMID: 10752566", 
-    "DOI": "10.1007/s007050050036", 
+    "publisher": "Thomas", 
+    "ISBN": "0398009163", 
+    "publisher-place": "Springfield, IL", 
+    "title": "A source-book of biological names and terms", 
+    "call-number": "QH83 .J3 1959", 
     "author": [
       {
-        "given": "M.H.", 
-        "family": "van Regenmortel"
+        "given": "Edmund C.", 
+        "family": "Jaeger"
       }
     ], 
-    "language": "eng", 
-    "title": "On the relative merits of italics, Latin and binomial nomenclature in virus taxonomy", 
-    "issue": "2", 
-    "ISSN": "0304-8608", 
-    "page": "433-441", 
-    "volume": "145", 
-    "source": "NCBI PubMed", 
+    "number-of-pages": "323", 
+    "edition": "3", 
+    "source": "toroprod.library.utoronto.ca Library Catalog", 
     "issued": {
       "date-parts": [
         [
-          "2000", 
-          2
+          "1959"
         ]
       ]
     }, 
-    "container-title": "Archives of virology", 
-    "journalAbbreviation": "Arch. Virol.", 
-    "type": "article-journal", 
-    "id": "regenmortel:2000relative"
+    "event-place": "Springfield, IL", 
+    "type": "book", 
+    "id": "jaeger:1959source"
   }, 
   {
     "publisher": "Brill", 
@@ -5337,6 +6671,37 @@
         "family": "Burgers"
       }
     ]
+  }, 
+  {
+    "title": "How much Latin terminology education is enough? The views of students", 
+    "URL": "http://www.idosi.org/wasj/wasj29(2)14/15.pdf", 
+    "issue": "2", 
+    "author": [
+      {
+        "given": "Sema", 
+        "family": "\u00d6zkadif"
+      }, 
+      {
+        "given": "Selda", 
+        "family": "K\u0131l\u0131\u00e7"
+      }, 
+      {
+        "given": "Emrullah", 
+        "family": "Eken"
+      }
+    ], 
+    "page": "239-246", 
+    "volume": "29", 
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    }, 
+    "container-title": "World Applied Sciences Journal", 
+    "type": "article-journal", 
+    "id": "\u00f6zkadif:2014how"
   }, 
   {
     "note": "PMID: 2393072", 
@@ -5480,28 +6845,44 @@
     "id": "gal:2011stereochemical"
   }, 
   {
-    "publisher": "Thieme", 
-    "ISBN": "3131143614 9783131143617 3131152516  9783131152510", 
-    "publisher-place": "Stuttgart", 
-    "language": "English", 
-    "title": "Terminologia anatomica: International anatomical terminology", 
+    "note": "Medicine has been enthusiastic in naming tests, symptoms, and diseases after their discovers. Alexander Woywodt and Eric Matteson argue that eponyms are no longer appropriate, but Judith A Whitworth believes they remain a useful reflection of medical history\n\nSome years ago, filling in time between candidates in a clinical examination, I was chatting to a colleague about eponyms. His view was that eponyms were not particularly useful and he recalled an encounter with a young woman struggling in a similar examination. She couldn't find the lymph nodes and seemed unfamiliar with pulmonary auscultation. To bolster her spirits, he asked her who discovered Koch's bacillus. She became even more anxious and lost for words. My colleague helpfully asked, \u201cWho wrote Mendelssohn's Spring Song ?\u201d and she burst into tears. Similarly, I recall a friend coming out of a fine arts examination and asking who designed the Eiffel Tower.\n\nI understand there was a long line of people happy to argue that eponyms be abolished, and few prepared to take the contrary view. This I can only ascribe to the well known human propensity to enjoy tilting \u2026\nPMID: 17762034", 
+    "DOI": "10.1136/bmj.39308.380567.AD", 
+    "language": "en", 
+    "shortTitle": "Should eponyms be abandoned?", 
+    "title": "Should eponyms be abandoned? No", 
+    "URL": "http://www.bmj.com/content/335/7617/425", 
+    "issue": "7617", 
+    "ISSN": "0959-8138, 1468-5833", 
+    "page": "425", 
+    "volume": "335", 
+    "source": "www.bmj.com", 
     "issued": {
       "date-parts": [
         [
-          "1998"
+          "2007", 
+          8, 
+          30
         ]
       ]
     }, 
-    "source": "Open WorldCat", 
-    "event-place": "Stuttgart", 
-    "type": "book", 
-    "id": "whitmore:1998terminologia", 
-    "editor": [
+    "author": [
       {
-        "given": "Ian", 
-        "family": "Whitmore"
+        "given": "Judith A.", 
+        "family": "Whitworth"
       }
-    ]
+    ], 
+    "container-title": "BMJ", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "type": "article-journal", 
+    "id": "whitworth:2007should"
   }, 
   {
     "publisher": "University of Arizona Press", 
@@ -5626,10 +7007,53 @@
     "id": "lydiatt:2010historical"
   }, 
   {
+    "DOI": "10.1016/j.jns.2005.12.004", 
+    "author": [
+      {
+        "given": "Axel", 
+        "family": "Karenberg"
+      }, 
+      {
+        "given": "Hans", 
+        "family": "F\u00f6rstl"
+      }
+    ], 
+    "title": "Dementia in the Greco-Roman world", 
+    "URL": "http://www.sciencedirect.com/science/article/pii/S0022510X05004910", 
+    "issue": "1\u20132", 
+    "abstract": "Greek and Roman physicians developed distinct and detailed ideas, which can be regarded as early versions of our modern concept of dementia. Several classical sources\u2014some of them medical\u2014offer intriguing descriptions of many cognitive and behavioral symptoms in dementia, which are currently used for diagnostic purposes. Limitations of this ancient concept are due to terminological and epidemiological factors, but also to the physicians' social role. Only a small part of this early literature is cited in contemporary work on the origin of the dementia concept, which can be clearly traced back to the Age of Enlightenment and whose earlier history still needs to be elucidated.", 
+    "ISSN": "0022-510X", 
+    "page": "5-9", 
+    "volume": "244", 
+    "source": "ScienceDirect", 
+    "issued": {
+      "date-parts": [
+        [
+          "2006", 
+          5, 
+          15
+        ]
+      ]
+    }, 
+    "container-title": "Journal of the Neurological Sciences", 
+    "accessed": {
+      "date-parts": [
+        [
+          "2014", 
+          9, 
+          15
+        ]
+      ]
+    }, 
+    "journalAbbreviation": "Journal of the Neurological Sciences", 
+    "type": "article-journal", 
+    "id": "karenberg:2006dementia"
+  }, 
+  {
     "collection-title": "Studies in ancient medicine", 
     "ISBN": "9789004242784", 
     "publisher-place": "Leiden", 
-    "title": "The Meaning and Etymology of the Adjective Apiosus", 
+    "title": "The meaning and etymology of the adjective <i>apiosus</i>", 
     "URL": "http://dx.doi.org/10.1163/9789004273863_016", 
     "DOI": "10.1163/9789004273863_016",
     "call-number": "R138", 
