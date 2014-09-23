@@ -3441,8 +3441,94 @@
       ]
     }, 
     "type": "article-journal", 
-    "id": "karenberg:1998medieval"
+    "id": "karenberg:1998medieval2"
   }, 
+	{
+		"id": "karenberg:1998medieval3",
+		"type": "article-journal",
+		"title": "Medieval Descriptions and Doctrines of Stroke: Preliminary Analysis of Select Sources. Part III: Multiplying Speculations – The High and Late Middle Ages (1000–1450)",
+		"container-title": "Journal of the History of the Neurosciences",
+		"page": "186-200",
+		"volume": "7",
+		"issue": "3",
+		"source": "Taylor and Francis+NEJM",
+		"abstract": "By analyzing a body of texts compiled by various medical authors from the 11th to the 15th century, four basic developments can be noted: (1) From the beginning of the eleventh century the reception, translation and assimilation of Arabian and arabicized ancient texts became the ultimate goal of Western medicine (Constantine the African, Arnald of Villanova, et al.). Concepts of stroke were consequently guided by textual tradition, not by observation. (2) Scholastic speculations about different aspects of apoplexy, especially those concerning its origins, were numerous (Johannes Platearius, Batholomaeus Salernitanus, Pietro d'Abano, Giacomo da Forlì). Although most medieval physicians used the ancient doctrine of the four humors as model and explanation, opinions differed in many ways. (3) Attempts developed to present a simple outline of the etiology, the prognosis, and the treatment of the disease (Gilbertus Anglicus, Bernard of Gordon, John of Gaddesden). (4) Although lacking in originality, many of these writers nevertheless achieved a certain uniformity in presenting main topics, thus setting the standard for later practitioners.",
+		"URL": "http://www.tandfonline.com/doi/abs/10.1076/jhin.7.3.186.1851",
+		"DOI": "10.1076/jhin.7.3.186.1851",
+		"ISSN": "0964-704X",
+		"note": "PMID: 11623842",
+		"shortTitle": "Medieval Descriptions and Doctrines of Stroke",
+		"author": [
+			{
+				"family": "Karenberg",
+				"given": "Axel"
+			},
+			{
+				"family": "Hort",
+				"given": "Irmgard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					12
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					9,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "karenberg:1998medieval1",
+		"type": "article-journal",
+		"title": "Medieval Descriptions and Doctrines of Stroke: Preliminary Analysis of Select Sources. Part I: The Struggle for Terms and Theories – Late Antiquity and Early Middle Ages (300–800)",
+		"container-title": "Journal of the History of the Neurosciences",
+		"page": "162-173",
+		"volume": "7",
+		"issue": "3",
+		"source": "Taylor and Francis+NEJM",
+		"abstract": "This first of a series of papers on the history of stroke presents an examination of a number of exemplary Greek and Latin sources, ranging from late antiquity to the dawn of the Middle Ages. We first establish a chronological order of various groups of texts and, whenever possible, ascertain the relationship of one group of writings to another. In the second century A.D., Galen had used the Hippocratic concept of humoral imbalance as a fundamental explanatory mechanism for the interpretation of clinical manifestations of apoplexy. Galen definitely rejected the Aristotelian precept of the primacy of the heart. According to his teaching, stroke resulted from the accumulation of a thick and dense humor in the ventricles of the brain blocking the passage of the animal spirit. Galen's Greek texts became axiomatic for compilers of the Byzantine period (Aetius of Amida, Alexander of Tralles, Paulus of Aegina). But his ideas contrasted starkly with the theories of the Methodical School which exerted – through the Latin writings of Caelius Aurelianus – a certain influence on authors of the Latin West (Cassius Felix, Theodorus Priscianus). References to stroke can also be found in many theological writings of the early Middle Ages.",
+		"URL": "http://www.tandfonline.com/doi/abs/10.1076/jhin.7.3.162.1849",
+		"DOI": "10.1076/jhin.7.3.162.1849",
+		"ISSN": "0964-704X",
+		"note": "PMID: 11623840",
+		"shortTitle": "Medieval Descriptions and Doctrines of Stroke",
+		"author": [
+			{
+				"family": "Karenberg",
+				"given": "Axel"
+			},
+			{
+				"family": "Hort",
+				"given": "Irmgard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					12
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					9,
+					15
+				]
+			]
+		}
+	},
   {
     "note": "PMID: 18630812", 
     "author": [
