@@ -51,6 +51,10 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 - @dirckx:2001more, [on singular and plural terms](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200102000-00014)
 <!-- - @marx:2010uro, [reviewing the history of the terms 'ureter' and 'urethra'](http://dx.doi.org.myaccess.library.utoronto.ca/10.1002/pros.21129) -->
 
+#### Class Materials
+- [Slides](../lectures/lecture-3.html)
+- [Download slide text](../lectures/lecture-3.rtf) (RTF)
+
 <!-- Chapters 7–10 -->
 
 ### 4. Thursday, 2 October
