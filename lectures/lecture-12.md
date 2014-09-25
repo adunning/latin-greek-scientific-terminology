@@ -271,6 +271,15 @@ revealjs-url: ../javascripts/reveal.js
 ## facies articulares inferiores
 
 
+## Marečková et al. (2002)
+
+- Demonstrate that Latin is still a primary means of commmunication: they examine anatomical nomenclature, terms in clinical medicine, and pharmaceutical terminology.
+- Notes the attitude that it doesn't necessarily matter (and might even be preferable) if the patient does not know what the term means.
+    - Pliny the Elder: the Roman people 'believe less what regards their own health, if they understand'
+- Outlines the development of the *Terminologia Anatomica* (International Anatomical Terminology).
+
+
+
 # Roots, Part III
 
 ## CAN-

@@ -44,6 +44,7 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 ### 3. Thursday, 25 September
 - Greek Noun-Forming Suffixes
 - Scientific Use of Greek and Latin
+- Cases in Greek and Latin
 
 #### Read
 - @džuganová:2013english, [explaining current approaches to terminology](http://hrcak.srce.hr/file/162511)

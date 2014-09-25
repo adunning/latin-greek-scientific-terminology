@@ -988,8 +988,8 @@ LY-
 :   DERMATO-LY-sis, abnormal laxation of the skin; LITHO-dia-lysis, solution of calculi in the urinary bladder; breaking up of a vesical calculus before its removal; LY-sin, a cell-dissolving substance
 
 MENING-
-:   'membrane', especially 'meninges, membranes enveloping the brain and spinal cord' ('MENINX')
-:   MENING-uria, presence or passage of membranous shreds in the urine; MENING-itis, inflammation of the membranes of the brain or spinal cord
+:   'membrane'
+:   usually applies to the meninges, the three membranes (the dura mater, arachnoid, and pia mater) that line the skull and vertebral canal and enclose the brain and spinal cord ('MENINX'); MENING-uria, presence or passage of membranous shreds in the urine; MENING-itis, inflammation of the membranes of the brain or spinal cord
 
 METR-
 :   'uterus'
@@ -1013,7 +1013,7 @@ ORCH(I)-, ORCHID-
 
 PAN-, PANT-
 :   'all', 'complete'
-:   PAN-GAM-ic, pertaining to indiscriminate mating, or found in all seeds; PAN-GE-a; PAN-ZOO-tic, in veterinary medicine, affecting many kinds of animals
+:   PAN-GAM-ic, pertaining to indiscriminate mating, or found in all seeds; PAN-GAE-a; PAN-ZOO-tic, in veterinary medicine, affecting many kinds of animals
 
 PNEUMON-, PNEUM-
 :   'lung'
