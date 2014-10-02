@@ -59,12 +59,18 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 
 ### 4. Thursday, 2 October
 - Greek Plurals, Diminutives, and Verb-Forming Suffixes
+- Analysing Ancient Accounts of Disease
+
+#### Class Materials
+- [Slides](../lectures/lecture-4.html)
+- [Download slide text](../lectures/lecture-4.rtf) (RTF)
 
 <!-- Chapters 11–14 -->
 
 #### Read
-- Dirckx [-@dirckx:2000pestilence1; @dirckx:2000pestilence2], discussing ancient interpretations of plagues ([part I](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200004000-00021), [part II](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200010000-00015))
+- Dirckx [-@dirckx:2000pestilence1; -@dirckx:2000pestilence2], discussing ancient interpretations of plagues ([part I](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200004000-00021), [part II](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200010000-00015))
 - @dirckx:1999little, [on diminutives](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-199904000-00018)
+<!-- @karenberg:2004next is another useful piece for this class -->
 
 ### 5. Thursday, 9 October
 - Evolving Meanings

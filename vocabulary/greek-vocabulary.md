@@ -1197,7 +1197,7 @@ PEN-
 
 PHLEB-
 :   'vein'
-:   PHLEB-itis, inflammation of the walls of a vein; phlebotomy; METRO-PHLEB-itis, inflammation of the veins of the uterus; PHLEBO-tomy, the surgical opening or puncture of a vein in order to withdraw blood, to introduce a fluid, or (historically) when letting blood
+:   PHLEB-itis, inflammation of the walls of a vein; METRO-PHLEB-itis, inflammation of the veins of the uterus; PHLEBO-tomy, the surgical opening or puncture of a vein in order to withdraw blood, to introduce a fluid, or (historically) when letting blood
 
 PHYC-
 :   'seaweed', 'algae'
