@@ -38,7 +38,7 @@ revealjs-url: ../javascripts/reveal.js
 
 - The test will be one hour in length.
 - There will be a short lesson beforehand. Material introduced in this lesson will not appear on the test.
-- We will have a short practice quiz (non-credit) on Tuesday.
+- We will have a short practice quiz (non-credit) next class.
 
 ## Sample Questions
 

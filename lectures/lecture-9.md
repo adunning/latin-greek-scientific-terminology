@@ -371,7 +371,7 @@ Most of the **plants** are **herbaceous** and good **resources** for grazing **a
 
 - Andries van Wesel, 31 December 1514–15 October 1564
 - The Fisher Rare Books Library is currently holding a [Vesalius at 500](http://fisher.library.utoronto.ca/events-exhibits/current-exhibition) exhibition: there will be a free guided tour on 7 August at 6:00 pm.
-- The library owns a copy Vesalius's *De humani corporis fabrica* (first published 1543) with annotations from the author himself.
+- The library owns a copy of Vesalius's *De humani corporis fabrica* (first published 1543) with annotations from the author himself.
 
 ---
 

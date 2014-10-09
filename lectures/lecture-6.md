@@ -5,6 +5,18 @@ author: Andrew Dunning
 revealjs-url: ../javascripts/reveal.js
 ---
 
+# Final Exam
+
+## Date and Location
+
+- Wednesday, 20 August 2014
+- 9 am to 11 am (2 hours)
+- IB 110
+
+## Content
+
+- The exam is cumulative, and drawing on material from both the Greek and Latin portions of the course.
+
 # Evolving Meanings
 
 ## Change and Decay

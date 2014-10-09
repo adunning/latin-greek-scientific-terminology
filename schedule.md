@@ -61,16 +61,16 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 - Greek Plurals, Diminutives, and Verb-Forming Suffixes
 - Analysing Ancient Accounts of Disease
 
+#### Read
+- Dirckx [-@dirckx:2000pestilence1; -@dirckx:2000pestilence2], discussing ancient interpretations of plagues ([part I](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200004000-00021), [part II](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200010000-00015))
+- @dirckx:1999little, [on diminutives](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-199904000-00018)
+<!-- @karenberg:2004next is another useful piece for this class -->
+
 #### Class Materials
 - [Slides](../lectures/lecture-4.html)
 - [Download slide text](../lectures/lecture-4.rtf) (RTF)
 
 <!-- Chapters 11–14 -->
-
-#### Read
-- Dirckx [-@dirckx:2000pestilence1; -@dirckx:2000pestilence2], discussing ancient interpretations of plagues ([part I](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200004000-00021), [part II](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-200010000-00015))
-- @dirckx:1999little, [on diminutives](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-199904000-00018)
-<!-- @karenberg:2004next is another useful piece for this class -->
 
 ### 5. Thursday, 9 October
 - Evolving Meanings
@@ -82,6 +82,10 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 - @kachlík:2008anatomical, [describing the modern standardization of anatomical terminology](http://dx.doi.org.myaccess.library.utoronto.ca/10.1007/s00276-008-0357-y)
 - @soutis:2006ancient, [on Greek words found in the context of paediatric surgery](http://dx.doi.org.myaccess.library.utoronto.ca/10.1016/j.jpedsurg.2006.03.011)
 <!-- - @karenberg:2012world, [describing the influence of mythology in naming the parts of the body](http://www.anatomy.org.tr/issue/201301/pdf/05.pdf) -->
+
+#### Class Materials
+- [Slides](../lectures/lecture-5.html)
+- [Download slide text](../lectures/lecture-5.rtf) (RTF)
 
 <!-- Chapters 15–18 -->
 

@@ -1776,7 +1776,7 @@ TRE(T)-
 :   a-TRETO-STOM-ia, imperforation of the mouth; TRE-ma, a foramen (an opening, orifice, hole or short passage)
 
 ZYM-
-:   'ferment', 'enzyme'
+:   'leaven', 'ferment', 'enzyme'
 :   ZYMO-sis, fermentation; ZYMO-GEN-ic, causing fermentation; en-ZYME, catalytic substance promoting chemical change; ZYMO-PHORE, active part of an enzyme (that which bears the ferment)
 
 # Lecture 6

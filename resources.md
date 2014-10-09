@@ -5,7 +5,7 @@ permalink: '/resources/'
 title: Resources
 ...
 
-All required readings, listed the [schedule]({{ site.baseurl }}/schedule/), are available online; these supplement the lectures by providing historical background on the development of scientific terminology and some points of grammar. Questions based on these readings will appear on the tests and final exam.
+All required readings, listed in the [schedule]({{ site.baseurl }}/schedule/), are available online; these supplement the lectures by providing historical background on the development of scientific terminology and some points of grammar. Questions based on these readings will appear on the tests and final exam.
 
 We will make extensive use of the etymologies found in English and technical dictionaries. The [*Oxford English Dictionary*](http://www.oed.com.myaccess.library.utoronto.ca) (Simpson and Weiner 1989)<!-- [@simpson:1989oxford] --> is the most comprehensive and accurate English dictionary available, though for quick reference I would recommend the [*Oxford Dictionary of English*](http://www.oxforddictionaries.com) (Stevenson 2010)<!-- [@stevenson:2010oxford] -->, whose online version includes recordings of pronunciation; it is also included with Mac OS X.
 
