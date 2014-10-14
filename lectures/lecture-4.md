@@ -32,7 +32,7 @@ revealjs-url: ../javascripts/reveal.js
 
 ---
 
-- There will be a handful of questions in which you will be asked to transliterate Greek words into Latin characters. They will be words with very close English equivalents, as we have been looking at in class; if you want something to practice on, I have provided a list on the Learning Portal.
+- There will be a handful of questions in which you will be asked to transliterate Greek words into Latin characters. They will be words with very close English equivalents, as we have been looking at in class; if you want something to practice on, see the 'Familiar Greek Words' list on the course website.
 - There will be a few other questions (multiple choice) drawn from the readings for the class.
 - Your main focus in studying should be on the vocabulary.
 

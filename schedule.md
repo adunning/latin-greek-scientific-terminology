@@ -54,6 +54,7 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 #### Class Materials
 - [Slides](../lectures/lecture-3.html)
 - [Download slide text](../lectures/lecture-3.rtf) (RTF)
+- [Practice Quiz](../lectures/lecture-3-quiz.pdf)
 
 <!-- Chapters 7–10 -->
 
@@ -86,6 +87,7 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 #### Class Materials
 - [Slides](../lectures/lecture-5.html)
 - [Download slide text](../lectures/lecture-5.rtf) (RTF)
+- [Practice Quiz](../lectures/lecture-5-quiz.pdf)
 
 <!-- Chapters 15–18 -->
 

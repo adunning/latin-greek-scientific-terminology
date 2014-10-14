@@ -13,6 +13,8 @@ Assessment is based on a series of tests, in which you will demonstrate your kno
 - Vocabulary Analysis Paper (*due 27 November*): 15%
 - Final Exam (*date to be announced*): 40%
 
+Assignments may be submitted in either English or French.
+
 ### Tests and final exam
 
 Two tests will be conducted, in which you will be expected to:
