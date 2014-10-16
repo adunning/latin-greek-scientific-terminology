@@ -99,6 +99,10 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 - @paluzzi:2012retracing, [on terms used in neuroanatomy](http://dx.doi.org.myaccess.library.utoronto.ca/10.1002/ca.22053)
 - @regenmortel:2000relative, [on possible issues with the use of Latin in taxonomy](http://dx.doi.org.myaccess.library.utoronto.ca/10.1007/s007050050036)
 
+#### Class Materials
+- [Slides](../lectures/lecture-6.html)
+- [Download slide text](../lectures/lecture-6.rtf) (RTF)
+
 <!-- Chapters 19–20 -->
 
 ## Part II: Scientific terms from Latin

@@ -86,7 +86,7 @@ meta-
 :   'after', 'change', 'transfer'
 :   metamorphosis, metencephalon
 
-para- (par- before vowels or h)
+para- (par- before vowels or *h*)
 :   'beside', 'resembling', 'disordered'
 :   parasite, paratyphoid, parenthesis, paramedical
 
@@ -1795,7 +1795,7 @@ ANCON-
 
 CALYPT(R)-
 :   'hidden'
-:   CALPYTO-BRANCHI-ate, with gills not visible from the exterior; CALYPTO-BLAST-ic, pertaining to hydroids in which gonophore is contained in a gonotheca
+:   CALPYTO-BRANCHI-ate, with gills not visible from the exterior; CALYPTO-BLAST-ic, pertaining to hydroids in which gonophore is contained in a gonotheca. In Greek mythology, Calypso (appears in Homer's *Odysssey*) means 'she who conceals'.
 
 CHORD-
 :   'cord'
