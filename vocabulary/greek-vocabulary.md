@@ -1811,7 +1811,7 @@ CLON(US)-
 
 COLL(A)-
 :   'glue'
-:   COLLA-GEN, the albuminoid substance of the white fibre of connective tissue, cartilage and bone; COLLO-oid, a gelatinous substance which does not readily diffuse through animal or vegetable membrane
+:   COLLA-GEN, the main structural protein found in animal connective tissue, yielding gelatin when boiled; COLLO-oid, a gelatinous substance which does not readily diffuse through animal or vegetable membrane
 
 EC-, (OEC-, OEK-), OIK-, OIC-
 :   'house'
@@ -1826,7 +1826,7 @@ OM-
 :   ACR-OM-ion, the flat, long process formed by the lateral extension of the scapular spine situated just above the glenoid cavity; met-ACR-OM-ion, posterior branch process of the acromion process
 
 OPISTH-
-:   'behind'
+:   'behind', 'to the rear'
 :   OPISTH-ion, median point of posterior margin of the foramen magnum (i.e., the opening in the skull for the spinal cord); OPISTH-ODONT, having back teeth only
 
 PHY-
@@ -1839,7 +1839,7 @@ POR-
 
 PTY-; PTYAL-
 :   'to spit'; 'saliva'
-:   PTYALO-CELE, a cyst containing saliva; PYO-PTY-sis, expectoration of pus
+:   PTYAL-in, a form of amylase found in the saliva of humans and some other animals; PTYALO-CELE, a cyst containing saliva; PYO-PTY-sis, expectoration of pus
 
 RHABD-
 :   'rod'
@@ -1855,7 +1855,7 @@ STIG-
 
 TEL(E)-
 :   'completion', 'end', 'purpose'
-:   TELEO-logy; a-TELO-GNATH-ia, imperfect development of a jaw; TELO-KINE-sis, last stage of mitosis
+:   TELOS; TELEO-logy; a-TELO-GNATH-ia, imperfect development of a jaw; TELO-KINE-sis, last stage of mitosis
 
 TROCH-
 :   'wheel', 'disk'
@@ -1876,12 +1876,12 @@ ANTR-
 :   ANTR-itis, maxillary sinusitis; ANTRO-CELE, an accumulation of fluid in the maxillary sinus
 
 BRONCH(I)-
-:   'air tube'
+:   'windpipe', 'air tube'
 :   BRONCH-ADEN-itis, inflammation of bronchial lymph nodes; BRONCH-itis, inflammation of mucous membrane of bronchial tubes
 
 CHLAMYD-
 :   'cloak', 'envelope'
-:   CHLAMYDO-SAUR-us, a genus of reptiles including the frilled lizard of Australia; HETERO-CHLAMYD-eous, having a calyx differing from the corolla in colour
+:   CHLAMYD-ia, a very small parasitic bacterium which, like a virus, requires the biochemical mechanisms of another cell in order to reproduce; CHLAMYDO-SAUR-us, a genus of reptiles including the frilled lizard of Australia; HETERO-CHLAMYD-eous, having a calyx differing from the corolla in colour
 
 CHY-; CHYM-, CHYL-
 :   'to pour'; 'juice'
@@ -1921,7 +1921,7 @@ PYCN-, PYKN-
 
 PYL(E)-
 :   'gate', 'entrance'
-:   THERMO-PYL-ae; apo-PYLE, exhalant pore of a sponge; MICRO-PYLE, aperture for admission of pollen tube at ovule apex; PYLE-THROMBO-PHLEB-itis, inflammation and thrombosis of the portal vein
+:   PYLON; THERMO-PYL-ae; apo-PYLE, exhalant pore of a sponge; MICRO-PYLE, aperture for admission of pollen tube at ovule apex; PYLE-THROMBO-PHLEB-itis, inflammation and thrombosis of the portal vein
 
 SPERM(A)-, SPERMAT-
 :   'seed', 'semen'

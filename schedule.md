@@ -108,7 +108,7 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 ## Part II: Scientific terms from Latin
 
 ### 7. Thursday, 23 October
-- Scientific Communication and Peer Review
+- The Roman World
 - Hybrid Words
 - Latin Prefixes and Stems
 
@@ -117,9 +117,14 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 - @dirckx:1977hybrid, [on the combination of Greek and Latin in a single word](http://dx.doi.org.myaccess.library.utoronto.ca/10.1001/jama.1977.03280200055019)
 - Dirckx [-@dirckx:1988latin; -@dirckx:1990more], a list of Latin words in current usage ([part I](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-198806000-00013), [part II](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-199008000-00016))
 
+#### Class Materials
+- [Slides](../lectures/lecture-7.html)
+- [Download slide text](../lectures/lecture-7.rtf) (RTF)
+
 <!-- Chapters 21–23 -->
 
 ### 8. Thursday, 30 October
+- Scientific Communication and Peer Review
 - Latin Suffixes I
 - Medieval Contributions to Scientific Terminology
 
