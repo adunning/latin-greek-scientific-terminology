@@ -745,7 +745,7 @@ Based on Ayers (1972), chapters 7–10.
 :   ALCOHOL + -ism; BOTUL-, 'sausage' + -ism; meta-BOL-ism; LARGYNG-, 'larynx' + -ismus; STRAB-, 'to squint' + -ism
 
 -sis, -sia, -sy, -se
-:   'act of', 'process of' (sometimes the result of the process)
+:   'act of', 'process of', 'condition of', 'state of'
 :   syn-THE-sis; dia-GNO-sis; a-MNE-sia; an-AESTHE-sia; ec-STA-sy
 :   NB: adjectival form -tic, -stic, 'pertaining to the act or process of', e.g. synthetic, analytic
 
@@ -766,7 +766,7 @@ Based on Ayers (1972), chapters 7–10.
 :   APPENDIC-itis; ARTHR-itis; TONSILL-itis
 
 -in
-:   'chemical substance'
+:   'chemical substance', 'organic compound', 'protein' (forming names of organic compounds, pharmaceutical products, proteins, etc.)
 :   anti-TOX-in; INSUL-in; epi-NEHRH-ine
 
 -ium

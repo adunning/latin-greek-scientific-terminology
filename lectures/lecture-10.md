@@ -3,7 +3,21 @@ title: Greek and Latin in Scientific Terminology, Lecture 10
 date: 7 August 2014
 author: Andrew Dunning
 revealjs-url: ../javascripts/reveal.js
+...
+
+# Your Test Next Thursday
+
+## Roots for Reading
+
+- Essentially the same as the last test, but dealing with Latin this time (up to the end of Lecture 9).
+- Multiple choice section will be cumulative, but concentrate on the most recent readings.
+- There will be no Greek transliteration.
+- Instead, you will be given a set of English roots and be asked to construct words from the corresponding Latin roots.
+
 ---
+
+- In addition, you will be given a text from a scientific journal and be asked to select several words, providing their Greek or Latin roots (i.e. what you have been doing every week, but without a dictionary).
+- The Greek vocabulary will not be tested separately, but keeping it fresh will make your life easier, since some of the same roots show up in Latin. It will also give you a larger selection of words to use for the reading selection (and you need to know it for the final on 20 August anyway).
 
 # Suffixes III
 

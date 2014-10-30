@@ -82,7 +82,9 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 - @sakai:2007historical, [on the development of anatomical terminology](http://dx.doi.org.myaccess.library.utoronto.ca/10.1111/j.1447-073X.2007.00180.x)
 - @kachlík:2008anatomical, [describing the modern standardization of anatomical terminology](http://dx.doi.org.myaccess.library.utoronto.ca/10.1007/s00276-008-0357-y)
 - @soutis:2006ancient, [on Greek words found in the context of paediatric surgery](http://dx.doi.org.myaccess.library.utoronto.ca/10.1016/j.jpedsurg.2006.03.011)
-<!-- - @karenberg:2012world, [describing the influence of mythology in naming the parts of the body](http://www.anatomy.org.tr/issue/201301/pdf/05.pdf) -->
+
+#### Optional Reading
+- @karenberg:2012world, [describing the influence of mythology in naming the parts of the body](http://www.anatomy.org.tr/issue/201301/pdf/05.pdf)
 
 #### Class Materials
 - [Slides](../lectures/lecture-5.html)
@@ -132,6 +134,10 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 - @džuganová:2006negative, [on prefixes and suffixes with a negative meaning](http://www.bmj.sk/2006/10708-13.pdf)
 - @dirckx:2007isidore, [translating Isidore of Seville's *Etymologies*, a medieval approach to word derivations](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/DAD.0b013e3181597a43)
 
+#### Class Materials
+- [Slides](../lectures/lecture-8.html)
+- [Download slide text](../lectures/lecture-8.rtf) (RTF)
+
 <!-- Chapters 24–26 -->
 
 <!-- 15% of student work must be returned by 31 October. Drop date is 3 November. -->
@@ -144,6 +150,9 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 - @ivanová:2001anatomic, [discussing terminology reform by Vesalius](http://www.bmj.sk/2001/10203-08.pdf)
 - @musil:2014history, [effects of early-modern scholarship on the nomenclature of the human skeletal muscles](http://dx.doi.org.myaccess.library.utoronto.ca/10.1007/s00276-014-1305-7)
 <!-- - @marx:2009history, [on the history of the term 'prostate'](http://dx.doi.org.myaccess.library.utoronto.ca/10.1002/pros.20871) -->
+
+#### Optional Reading
+- @eisenstein:2005book, [discussing the influence of printing on science](http://dx.doi.org.myaccess.library.utoronto.ca/10.1017/CBO9781139197038.010)
 
 <!-- Chapters 27–30 -->
 
