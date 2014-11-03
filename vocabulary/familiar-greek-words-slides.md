@@ -1,7 +1,5 @@
 ---
 title: Familiar Greek Words
-layout: post
-permalink: '/vocabulary/greek/alphabet/'
 revealjs-url: ../javascripts/reveal.js
 ...
 
