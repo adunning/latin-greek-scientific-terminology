@@ -1,6 +1,6 @@
 ---
 title: Greek and Latin in Scientific Terminology, Lecture 12
-date: 14 August 2014
+date: 27 November 2014
 author: Andrew Dunning
 revealjs-url: ../javascripts/reveal.js
 ---

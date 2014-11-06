@@ -154,6 +154,11 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 #### Optional Reading
 - @eisenstein:2005book, [discussing the influence of printing on science](http://dx.doi.org.myaccess.library.utoronto.ca/10.1017/CBO9781139197038.010)
 
+#### Class Materials
+- [Slides](../lectures/lecture-9.html)
+- [Download slide text](../lectures/lecture-9.rtf) (RTF)
+- [Practice Quiz](../lectures/lecture-9-quiz.pdf)
+
 <!-- Chapters 27–30 -->
 
 ### 10. Thursday, 13 November

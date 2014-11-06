@@ -1,9 +1,100 @@
 ---
 title: Greek and Latin in Scientific Terminology, Lecture 10
-date: 7 August 2014
+date: 13 November 2014
 author: Andrew Dunning
 revealjs-url: ../javascripts/reveal.js
 ...
+
+# Practice Test
+
+## I. Translate
+
+## con-greg-ate 
+- ‘with’, ‘together’ + ‘flock’ + ‘having’, ‘having the shape of’, ‘characterized by having’
+
+## ante-dors-al
+- ‘before’, ‘in front of’ + ‘back’ + ‘pertaining to’, ‘like’, ‘belonging to’, ‘having the character of’
+
+## di-vert
+- ‘apart’, ‘in different directions’, ‘thoroughly’ + ‘to turn’
+
+## dur-able
+- ‘hard’ + ‘able to be’, ‘able to’, ‘tending to’
+
+## ad-HER-ent
+- ‘to’, ‘toward’, ‘near’ + ‘to stick’ + ‘person who’, ‘that which’
+
+## II. Interpret
+
+## Prefixes
+
+> **Di**cynodonts are an **ex**clusively herbivorous clade of synapsids.
+
+---
+
+They **com**prise more than 100 species that are known from the Middle Permian the Late Triassic periods Dicynodonts were morphologically **dis**parate and **pre**sented a wide range of sizes and putative ecological niches, **in**cluding semi-aquatic, fossorial, arboreal and grazing.
+
+---
+
+**De**spite over 150 years of **di**cynodont research, several paleobiological aspects of the neuroanatomy, inner ear morphology and **inter**nal cranium anatomy remain practically **ob**scure.
+
+---
+
+Moreover, because the **de**structive technique of serial sampling was the primary way to access the **inter**nal anatomy of **di**cynodont skulls, the data available for various taxa was **in**consistent and rarely subjected to synthetic treatments. 
+
+---
+
+As a **re**sult, details of **inter**nal skull anatomy have been overlooked in **re**cent phylogenetic analyses. Only Surkov and Benton **in**cluded a large number of braincase characters in a phylogenetic analysis of **di**cynodonts.
+
+---
+
+**Re**cent **ad**vances in non-destructive imaging techniques such as high resolution **com**puted tomography, neutron tomography, and synchrotron radiation based micro-computed tomography, hold the potential to **pro**vide significant new **in**sight **in**to fossil skull morphology. However, the **ap**plication of such techniques to **di**cynodonts has been limited.
+
+## in
+- 'into', 'on'
+
+## de-
+- ‘down’, ‘away’, ‘off’, ‘thoroughly’
+
+## di-, dis-
+- ‘apart’, ‘in different directions’, ‘thoroughly
+
+## con
+- ‘with’, ‘together’, ‘very’
+
+## ex-
+- ‘out’, ‘from’, ‘removal’, ‘completely’
+
+## pro-
+- ‘forward’, ‘in front of’
+   
+## Wood Roots
+
+The sheep used in these **experiments** were cared as per outlined in the Guide for the Care and **Use** of **Animals** in **Agricultural** Research and Teaching **Consortium** [8]. Thirty **affected** and 30 **unaffected** sheep were slaughtered with **electrical** stunning then **exsanguination** ....
+
+---
+
+The **study** **area** was located in a region **adjoined** by the **provinces** of Guizhou, Yunnan, and Sichuan (26°56'-27°47' N, 103°56'-104°51' E), with the average **elevation** 2100 m above the sea **level**, the **annual** **precipitation** 956 mm, and the average **atmospheric temperature** 9–11°C.
+
+---
+
+The **main** grassland **species** **include** Puccinellia (*Chinam **poensis** ohuji*), Siberian **Nitraria** (***Nitraria*** sibirica ***pall***), **Floriated astragalus** (***Astragalus floridus***), **Poly-branched astragals** (*A.* ***polycladus***), **Falcate** whin (***Oxytropis falcate***), Ewenki **automomous** banner (***Elymus nutans***), **Common leymus** (***Leymus secalinus***), and June grass (***Koeleria cristata***).
+
+---
+
+Most of the **plants** are **herbaceous** and good **resources** for grazing **animals**.
+
+## ex-sanguin-at-ion
+
+‘removal’ + 'blood' + ‘having’ + ‘act of’
+
+## falcate
+
+## floriated
+
+## protected
+
+## annual
 
 # Your Test Next Thursday
 
