@@ -273,7 +273,7 @@ Provide the definition of the following Greek stems (worth 1 point each).
 - The *humours* (Latin, *humor*) were originally bodily fluids: this sense survives in 'aqueous humour' and 'vitreous humour', and were thought to affect one's mood.
     - Four humours: blood, phlehm, yellow bile (*chole*), black bile (*melan chole*).
     - Thus the terms 'choleric', 'melancholy' (literally an excess of black bile).
-- This is how the practice of bloodletting seemed to make sense. (See [BBC *Blood and Guts*, ep. 5](https://www.youtube.com/watch?v=ErpMhBiVyrc), starting about 1m35s.)
+- This is how the practice of bloodletting seemed to make sense. (See [BBC *Blood and Guts*, ep. 5](https://www.youtube.com/watch?v=ErpMhBiVyrc#t=1m35s), starting about 1m35s.)
 
 ---
 

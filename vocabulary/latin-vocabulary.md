@@ -1347,7 +1347,7 @@ FIL-
 :   FILI-GER-ous, with threadlike outgrowths or flagella; FIL-ar-iasis, a diseased state due to the presence of nematode worms of the super family Filarioidea
 
 FOR-
-:   'to bore', 'to pierce'
+:   'to bore', 'to pierce' (*forare*)
 :   FOR-amen, the opening through the coats of an ovule, or any small perforation; FOR-amin-ule, a minute foramen; FOR-amini-FER-a, an order of protozoans with calcareous shells with minute openings for pseudopodia
 
 FOV-

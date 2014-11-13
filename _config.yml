@@ -1,6 +1,6 @@
 # Site settings
 baseurl: "/latin-greek-scientific-terminology"
-url: "http://adunning.github.io/latin-greek-scientific-terminology"
+url: "http://andrewdunning.ca/latin-greek-scientific-terminology"
 
 # Build settings
 plugins: plugins
@@ -23,7 +23,7 @@ course_room: "Instructional Centre 345"
 course_semester: "Fall 2014"
 instructor_email: andrew.dunning@utoronto.ca
 instructor_name: Andrew Dunning
-instructor_website: 'http://individual.utoronto.ca/dunning/'
+instructor_website: 'http://andrewdunning.ca/'
 instructor_office: "North Building 272A"
 instructor_officehours: "Thurs. 2:00&ndash;3:00 p.m."
 course_description: "An introduction to the derivation and basic meaning of English technical and scientific vocabulary formed from Latin and Greek elements."

@@ -164,18 +164,22 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 ### 10. Thursday, 13 November
 - Latin Suffixes III
 - Latin Declensions and Plurals
-- Latin Nouns I
+- Problems in Modern Scientific Communication
 
 #### Read
 - @dirckx:1981description, [plurals of Latin nouns and adjectives](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-198100310-00005)
 - @lydiatt:2010historical, [on the nomenclature of the larynx](http://dx.doi.org.myaccess.library.utoronto.ca/10.1002/ca.20912)
 - @leider:1982glossary, [a list of Latin phrases used in scientific writing](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-198202000-00005)
 
+#### Class Materials
+- [Slides](../lectures/lecture-10.html)
+- [Download slide text](../lectures/lecture-10.rtf) (RTF)
+- [Practice Quiz](../lectures/lecture-10-quiz.pdf)
+
 <!--  Chapters 31–33 -->
 
 ### 11. Thursday, 20 November
 - **Test II**
-- Latin Nouns II
 
 #### Read
 - @davis:2014naming, [on the etymology of the cranial nerves](http://dx.doi.org.myaccess.library.utoronto.ca/10.1002/ca.22345)
