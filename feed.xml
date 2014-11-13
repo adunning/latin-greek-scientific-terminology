@@ -3,11 +3,11 @@
   <channel>
     <title>Latin and Greek in Scientific Terminology</title>
     <description></description>
-    <link>http://adunning.github.io/latin-greek-scientific-terminology/latin-greek-scientific-terminology/</link>
-    <atom:link href="http://adunning.github.io/latin-greek-scientific-terminology/latin-greek-scientific-terminology/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 06 Nov 2014 15:18:00 -0500</pubDate>
-    <lastBuildDate>Thu, 06 Nov 2014 15:18:00 -0500</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://andrewdunning.ca/latin-greek-scientific-terminology/latin-greek-scientific-terminology/</link>
+    <atom:link href="http://andrewdunning.ca/latin-greek-scientific-terminology/latin-greek-scientific-terminology/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 13 Nov 2014 15:02:49 -0500</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 15:02:49 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.1</generator>
     
   </channel>
 </rss>
