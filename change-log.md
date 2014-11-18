@@ -23,12 +23,16 @@ author: Andrew Dunning
 - Continued to make corrections to the vocabulary list.
 - Test II moved to later in the term (more appropriate for a longer course, given the larger gap between the end of classes and the final exam).
 - Bibliography overhauled.
-- Various experiments in class with improving the presentation of the vocabulary list: things are made much more interesting by the simple adjustment of delaying the display of definition and examples on slides and having the students come up with possible uses of the stem and guess at the meaning. I tried for several weeks of Greek leaving out some unambiguous words; this doesn't seem to work as well with Latin.
+- Various improvements to the presentation of the vocabulary list.
+    - In the summer, I had been breaking it up through the class, but on polling the class, the preference was to have it grouped at the end. Both methods, however, have their advantages.
+    - I experimented for several weeks of Greek with working through only what I thought were the most confusing word roots. This was dropped for Latin, because words that were not covered in class had a markedly lower response rate on tests.
+    - The best method I have found thus far of working through the vocabulary is to put only the word root on the screen, and have the students guess at English (and often French) words using it, collectively working out what the meaning might be based on this (putting these on the screen once they are guessed or it seems unlikely that a conclusion will be reached otherwise). For simpler roots, they will usually guess the meaning directly. People tend to be most engaged when one can go through it quickly (about 40 minutes for all the week's word roots), keeping things high-energy, and get responses from as many different students as possible.
 
 # Future
 
-- Switch from two long tests to three smaller ones.
+- Switch from two long tests to three or more smaller ones.
 - Move Karenberg (2012–2013) to required readings (it is only optional because I discovered his work after the beginning of term), probably replacing Soutis (2006).
+- Change definitions of suffixes to a classification system (as used e.g. in Walker-Esbaugh, McCarthy, and Sparks 2004).
 - Make an official version of the vocabulary list for vocabulary review software. (Students have not expressed a strong preference for anything: Anki and Memrise seem some of the best currently available that have both web and mobile versions.)
 - Completely rewrite the vocabulary list. It would be best to somehow come up with a list of the statistically most common Greek and Latin stems in current scientific literature. Check how many definitions from the Oxford Dictionary of English can be used before fair use guidelines are exceeded.
 - Reassess texts at bookstore: it seems that students have tended to use the Oxford English Dictionary most, so I am not sure that Taber's is necessary.
