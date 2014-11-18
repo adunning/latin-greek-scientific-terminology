@@ -4,7 +4,7 @@ This repository provides the materials for the versions of this course taught by
 
 ## Technical Information
 
-Others are welcome to create their own improved versions of this course (see [How to Fork a Syllabus on GitHub](http://chronicle.com/blogs/profhacker/how-to-fork-a-syllabus-on-github/39447)); any corrections are most welcome. (The design is simply modified from the default Jekyll theme; the original application of it to a course website is from [Lincoln Mullen](https://github.com/lmullen/clio3-syllabus).) To build the site, the following software is required:
+On creating an alternate version of this course, see [How to Fork a Syllabus on GitHub](http://chronicle.com/blogs/profhacker/how-to-fork-a-syllabus-on-github/39447). (The site design is simply modified from the default Jekyll theme; the original application of it to a course website is from [Lincoln Mullen](https://github.com/lmullen/clio3-syllabus).) To build the site, the following software is required:
 
 - [Pandoc](http://johnmacfarlane.net/pandoc/), used for converting the syllabus, vocabulary list, and lecture notes from Markdown into PDF, RTF, and HTML slides (with [reveal.js](http://lab.hakim.se/reveal-js/)).
 - [Jekyll](http://jekyllrb.com), with the [pandoc-ruby](https://github.com/alphabetum/pandoc-ruby) plugin, for assembling the site.
@@ -18,6 +18,8 @@ Unfortunately, GitHub Pages does not support Pandoc, meaning that the site must 
 4. In the GitHub application, switch to the `gh-pages` branch (note that this will change the files that appear in the main directory).
 5. Copy the generated files from the `public` folder into the main directory, commit, and sync.
 6. Switch back to the `master` branch.
+
+Corrections and other improvements are very welcome.
 
 ## Licence
 
