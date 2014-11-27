@@ -185,6 +185,10 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 - @davis:2014naming, [on the etymology of the cranial nerves](http://dx.doi.org.myaccess.library.utoronto.ca/10.1002/ca.22345)
 - @dirckx:1987little, [a list of obsolete medical terminology](http://dx.doi.org.myaccess.library.utoronto.ca/10.1097/00000372-198702000-00014)
 
+#### Class Materials
+- [Slides](../lectures/lecture-11.html)
+- [Download slide text](../lectures/lecture-11.rtf) (RTF)
+
 <!-- Chapters 34–37  -->
 
 <!--Exam scripts due 24 November. -->
