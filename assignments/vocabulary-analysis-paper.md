@@ -4,23 +4,27 @@ permalink: '/assignments/vocabulary-analysis-paper/'
 title: Vocabulary Analysis Paper
 ...
 
-This assignment builds on your weekly experience examining vocabulary from journals. Select twenty terms total from two recent (2014) articles in peer-reviewed scientific journals, and analyse their etymology and meaning. You should use at least three different dictionaries (or other scholarly sources) to support your findings. You must fully cite the dictionaries and other sources used using author-date system of the [*Chicago Manual of Style*](http://www.chicagomanualofstyle.org/) (used in the syllabus) or another style relevant to your discipline.
+This assignment builds on your weekly experience examining vocabulary from journals. Select twenty terms total from two recent (2014) peer-reviewed articles, and analyse their etymology and meaning, using at least three different scholarly sources over the course of the paper to support your findings. Cite all source material using the author-date system of the [*Chicago Manual of Style*](http://www.chicagomanualofstyle.org.myaccess.library.utoronto.ca/) (used in the syllabus) or another style relevant to your discipline.
 
 The assignment will only be accepted after the deadline with prior permission (which must be requested at least two days in advance via email).
 
-### Sources for Articles
-
-If you have absolutely no idea where to find peer-reviewed articles from which to take your words, some of the most accessible scientific articles can be found in [*PLoS ONE*](http://www.plosone.org) (or [another PLoS journal](http://www.plos.org/publications/journals/)) and [*PeerJ*](http://peerj.com) (but do not use a pre-print from the latter, as these are pending review). Another very popular science journal is [*Nature*](http://nature.com.myaccess.library.utoronto.ca), but be careful to select a work from their 'articles' section, as the journal contains both peer-reviewed and non-peer-reviewed material. Select anything at all that interests you published in 2014. (The articles in the bibliographies posted on the Learning Portal are for your research, and not intended as sources for words.) Be sure to provide in the paper a citation of the article you are using, including a link.
-
 ### Steps to Writing the Paper
 
-After you have found two articles that (hopefully) interest you, choose twenty Latin- or Greek-derived words from the articles you selected. (If you find that there are more interesting words in one or the other, you can use as few as five terms from one of the articles as long as you have twenty terms altogether.) Try to give yourself a bit of a challenge, looking up technical as well as common words.
+1. Find two peer-reviewed articles. (See 'Sources for Articles', below.)
+2. Choose twenty Latin- or Greek-derived words (total) from these articles. You can either choose words at random or (like the sample articles below) follow a certain theme.
+3. Find information on the etymology and history of these words in an appropriate reference work (there is no a set number of sources that you must use for each word, but you must use at least three works overall). (See 'Sources for Etymologies'.)
+4. Write up your findings, citing all sources used (see 'Format' and 'Citing Your Sources').
+5. Edit your work for clarity and submit it.
 
-I would recommend looking each of these words up in at least two sources, to be safe (remember that you must use at least three peer-reviewed sources for researching the assignment), though it's not required. Make note of the Latin/Greek stems of the word, being sure to make a citation for everything.
+### Sources for Articles
+
+You may select any peer-reviewed article published in 2014 that is of interest to you. If you are looking for journals to get started, [*PLoS ONE*](http://www.plosone.org) (or [another PLoS journal](http://www.plos.org/publications/journals/)) and [*PeerJ*](http://peerj.com) are both readily accessible (but do not use a pre-print from the latter, as these are pending review). [*Nature*](http://nature.com.myaccess.library.utoronto.ca) is a very popular journal, but be careful to select a work from their 'articles' section, as the journal contains both peer-reviewed and non-peer-reviewed material.
+
+Be sure to provide in the paper a citation of the article you are using, including a link. An appropriate method of arranging your paper might be to use the article's citation as a heading, followed by the paragraphs dissecting the words selected.
 
 ### Sources for Etymologies
 
-To find your minimum three scholarly works for researching the words, you can use the bibliographies posted in the Course Materials, which contain full citations of scholarly materials appropriate for your purposes, including the foundational articles used as the course readings, the dictionaries, historical articles, and other guides to Latin/Greek scientific terminology (the latter category probably won't be very helpful, as little of the material is online). If you wish to use something else, ensure that it was produced by an academic publisher (e.g. Oxford University Press). These are the sources that are most readily accessible, with their recommended abbreviations:
+The [course resources page](http://andrewdunning.ca/latin-greek-scientific-terminology/resources/) is a useful starting point for appropriate scholarly materials: you can make use of the articles used as the course readings, the dictionaries, historical articles, and other guides to Latin/Greek scientific terminology. These are the sources that are most readily accessible, with their recommended abbreviations (see the end of this page for full references):
 
  - Lewis and Short's *Latin Dictionary* [L&S or @lewis:1879latin], on [Logeion](http://logeion.uchicago.edu);
  - Liddell and Scott's *Greek Lexicon* [LSJ or @liddell:1940greek], also on [Logeion](http://logeion.uchicago.edu) (note that, even though these two dictionaries are on the same site, they count as separate sources);
@@ -32,21 +36,30 @@ To find your minimum three scholarly works for researching the words, you can us
  - Haubrich's *Medical Meanings*, on the course reserve [@haubrich:2003medical]; and
  - *Elsevier's Dictionary of Chemoetymology* [@senning:2007elsevier], in the library's reference collection.
  
-Note that the *Oxford English Dictionary* and *Oxford Dictionary of English* are largely written from the same sources, and therefore cannot be used to verify one another; only one of these should be cited in investigating a given word. The more detailed *OED* should be preferred, resorting to the *ODE* only for cases of modern technical vocabulary that has not yet been included in the *OED*.
+Note that the *Oxford English Dictionary* and *Oxford Dictionary of English* are largely written from the same sources, and therefore cannot be used to verify one another; in most cases, only one of these should be cited in investigating a given word. The more detailed *OED* should be preferred, resorting to the *ODE* only for cases of modern technical vocabulary that has not yet been included in the *OED*.
  
-The articles in the online bibliography may be useful for more specific topics (for example, there are specific works dedicated to the etymology of the larynx or cardiologic anatomical terminology that might save you a lot of time if you are dealing articles one of these fields).
+The articles in the online bibliography may be useful for more specific topics: for example, there are specific articles dedicated to the etymology of the larynx or cardiologic anatomical terminology.
 
 ### Format
 
-The assignment should be written using formal prose rather than being point-form.
+The assignment must be written in formal prose rather than being point-form. A typical paper usually includes a heading with a citation of the each article used, followed by several paragraphs describing its terminology; but you might also follow a thematic organization. It may be helpful to include an introduction and conclusion if you have observed any particular trends, but it is not mandatory.
 
-All you strictly need for each word is a statement of the English definition, a list of the Latin and Greek elements from which the word is derived, and the definitions of these elements. Make note of any interesting differences in meaning, and if you can easily find an account for the changes between classical to modern times, this might also be interesting. This is the part where you can show off some originality.
+As a models for ideal writing style and organization, see @cascarini:2007mandibular or @cooper:2008maxillary. @soutis:2006ancient is also a good example of how to discuss the etymologies of words, though it is more in-depth than what is required here. Unlike these examples, however, please provide a specific citation of the sources used to discuss each word.
 
-As a model for ideal writing style and organization, glance over @cascarini:2007mandibular or @cooper:2008maxillary. @soutis:2006ancient is also a good example of how to discuss the etymologies of words, but your assignment need not be so in-depth as this. Unlike these examples, however, please provide a specific citation of the dictionaries used for each word.
+At a minimum, you should always indicate the Greek and/or Latin stems of the word and provide a discussion of the word's usage. Make note of any interesting differences in the meaning between classical/medieval usage of the root words and the modern English definition, indicating where appropriate the historical origin of the word (many Latin words, for instance, only came into modern scientific use in the sixteenth century or later). Ask questions such as:
 
-### Citing your Sources
+- Does the word mean the same thing in Latin or Greek as in English?
+- When was the word introduced in modern usage? Was its creation prompted by a particular discovery or technological change?
+- Can the word only be used in a specific context, or is there a different term used in colloquial English or other languages?
+- How are the trends observed reflective of the history of scientific communication?
 
-You can use any citation style you like as long as you're consistent (I recommend Chicago author-date), as long as you record at a minimum a reference to the book/article and a locator. You can put this information either in brackets or in a footnote. You could, for instance, write (Davis et al. 2014, 1099) if you were using p. 1099 of the article on the naming of the cranial nerves; citing a dictionary, you might put (*OED* s.v. 'cranial') or (*Taber's* s.v. 'cranial'). The abbreviation 's.v.' means 'sub verbo', or 'under the word', indicating the word you looked up in a dictionary or encyclopedia to find the information. See the *Chicago Manual of Style* if you have more questions on information required in citations. I recommend using a reference manager such as [Zotero](https://www.zotero.org).
+### Citing Your Sources
+
+Just as scientific experiments must be fully documented in order to allow their reproduction, citations enable other scholars to verify the results you provide, and provide the opportunity to credit others for their work. Full citations must be provided for the sources, and you must use quotation marks whenever you use the same words as one of your sources.
+
+I recommend the Chicago author-date style, but the paper may follow any citation style as long as it is used consistently. You must provide at a minimum a reference to the book/article and a locator, either in brackets or in a footnote. Use the abbreviations listed for the sources above, or create your own. You could, for instance, write [@davis:2014naming, p. 15] if you were using page 15 of this article on the naming of the cranial nerves; citing a dictionary, you might put (*OED*, s.v. 'cranial') or (*Taber's*, s.v. 'cranial'), if 'cranial' is the word you looked up. The abbreviation 's.v.' stands for 'sub verbo' in Latin, meaning 'under the word', showing the word you looked up in a dictionary or encyclopedia to find the information (the headword). If you looked up more than one word in a dictionary to find the relevant information, it can be combined into one note, as for instance you would want for the etymologies of 'transitory' (*OED*, s.vv. 'transitory', 'transit', '-ory').
+
+The *Chicago Manual of Style* includes [further discussion on citing dictionaries](http://www.chicagomanualofstyle.org.myaccess.library.utoronto.ca/16/ch14/ch14_sec247.html); see the [Citation Quick Guide](http://www.chicagomanualofstyle.org.myaccess.library.utoronto.ca/tools_citationguide.html) for a summary of their guidance for other sources. I recommend using a reference manager such as [Zotero](https://www.zotero.org).
 
 ### Checklist
 
@@ -54,7 +67,7 @@ Ensure that you have met these criteria when submitting the assignment:
 
 - Twenty words with Greek or Latin elements have been selected from any two articles published since the beginning of 2014 in peer-reviewed science journals. Citations with links have been provided for each.
 - The English definition of each of these words has been provided, together with a list of the Greek and Latin word elements, and definitions of these elements. Any difference between the English and Greek/Latin meanings of the word has been noted.
-- The information for your word derivations has been drawn from at least three different scholarly sources (e.g. the Oxford English Dictionary, Taber's, Liddell and Scott, Lewis and Short).
+- The information for your word derivations has been drawn from at least three different scholarly sources over the course of the assignment (e.g. the *Oxford English Dictionary*, *Taber's*, Liddell and Scott, Lewis and Short).
 - The paper is written in a prose format and thoughtfully organized.
 - You have provided complete citations for all material.
 
@@ -66,6 +79,6 @@ Ensure that you have met these criteria when submitting the assignment:
 
 ### Submission
 
-All assignments must be submitted through [Turnitin.com](http://www.turnitin.com).
+All assignments must be submitted through [Turnitin.com](http://www.turnitin.com) and uploaded to the [Learning Portal](http://portal.utoronto.ca/).
 
 ## References
