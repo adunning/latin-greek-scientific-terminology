@@ -639,8 +639,8 @@ AER-
 :   AERO-CYST, an air vescicle of algae; AERO-CYSTO-SCOP-y, examination of the interior of the urinary bladder with a cystoscope, with the bladder distended with air; AERO-PHYTE, a plant which grows attached to an aerial portion of another plant
 
 AGON-
-:	'contest', 'to struggle'
-:	AGON-y; AGON-ize; AGON-ist, (in anatomy) a muscle whose contraction moves a part of the body directly, (in biochemistry) a substance which initiates a physiological response when combined with a receptor
+:   'contest', 'to struggle'
+:   AGON-y; AGON-ize; AGON-ist, (in anatomy) a muscle whose contraction moves a part of the body directly, (in biochemistry) a substance which initiates a physiological response when combined with a receptor
 
 AUT-
 :   'self'

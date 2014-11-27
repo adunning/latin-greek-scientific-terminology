@@ -641,7 +641,7 @@ GER-, GEST-
 :   di-GEST, to convert food in assimilable form; in-GEST, to take substances into the body; OVI-GER, a leg modified for carrying the eggs in some pycnogonids (sea spiders)
 
 GUTT-
-:   'drop' (*gutta*)
+:   'drop' i.e. of a fluid (*gutta*)
 :   GUTT-er; GUTT-ate, having drop-like markings; GUTT-at-ion formation of drops of water on plants; GUTT-iform, drop-shaped; GUTT-ul-ate, in the form of a small drop, as markings
 
 NAEV- (NEV-)
@@ -1047,7 +1047,7 @@ NERV-
 :    TRI-NERV-ate, having three veins or ribs running from the bast to the margin of a leaf; ab-NERV-al, away from a nerve (of the direction of an electric current passing through muscle fibres away from the point of entrance of a nerve)
 
 PECTOR-
-:   'breast' (*pectus*)
+:   'breast', 'chest' (*pectus*)
 :   PECTOR-al, pertaining to the chest, in the chest region; MEDIO-PECTOR-al, applies to the middle part of the sternum; ex-PECTOR-at-ion, ejection of material from the mouth
 
 PIL-
