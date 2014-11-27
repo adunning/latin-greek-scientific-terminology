@@ -203,6 +203,10 @@ This page will be updated on a weekly basis with the most recent lecture slides.
 - @marečková:2002latin, [on the future of Latin in the sciences](http://www.smw.ch/dfe/set_archiv.asp?target=2002/41/smw-10027)
 - @arroyo:2013scientific, [on scientific terminology in advertising](http://dialnet.unirioja.es/descarga/articulo/4597577.pdf)
 
+#### Class Materials
+- [Slides](../lectures/lecture-12.html)
+- [Download slide text](../lectures/lecture-12.rtf) (RTF)
+
 <!-- Chapters 38–40 -->
 
 ## References
