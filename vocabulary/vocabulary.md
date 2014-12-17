@@ -11,7 +11,6 @@ The following lists provide a complete listing of the vocabulary taught in this 
 
 - [PDF](greek-vocabulary.pdf)
 - [RTF](greek-vocabulary.rtf)
-- [Microsoft Word](greek-vocabulary.docx)
 - [EPUB](greek-vocabulary.epub) (for an e-reader)
 - [CSV](greek-vocabulary.csv) (for speadsheet programs or import into vocabulary software)
 
@@ -23,6 +22,5 @@ This list provides examples of Greek words that are similar to English, and is i
 
 - [PDF](latin-vocabulary.pdf)
 - [RTF](latin-vocabulary.rtf)
-- [Microsoft Word](latin-vocabulary.docx)
 - [EPUB](latin-vocabulary.epub) (for an e-reader)
 - [CSV](latin-vocabulary.csv) (for speadsheet programs or import into vocabulary software)
