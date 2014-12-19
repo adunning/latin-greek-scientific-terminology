@@ -42,9 +42,9 @@ The articles in the online bibliography may be useful for more specific topics: 
 
 ### Format
 
-The assignment must be written in formal prose rather than being point-form. A typical paper usually includes a heading with a citation of the each article used, followed by several paragraphs describing its terminology; but you might also follow a thematic organization. It may be helpful to include an introduction and conclusion if you have observed any particular trends, but it is not mandatory.
+The assignment must be written in formal prose rather than being point-form. A typical paper usually includes a heading with a citation of the each article used, followed by several paragraphs describing its terminology; but you might also follow a thematic organization. It may be helpful to include an introduction and conclusion if you have observed any particular trends, but it is not mandatory; one past student, for instance, [used this to good effect in discussing terminology in computer science](../cherenkova/).
 
-As a models for ideal writing style and organization, see @cascarini:2007mandibular or @cooper:2008maxillary. @soutis:2006ancient is also a good example of how to discuss the etymologies of words, though it is more in-depth than what is required here. Unlike these examples, however, please provide a specific citation of the sources used to discuss each word.
+As published models for ideal writing style and organization, see @cascarini:2007mandibular or @cooper:2008maxillary. @soutis:2006ancient is also a good example of how to discuss the etymologies of words, though it is more in-depth than what is required here. Unlike these examples, however, please provide a specific citation of the sources used to discuss each word.
 
 At a minimum, you should always indicate the Greek and/or Latin stems of the word and provide a discussion of the word's usage. Make note of any interesting differences in the meaning between classical/medieval usage of the root words and the modern English definition, indicating where appropriate the historical origin of the word (many Latin words, for instance, only came into modern scientific use in the sixteenth century or later). Ask questions such as:
 
